@@ -63,7 +63,7 @@ def prescale_file(algorithms):
       rows += "        <row>%d" % ii
       for jj in range(n_columns):
         rows += ",1"
-      rows += "/<row>\n"
+      rows += "</row>\n"
   rows = rows.strip('\n')
 
   prescale = {}
