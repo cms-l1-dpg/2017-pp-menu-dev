@@ -98,6 +98,7 @@ if __name__ == '__main__':
   import sys
 
   indicies = set()
+  seeds = set()
   masks = {}
   algorithms = {}
 
@@ -120,8 +121,25 @@ if __name__ == '__main__':
         print 'err> index duplicated ', row
         sys.exit(1)
 
+      name = row['name']
+      if not name.startswith('L1_'):
+        print "err> name not start with L1_ '%s'" % name
+        sys.exit(1)
+
+      length = len(name)
+      if length != len(name.strip()):
+        print "err> name end with whites '%s'" % name
+        sys.exit(1)
+
+      if name in seeds:
+        print "err> name duplicated '%s'" % name
+        sys.exit(1)
+
+      indicies.add(idx)
+      seeds.add(name)
+
       if int(row['mask']) == 1: masks[idx] = 1
-      algorithms[idx] = row['name']
+      algorithms[idx] = name
 
   mask_file(masks)
   prescale_file(algorithms)
