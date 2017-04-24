@@ -3,9 +3,11 @@
 import csv
 import sys
 
+MAX_INDEX = 512
+
+
 class Config:
   def __init__(self):
-    self.MAX_INDEX = 512
     pass
 
 
@@ -32,7 +34,7 @@ def parse(input_file):
         print 'ERROR in %s: index undefined: %s' % (fname, row)
         sys.exit(1)
 
-      if idx < 0 or idx >= config.MAX_INDEX:
+      if idx < 0 or idx >= MAX_INDEX:
         print 'ERROR in %s: index out of range: %s' % (fname, row)
         sys.exit(1)
 
