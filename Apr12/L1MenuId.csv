@@ -183,7 +183,7 @@ id,name,proposed name,mask,xml,comment
 273,L1_HTT280er_QuadJet_70_55_40_35_er2p5,L1_HTT280_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
 274,L1_HTT300er_QuadJet_70_55_40_35_er2p5,L1_HTT300_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
 275,L1_IsoEG30er2p1_Jet34er3p0_dR_Min0p3,L1_IsoEG30er_JetC34_dR_Min0p3,0,x,ttH to bb/ttbar/single-top
-276,L1_IsoEG28er2p1_HTT100er,L1_IsoEG28er2p1_HTT100,0,x,
+276,L1_IsoEG28er2p1_HTT100er,L1_IsoEG28er2p1_HTT100,0,x,ttH to bb/ttbar/single-top
 280,L1_DoubleJet100er2p3_dEta_Max1p6,L1_DoubleJet100Eta2p3_dEtaMax1p6,0,x,Higgs H to bb:
 281,L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6,L1_Mu10Eta2p3_Jet32Eta2p3_dRMax0p4_DoubleJet32Eta2p3_dEtaMax1p6,0,x,Higgs H to bb:
 282,L1_IsoTau40er_ETM100cer,L1_SingleIsoTau40er_ETM100,0,x,tau + MET:
@@ -191,10 +191,10 @@ id,name,proposed name,mask,xml,comment
 284,L1_QuadJet36er3p0_IsoTau52er2p1,L1_QuadJetC36_IsoTau52er,0,x,tau + MET:  monitoring: prescaled
 285,L1_DoubleJet_90_30_DoubleJet30_Mass_Min620,L1_DoubleJet_90_30_Mj30j30_620,0,x,Higgs VBF H to tau tau:
 286,L1_ETM100cer_Jet60_dPhi_Min0p4,L1_ETM100_Jet60_dPhi_Min0p4,0,x,Z(vv)H(bb)
-287,L1_DoubleJet60er3p0_ETM80cer,L1_DoubleJetC60_ETM80,0,x,
+287,L1_DoubleJet60er3p0_ETM80cer,L1_DoubleJetC60_ETM80,0,x,Z(vv)H(bb)
 288,L1_DoubleEG_Iso23_10,,0,x,"HZZ, HWW"
-289,L1_DoubleEG_Iso24_10,,0,x,
-290,L1_TripleEG_Iso20_10_5,,0,x,
+289,L1_DoubleEG_Iso24_10,,0,x,"HZZ, HWW"
+290,L1_TripleEG_Iso20_10_5,,0,x,"HZZ, HWW"
 300,L1_Mu6_HTT240er,L1_Mu6_HTT240,0,x,Susy:
 301,L1_Mu6_HTT250er,L1_Mu6_HTT250,0,x,Susy:
 302,L1_Mu15_HTT100er,L1_Mu15_HTT100,0,x,Susy:
