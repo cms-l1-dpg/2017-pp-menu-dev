@@ -13,11 +13,11 @@ input_file = 'L1MenuId.csv'
 
 
 ##  do not edit below ##
-MAX_INDEX = 512
+import csvtool
 
 def mask_file(masks):
   rows = ""
-  for ii in range(MAX_INDEX):
+  for ii in range(csvtool.MAX_INDEX):
     if ii in masks:
       rows += "        <row>%d,%d</row>\n" % (ii, masks[ii])
     else:
@@ -58,7 +58,7 @@ def prescale_file(algorithms):
   types += "</types>"
 
   rows = ""
-  for ii in range(MAX_INDEX):
+  for ii in range(csvtool.MAX_INDEX):
     if ii in algorithms:
       rows += "        <row>%d" % ii
       for jj in range(n_columns):
@@ -94,7 +94,6 @@ def prescale_file(algorithms):
 
 
 if __name__ == '__main__':
-  import csvtool
   config = csvtool.parse(input_file)
 
   mask_file(config.masks)
