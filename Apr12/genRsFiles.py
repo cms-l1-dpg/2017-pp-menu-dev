@@ -94,54 +94,10 @@ def prescale_file(algorithms):
 
 
 if __name__ == '__main__':
-  import csv
-  import sys
+  import csvtool
+  config = csvtool.parse(input_file)
 
-  indicies = set()
-  seeds = set()
-  masks = {}
-  algorithms = {}
-
-  # parse input file with the format <id>, <name>, ..., <mask>, ...
-  with open(input_file) as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-      idx = None
-      try:
-        idx = int(row['id'])
-      except:
-        print "inf> skipping: ", row
-        continue
-
-      if idx < 0 or idx >= MAX_INDEX:
-        print 'err> index undefined ', row
-        sys.exit(1)
-
-      if idx in indicies:
-        print 'err> index duplicated ', row
-        sys.exit(1)
-
-      name = row['name']
-      if not name.startswith('L1_'):
-        print "err> name not start with L1_ '%s'" % name
-        sys.exit(1)
-
-      length = len(name)
-      if length != len(name.strip()):
-        print "err> name end with whites '%s'" % name
-        sys.exit(1)
-
-      if name in seeds:
-        print "err> name duplicated '%s'" % name
-        sys.exit(1)
-
-      indicies.add(idx)
-      seeds.add(name)
-
-      if int(row['mask']) == 1: masks[idx] = 1
-      algorithms[idx] = name
-
-  mask_file(masks)
-  prescale_file(algorithms)
+  mask_file(config.masks)
+  prescale_file(config.algorithms)
 
 # end
