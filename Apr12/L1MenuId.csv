@@ -179,11 +179,14 @@ id,name,proposed name,mask,xml,comment
 269,L1_Mu23_IsoEG10,,0,x,Top - emu:
 270,L1_Mu5_EG23,,0,x,Top - emu:
 271,L1_Mu5_IsoEG20,,0,x,Top - emu:
-272,L1_HTT250er_QuadJet_70_55_40_35_er2p5,L1_HTT250_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
-273,L1_HTT280er_QuadJet_70_55_40_35_er2p5,L1_HTT280_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
-274,L1_HTT300er_QuadJet_70_55_40_35_er2p5,L1_HTT300_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
-275,L1_IsoEG30er2p1_Jet34er3p0_dR_Min0p3,L1_IsoEG30er_JetC34_dR_Min0p3,0,x,ttH to bb/ttbar/single-top
-276,L1_IsoEG28er2p1_HTT100er,L1_IsoEG28er2p1_HTT100,0,x,ttH to bb/ttbar/single-top
+272,L1_Mu7_EG23,,0,x,Top - emu:
+273,L1_Mu7_IsoEG20,,0,x,Top - emu:
+274,L1_Mu7_IsoEG23,,0,x,Top - emu:
+275,L1_HTT250er_QuadJet_70_55_40_35_er2p5,L1_HTT250_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
+276,L1_HTT280er_QuadJet_70_55_40_35_er2p5,L1_HTT280_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
+277,L1_HTT300er_QuadJet_70_55_40_35_er2p5,L1_HTT300_QuadJet_70_55_40_35_etarestr,0,x,Top - hadronic:
+278,L1_IsoEG30er2p1_Jet34er3p0_dR_Min0p3,L1_IsoEG30er_JetC34_dR_Min0p3,0,x,ttH to bb/ttbar/single-top
+279,L1_IsoEG28er2p1_HTT100er,L1_IsoEG28er2p1_HTT100,0,x,ttH to bb/ttbar/single-top
 280,L1_DoubleJet100er2p3_dEta_Max1p6,L1_DoubleJet100Eta2p3_dEtaMax1p6,0,x,Higgs H to bb:
 281,L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6,L1_Mu10Eta2p3_Jet32Eta2p3_dRMax0p4_DoubleJet32Eta2p3_dEtaMax1p6,0,x,Higgs H to bb:
 282,L1_IsoTau40er_ETM100cer,L1_SingleIsoTau40er_ETM100,0,x,tau + MET:
