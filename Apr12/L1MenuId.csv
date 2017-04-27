@@ -17,18 +17,18 @@ id,name,proposed name,mask,xml,comment
 15,L1_SingleMu18er2p1,L1_SingleMu18er,0,x,Cosmics:
 16,L1_SingleMu20er2p1,L1_SingleMu20er,1,x,slim: * missing in L1Menu_Collisions2017_dev.xml
 17,L1_SingleMu22er2p1,L1_SingleMu22er,1,x,slim:
-20,L1_DoubleMu0,,0,x,Bphys:
+20,L1_DoubleMu0,,0,x,Cosmics/Circulating:
 21,L1_DoubleMu_11_4,,0,x,Cosmics:
 22,L1_DoubleMu_12_5,,1,x,slim:
 23,L1_DoubleMu_13_6,,1,x,slim:
 24,L1_DoubleMu_15_7,,0,x,Susy:
-25,L1_TripleMu0,,0,x,Bphys:
+25,L1_TripleMu0,,0,x,Circulating:
 26,L1_TripleMu3,,0,x,Susy:
 27,L1_TripleMu_4_4_4,,0,x,Susy:
 28,L1_TripleMu_5_0_0,,1,x,slim:
 29,L1_TripleMu_5_3_3,,0,x,Susy:
 30,L1_TripleMu_5_5_3,,1,x,slim:
-31,L1_QuadMu0,,0,x,Bphys:
+31,L1_QuadMu0,,0,x,Circulating:
 40,L1_SingleEG5,,0,x,Cosmics:
 41,L1_SingleEG10,,0,x,Cosmics:
 42,L1_SingleEG15,,0,x,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -241,25 +241,18 @@ id,name,proposed name,mask,xml,comment
 340,L1_ETMHF90c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF90_Jet90ORDiJet45orTriJet30,0,x,Susy:
 341,L1_ETMHF100c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,0,x,Susy:
 342,L1_ETMHF110c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,0,x,Susy:
-350,L1_DoubleMu0er1p4_SQ_OS_dR_Max1p3,,0,x,Bphys:
-351,L1_DoubleMu0er1p4_SQ_OS_Mass_Max9,L1_DoubleMu0er1p4_SQ_OS_M0to9,0,x,Bphys:
-352,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p3,,0,x,Bphys:
-353,L1_DoubleMu0er1p5_SQ_OS_Mass_Max9,L1_DoubleMu0er1p5_SQ_OS_M0to9,0,x,Bphys:
-354,L1_DoubleMu3er1p6_SQ_OS_dR_Max2p0,,0,x,Bphys:
-355,L1_DoubleMu3er1p6_SQ_OS_Mass_6to20,,0,x,Bphys:
-356,L1_DoubleMu3er1p8_SQ_OS_dR_Max2p0,,0,x,Bphys:
-357,L1_DoubleMu3er1p8_SQ_OS_Mass_6to20,,0,x,Bphys:
-358,L1_DoubleMu4er1p8_SQ_OS_dR_Max2p0,,0,x,Bphys:
-359,L1_DoubleMu4er1p8_SQ_OS_Mass_6to20,,0,x,Bphys:
-360,L1_DoubleMu4p5_SQ_OS_Mass_Max9,L1_DoubleMu4p5_SQ_OS_MASS0to9,0,x,Bphys:
-361,L1_DoubleMu5_SQ_OS_Mass_Max9,L1_DoubleMu5_SQ_OS_MASS0to9,0,x,Bphys:
-362,L1_DoubleMu6_SQ_OS_Mass_Max20,L1_DoubleMu6_SQ_OS_MASS0to20,0,x,Bphys:
-363,L1_DoubleMu_7_5_SQ_OS_Mass_Max20,L1_DoubleMu_SQ_7_5_OS_MASS0to20,0,x,Bphys:
-364,L1_DoubleMu5_OS_EG12,L1_DoubleMu5_OS_EG12,0,x,Bphys:
-365,L1_DoubleMu_9_2_SQ_OS_Mass_Max9,L1_DoubleMu_9_2_SQ_OS_MASS0to9,0,x,Bphys: disabled by default
-366,L1_DoubleMu_7_4_SQ_OS_Mass_Max9,L1_DoubleMu_7_4_SQ_OS_MASS0to9,0,x,Bphys: disabled by default
-367,L1_DoubleMu6_SQ_OS,,0,x,Bphys: disabled by default
-368,L1_TripleMu_5_0_0_DoubleMu_5_0_OS_Mass_Max17,L1_TripleMu_5_0_0_DoubleMu_5_0_OS_Mass0to17,0,x,Bphys:
+350,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4,,0,x,Bphys:
+351,L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18,,0,x,Bphys:
+352,L1_DoubleMu4_SQ_OS_dR_Max1p2,,0,x,Bphys:
+353,L1_DoubleMu5_SQ_OS_Mass7to18,,0,x,Bphys:
+354,L1_DoubleMu_20_2_SQ_Mass_Max20,,0,x,Bphys:
+355,L1_TripleMu_5_0_0_DoubleMu_5_0_OS_Mass_Max17,,0,x,Bphys:
+356,L1_DoubleMu4_OS_EG12,,0,x,Bphys:
+357,L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4,,0,x,Bphys:
+358,L1_DoubleMu4p5_SQ_OS_dR_Max1p2,,0,x,Bphys:
+359,L1_TripleMu_5_3_0_DoubleMu_5_3_OS_Mass_Max17,,0,x,Bphys:
+360,L1_DoubleMu5_OS_EG12,,0,x,Bphys:
+361,L1_DoubleMu6_SQ_OS,,0,x,Bphys: disabled by default
 400,L1_IsolatedBunch,,0,x,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 401,L1_FirstBunchInTrain,,0,x,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 402,L1_FirstBunchAfterTrain,,0,x,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
