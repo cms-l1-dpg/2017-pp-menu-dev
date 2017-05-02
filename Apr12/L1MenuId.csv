@@ -44,7 +44,7 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 50,L1_SingleEG36,,0,x,EG,BASE,slim:
 51,L1_SingleEG38,,0,x,EG,BASE,slim:
 52,L1_SingleEG40,,1,x,EG,BASE,slim:
-53,L1_SingleEG45,,1,,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+53,L1_SingleEG45,,1,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 54,L1_SingleEG34er2p1,L1_SingleEG34er,0,x,EG,BASE,slim:
 55,L1_SingleEG36er2p1,L1_SingleEG36er,0,x,EG,BASE,slim:
 56,L1_SingleEG38er2p1,L1_SingleEG38er,0,x,EG,BASE,slim:
@@ -120,44 +120,44 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 150,L1_QuadJet40er3p0,L1_QuadJetC40,0,x,JET,BASE,Circulating
 151,L1_QuadJet50er3p0,L1_QuadJetC50,0,x,JET,BASE,slim:
 152,L1_QuadJet60er3p0,L1_QuadJetC60,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-160,L1_HTT120er,L1_HTT120,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-161,L1_HTT160er,L1_HTT160,0,x,SUM,BASE,Cosmics:
-162,L1_HTT200er,L1_HTT200,0,x,SUM,BASE,Cosmics:
-163,L1_HTT220er,L1_HTT220,0,x,SUM,BASE,Cosmics:
-164,L1_HTT240er,L1_HTT240,0,x,SUM,BASE,Cosmics:
-165,L1_HTT255er,L1_HTT255,0,x,SUM,BASE,Cosmics:
-166,L1_HTT270er,L1_HTT270,0,x,SUM,BASE,Cosmics:
-167,L1_HTT280er,L1_HTT280,0,x,SUM,BASE,Cosmics:
-168,L1_HTT300er,L1_HTT300,0,x,SUM,BASE,"slim: * eta-restricted is the default for 2017, etaMax = 26 (jet eta .lt. 2.5)"
-169,L1_HTT320er,L1_HTT320,0,x,SUM,BASE,Cosmics:
-170,L1_HTT340er,L1_HTT340,0,x,SUM,BASE,slim:
-171,L1_HTT380er,L1_HTT380,1,x,SUM,BASE,slim:
-172,L1_HTT400er,L1_HTT400,1,x,SUM,BASE,Susy:
-173,L1_HTT450er,L1_HTT450,1,x,SUM,BASE,Susy:
-174,L1_HTT500er,L1_HTT500,1,x,SUM,BASE,Susy:
-180,L1_ETM30cer,L1_ETM30,0,x,SUM,BASE,Circulating
-181,L1_ETM40cer,L1_ETM40,0,x,SUM,BASE,Circulating
-182,L1_ETM50cer,L1_ETM50,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-183,L1_ETM60cer,L1_ETM60,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-184,L1_ETM70cer,L1_ETM70,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-185,L1_ETM75cer,L1_ETM75,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-186,L1_ETM80cer,L1_ETM80,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-187,L1_ETM85cer,L1_ETM85,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-188,L1_ETM90cer,L1_ETM90,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-189,L1_ETM95cer,L1_ETM95,0,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-190,L1_ETM100cer,L1_ETM100,0,x,SUM,BASE,"slim: * calibrated, etaMax=27 (|eta| .lt. 2.65)"
-191,L1_ETM105cer,L1_ETM105,1,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-192,L1_ETM110cer,L1_ETM110,1,x,SUM,BASE,slim:
-193,L1_ETM115cer,L1_ETM115,1,x,SUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-194,L1_ETM120cer,L1_ETM120,1,x,SUM,BASE,slim:
-195,L1_ETM150cer,L1_ETM150,1,x,SUM,BASE,Susy:
-200,L1_ETMHF70c,L1_ETMHF70,0,x,SUM,BASE,Susy:
-201,L1_ETMHF80c,L1_ETMHF80,0,x,SUM,BASE,Susy:
-202,L1_ETMHF90c,L1_ETMHF90,0,x,SUM,BASE,Susy:
-203,L1_ETMHF100c,L1_ETMHF100,0,x,SUM,BASE,Susy:
-204,L1_ETMHF110c,L1_ETMHF110,1,x,SUM,BASE,Susy:
-205,L1_ETMHF120c,L1_ETMHF120,1,x,SUM,BASE,Susy:
-206,L1_ETMHF150c,L1_ETMHF150,1,x,SUM,BASE,Susy:
+160,L1_HTT120er,L1_HTT120,0,x,SSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+161,L1_HTT160er,L1_HTT160,0,x,SSUM,BASE,Cosmics:
+162,L1_HTT200er,L1_HTT200,0,x,SSUM,BASE,Cosmics:
+163,L1_HTT220er,L1_HTT220,0,x,SSUM,BASE,Cosmics:
+164,L1_HTT240er,L1_HTT240,0,x,SSUM,BASE,Cosmics:
+165,L1_HTT255er,L1_HTT255,0,x,SSUM,BASE,Cosmics:
+166,L1_HTT270er,L1_HTT270,0,x,SSUM,BASE,Cosmics:
+167,L1_HTT280er,L1_HTT280,0,x,SSUM,BASE,Cosmics:
+168,L1_HTT300er,L1_HTT300,0,x,SSUM,BASE,"slim: * eta-restricted is the default for 2017, etaMax = 26 (jet eta .lt. 2.5)"
+169,L1_HTT320er,L1_HTT320,0,x,SSUM,BASE,Cosmics:
+170,L1_HTT340er,L1_HTT340,0,x,SSUM,BASE,slim:
+171,L1_HTT380er,L1_HTT380,1,x,SSUM,BASE,slim:
+172,L1_HTT400er,L1_HTT400,1,x,SSUM,BASE,Susy:
+173,L1_HTT450er,L1_HTT450,1,x,SSUM,BASE,Susy:
+174,L1_HTT500er,L1_HTT500,1,x,SSUM,BASE,Susy:
+180,L1_ETM30cer,L1_ETM30,0,x,VSUM,BASE,Circulating
+181,L1_ETM40cer,L1_ETM40,0,x,VSUM,BASE,Circulating
+182,L1_ETM50cer,L1_ETM50,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+183,L1_ETM60cer,L1_ETM60,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+184,L1_ETM70cer,L1_ETM70,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+185,L1_ETM75cer,L1_ETM75,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+186,L1_ETM80cer,L1_ETM80,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+187,L1_ETM85cer,L1_ETM85,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+188,L1_ETM90cer,L1_ETM90,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+189,L1_ETM95cer,L1_ETM95,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+190,L1_ETM100cer,L1_ETM100,0,x,VSUM,BASE,"slim: * calibrated, etaMax=27 (|eta| .lt. 2.65)"
+191,L1_ETM105cer,L1_ETM105,1,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+192,L1_ETM110cer,L1_ETM110,1,x,VSUM,BASE,slim:
+193,L1_ETM115cer,L1_ETM115,1,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+194,L1_ETM120cer,L1_ETM120,1,x,VSUM,BASE,slim:
+195,L1_ETM150cer,L1_ETM150,1,x,VSUM,BASE,Susy:
+200,L1_ETMHF70c,L1_ETMHF70,0,x,VSUM,BASE,Susy:
+201,L1_ETMHF80c,L1_ETMHF80,0,x,VSUM,BASE,Susy:
+202,L1_ETMHF90c,L1_ETMHF90,0,x,VSUM,BASE,Susy:
+203,L1_ETMHF100c,L1_ETMHF100,0,x,VSUM,BASE,Susy:
+204,L1_ETMHF110c,L1_ETMHF110,1,x,VSUM,BASE,Susy:
+205,L1_ETMHF120c,L1_ETMHF120,1,x,VSUM,BASE,Susy:
+206,L1_ETMHF150c,L1_ETMHF150,1,x,VSUM,BASE,Susy:
 210,L1_SingleEG2_BptxAND,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 211,L1_SingleJet12_BptxAND,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 212,L1_ETT55_BptxAND,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -170,36 +170,43 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 254,L1_SingleJet43er3p0_NotBptxOR_3BX,L1_SingleJetC43_NotBptxOR_3BX,0,x,PHY,EXO,EXO: PS=1
 255,L1_SingleJet46er3p0_NotBptxOR_3BX,L1_SingleJetC46_NotBptxOR_3BX,0,x,PHY,EXO,EXO: backup
 260,L1_IsoEG24er2p1_Jet26er3p0_dR_Min0p3,L1_IsoEG24er_JetC26_dR_Min0p3,0,x,PHY,TOP,Top:
-261,L1_IsoEG26er2p1_Jet30er3p0_dR_Min0p3,L1_IsoEG26er_JetC30_dR_Min0p3,1,x,PHY,TOP,Top: additional
-262,L1_IsoEG24er2p1_HTT100er,L1_IsoEG24er_HTT100,0,x,PHY,TOP,Top:
-263,L1_IsoEG26er2p1_HTT100er,L1_IsoEG26er_HTT100,1,x,PHY,TOP,Top: additional
-264,L1_IsoEG24er2p1_TripleJet_26er3p0_26_26er3p0,L1_IsoEG24er_TripleJet_C26_26_C26,1,x,PHY,TOP,Top:
-265,L1_Mu18_HTT100er,L1_Mu18_HTT100,1,x,PHY,TOP,Top: additional
-266,L1_Mu18_Jet24er3p0,L1_Mu18_JetC24,0,x,PHY,TOP,Top: additional
-267,L1_Mu20_EG17,,1,x,PHY,TOP,Top - emu:
-268,L1_Mu23_EG10,,1,x,PHY,TOP,Top - emu:
-269,L1_Mu23_IsoEG10,,1,x,PHY,TOP,Top - emu:
-270,L1_Mu5_EG23,,0,x,PHY,TOP,Top - emu:
-271,L1_Mu5_IsoEG20,,0,x,PHY,TOP,Top - emu:
-272,L1_Mu7_EG23,,1,x,PHY,TOP,Top - emu:
-273,L1_Mu7_IsoEG20,,1,x,PHY,TOP,Top - emu:
-274,L1_Mu7_IsoEG23,,1,x,PHY,TOP,Top - emu:
-275,L1_HTT250er_QuadJet_70_55_40_35_er2p5,L1_HTT250_QuadJet_70_55_40_35_etarestr,0,x,PHY,TOP,Top - hadronic:
-276,L1_HTT280er_QuadJet_70_55_40_35_er2p5,L1_HTT280_QuadJet_70_55_40_35_etarestr,1,x,PHY,TOP,Top - hadronic:
-277,L1_HTT300er_QuadJet_70_55_40_35_er2p5,L1_HTT300_QuadJet_70_55_40_35_etarestr,1,x,PHY,TOP,Top - hadronic:
-278,L1_IsoEG30er2p1_Jet34er3p0_dR_Min0p3,L1_IsoEG30er_JetC34_dR_Min0p3,1,x,PHY,TOP,ttH to bb/ttbar/single-top
-279,L1_IsoEG28er2p1_HTT100er,L1_IsoEG28er2p1_HTT100,1,x,PHY,TOP,ttH to bb/ttbar/single-top
+261,L1_IsoEG26er2p1_Jet30er3p0_dR_Min0p3,L1_IsoEG26er_JetC30_dR_Min0p3,0,x,PHY,TOP,Top: additional
+262,L1_IsoEG30er2p1_Jet34er3p0_dR_Min0p3,L1_IsoEG30er_JetC34_dR_Min0p3,1,x,PHY,TOP,ttH to bb/ttbar/single-top
+263,L1_IsoEG24er2p1_HTT100er,L1_IsoEG24er_HTT100,0,x,PHY,TOP,Top:
+264,L1_IsoEG26er2p1_HTT100er,L1_IsoEG26er_HTT100,0,x,PHY,TOP,Top: additional
+265,L1_IsoEG28er2p1_HTT100er,L1_IsoEG28er2p1_HTT100,1,x,PHY,TOP,ttH to bb/ttbar/single-top
+266,L1_IsoEG24er2p1_TripleJet_26er3p0_26_26er3p0,L1_IsoEG24er_TripleJet_C26_26_C26,1,x,PHY,TOP,Top:
+267,L1_Mu18_HTT100er,L1_Mu18_HTT100,1,x,PHY,TOP,Top: additional
+268,L1_Mu18_Jet24er3p0,L1_Mu18_JetC24,0,x,PHY,TOP,Top: additional
+269,L1_Mu20_EG17,,1,x,PHY,TOP,Top - emu:
+270,L1_Mu23_EG10,,1,x,PHY,TOP,Top - emu:
+271,L1_Mu23_IsoEG10,,1,x,PHY,TOP,Top - emu:
+272,L1_Mu5_EG23,,0,x,PHY,TOP,Top - emu:
+273,L1_Mu5_IsoEG20,,0,x,PHY,TOP,Top - emu:
+274,L1_Mu7_EG23,,1,x,PHY,TOP,Top - emu:
+275,L1_Mu7_IsoEG20,,1,x,PHY,TOP,Top - emu:
+276,L1_Mu7_IsoEG23,,1,x,PHY,TOP,Top - emu:
+277,L1_HTT250er_QuadJet_70_55_40_35_er2p5,L1_HTT250_QuadJet_70_55_40_35_etarestr,0,x,PHY,TOP,Top - hadronic:
+278,L1_HTT280er_QuadJet_70_55_40_35_er2p5,L1_HTT280_QuadJet_70_55_40_35_etarestr,1,x,PHY,TOP,Top - hadronic:
+279,L1_HTT300er_QuadJet_70_55_40_35_er2p5,L1_HTT300_QuadJet_70_55_40_35_etarestr,1,x,PHY,TOP,Top - hadronic:
 280,L1_DoubleJet100er2p3_dEta_Max1p6,L1_DoubleJet100Eta2p3_dEtaMax1p6,1,x,PHY,HIG,Higgs H to bb:
-281,L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6,L1_Mu10Eta2p3_Jet32Eta2p3_dRMax0p4_DoubleJet32Eta2p3_dEtaMax1p6,1,x,PHY,HIG,Higgs H to bb:
-282,L1_IsoTau40er_ETM100cer,L1_SingleIsoTau40er_ETM100,1,x,PHY,HIG,tau + MET:
-283,L1_Mu22er2p1_IsoTau40er2p1,L1_SingleMu22er_IsoTau40er,1,x,PHY,HIG,tau + MET:  monitoring: must be unprescaled
-284,L1_QuadJet36er3p0_IsoTau52er2p1,L1_QuadJetC36_IsoTau52er,0,x,PHY,HIG,tau + MET:  monitoring: prescaled
-285,L1_DoubleJet_90_30_DoubleJet30_Mass_Min620,L1_DoubleJet_90_30_Mj30j30_620,0,x,PHY,HIG,Higgs VBF H to tau tau:
+281,L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6,L1_Mu10Eta2p3_Jet32Eta2p3_dRMax0p4_DoubleJet32Eta2p3_dEtaMax1p6,0,x,PHY,HIG,Higgs H to bb:
+282,L1_Mu12er2p3_Jet40er2p3_dR_Max0p4_DoubleJet40er2p3_dEta_Max1p6,,1,x,PHY,HIG,Higgs H to bb: additional
+283,L1_IsoTau40er_ETM100cer,L1_SingleIsoTau40er_ETM100,1,x,PHY,HIG,tau + MET:
+284,L1_Mu22er2p1_IsoTau40er2p1,L1_SingleMu22er_IsoTau40er,1,x,PHY,HIG,tau + MET:  monitoring: must be unprescaled
+285,L1_QuadJet36er3p0_IsoTau52er2p1,L1_QuadJetC36_IsoTau52er,0,x,PHY,HIG,tau + MET:  monitoring: prescaled
 286,L1_ETM100cer_Jet60_dPhi_Min0p4,L1_ETM100_Jet60_dPhi_Min0p4,1,x,PHY,HIG,Z(vv)H(bb)
 287,L1_DoubleJet60er3p0_ETM80cer,L1_DoubleJetC60_ETM80,1,x,PHY,HIG,Z(vv)H(bb)
 288,L1_DoubleEG_Iso23_10,,1,x,PHY,HIG,"HZZ, HWW"
 289,L1_DoubleEG_Iso24_10,,1,x,PHY,HIG,"HZZ, HWW"
 290,L1_TripleEG_Iso20_10_5,,1,x,PHY,HIG,"HZZ, HWW"
+291,L1_DoubleJet_90_30_DoubleJet30_Mass_Min620,L1_DoubleJet_90_30_Mj30j30_620,0,x,PHY,HIG,Higgs VBF H to tau tau:
+292,L1_DoubleJet_100_30_DoubleJet30_Mass_Min620,L1_DoubleJet_100_30_Mj30j30_620,1,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+293,L1_DoubleJet30_Mass_Min400_Mu6,L1_DoubleJet30_Mj30j30_400_Mu6,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+294,L1_DoubleJet30_Mass_Min400_Mu10,L1_DoubleJet30_Mj30j30_400_Mu10,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+295,L1_IsoEG18er2p1_IsoTau24er2p1_dEta_Min0p2,L1_IsoEG18er_IsoTau24er_dEta_Min0p2,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+296,L1_IsoEG20er2p1_IsoTau25er2p1_dEta_Min0p2,L1_IsoEG20er_IsoTau25er_dEta_Min0p2,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+297,L1_IsoEG22er2p1_IsoTau26er2p1_dEta_Min0p2,L1_IsoEG22er_IsoTau26er_dEta_Min0p2,1,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 300,L1_Mu6_HTT240er,L1_Mu6_HTT240,1,x,PHY,SUS,Susy:
 301,L1_Mu6_HTT250er,L1_Mu6_HTT250,1,x,PHY,SUS,Susy:
 302,L1_Mu15_HTT100er,L1_Mu15_HTT100,1,x,PHY,SUS,Susy:
@@ -213,37 +220,41 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 310,L1_DoubleMu3_SQ_ETMHF60c_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF60_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
 311,L1_DoubleMu3_SQ_ETMHF70c_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF70_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
 312,L1_DoubleMu3_SQ_ETMHF80c_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF80_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
-313,L1_DoubleMu3_SQ_HTT100er,L1_DoubleMu3HighQual_HTT100,1,x,PHY,SUS,Susy:
-314,L1_DoubleMu_15_7_SQ,L1_DoubleMuHighQual_15_7,1,x,PHY,SUS,Susy:
-315,L1_DoubleMu_15_7_SQ_Mass_Min4,L1_DoubleMuHighQual_15_7_Mass4,1,x,PHY,SUS,Susy:
-316,L1_TripleMu3_SQ,L1_TripleMu3_HighQual,1,x,PHY,SUS,Susy:
-317,L1_DoubleEG6_HTT240er,L1_DoubleEG6_HTT240,0,x,PHY,SUS,Susy:
-318,L1_DoubleEG6_HTT250er,L1_DoubleEG6_HTT250,0,x,PHY,SUS,Susy:
-319,L1_DoubleEG6_HTT270er,L1_DoubleEG6_HTT270,1,x,PHY,SUS,Susy:
-320,L1_DoubleEG6_HTT300er,L1_DoubleEG6_HTT300,1,x,PHY,SUS,Susy:
-321,L1_ETMHF70c_Jet60_OR_DoubleJet30,L1_ETMHF70_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
-322,L1_ETMHF75c_Jet60_OR_DoubleJet30,L1_ETMHF75_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
-323,L1_ETMHF80c_Jet60_OR_DoubleJet30,L1_ETMHF80_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
-324,L1_ETMHF85c_Jet60_OR_DoubleJet30,L1_ETMHF85_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
-325,L1_ETMHF90c_Jet60_OR_DoubleJet30,L1_ETMHF90_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
-326,L1_ETMHF95c_Jet60_OR_DoubleJet30,L1_ETMHF95_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
-327,L1_ETMHF100c_Jet60_OR_DoubleJet30,L1_ETMHF100_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
-328,L1_ETMHF105c_Jet60_OR_DoubleJet30,L1_ETMHF105_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
-329,L1_ETMHF110c_Jet60_OR_DoubleJet30,L1_ETMHF110_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
-330,L1_ETMHF115c_Jet60_OR_DoubleJet30,L1_ETMHF115_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
-331,L1_ETMHF120c_Jet60_OR_DoubleJet30,L1_ETMHF120_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
-332,L1_ETMHF70c_Jet60_OR_DiJet30woTT28,L1_ETMHF70_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
-333,L1_ETMHF80c_Jet60_OR_DiJet30woTT28,L1_ETMHF80_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
-334,L1_ETMHF90c_Jet60_OR_DiJet30woTT28,L1_ETMHF90_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
-335,L1_ETMHF100c_Jet60_OR_DiJet30woTT28,L1_ETMHF100_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
-336,L1_ETMHF110c_Jet60_OR_DiJet30woTT28,L1_ETMHF110_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
-337,L1_ETMHF120c_Jet60_OR_DiJet30woTT28,L1_ETMHF120_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
-338,L1_ETMHF70c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF70_Jet90ORDiJet45orTriJet30,0,x,PHY,SUS,Susy:
-339,L1_ETMHF80c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF80_Jet90ORDiJet45orTriJet30,0,x,PHY,SUS,Susy:
-340,L1_ETMHF90c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF90_Jet90ORDiJet45orTriJet30,0,x,PHY,SUS,Susy:
-341,L1_ETMHF100c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,1,x,PHY,SUS,Susy:
-342,L1_ETMHF110c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,1,x,PHY,SUS,Susy:
-350,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4,,0,x,PHY,BPH,Bphys:
+313,L1_DoubleMu3_SQ_HTT100er,L1_DoubleMu3HighQual_HTT100,0,x,PHY,SUS,Susy:
+314,L1_DoubleMu3_SQ_HTT200er,,1,x,PHY,SUS,Added by L1DPG
+315,L1_DoubleMu3_SQ_HTT220er,,1,x,PHY,SUS,Added by L1DPG
+316,L1_DoubleMu3_SQ_HTT240er,,1,x,PHY,SUS,Added by L1DPG
+317,L1_DoubleMu_15_7_SQ,L1_DoubleMuHighQual_15_7,1,x,PHY,SUS,Susy:
+318,L1_DoubleMu_15_7_SQ_Mass_Min4,L1_DoubleMuHighQual_15_7_Mass4,1,x,PHY,SUS,Susy:
+319,L1_TripleMu3_SQ,L1_TripleMu3_HighQual,1,x,PHY,SUS,Susy:
+320,L1_DoubleEG6_HTT240er,L1_DoubleEG6_HTT240,0,x,PHY,SUS,Susy:
+321,L1_DoubleEG6_HTT250er,L1_DoubleEG6_HTT250,0,x,PHY,SUS,Susy:
+322,L1_DoubleEG6_HTT270er,L1_DoubleEG6_HTT270,1,x,PHY,SUS,Susy:
+323,L1_DoubleEG6_HTT300er,L1_DoubleEG6_HTT300,1,x,PHY,SUS,Susy:
+324,L1_ETMHF70c_Jet60_OR_DoubleJet30,L1_ETMHF70_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
+325,L1_ETMHF75c_Jet60_OR_DoubleJet30,L1_ETMHF75_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
+326,L1_ETMHF80c_Jet60_OR_DoubleJet30,L1_ETMHF80_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
+327,L1_ETMHF85c_Jet60_OR_DoubleJet30,L1_ETMHF85_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
+328,L1_ETMHF90c_Jet60_OR_DoubleJet30,L1_ETMHF90_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
+329,L1_ETMHF95c_Jet60_OR_DoubleJet30,L1_ETMHF95_Jet60ORDiJet30,0,x,PHY,SUS,Susy:
+330,L1_ETMHF100c_Jet60_OR_DoubleJet30,L1_ETMHF100_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
+331,L1_ETMHF105c_Jet60_OR_DoubleJet30,L1_ETMHF105_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
+332,L1_ETMHF110c_Jet60_OR_DoubleJet30,L1_ETMHF110_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
+333,L1_ETMHF115c_Jet60_OR_DoubleJet30,L1_ETMHF115_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
+334,L1_ETMHF120c_Jet60_OR_DoubleJet30,L1_ETMHF120_Jet60ORDiJet30,1,x,PHY,SUS,Susy:
+335,L1_ETMHF70c_Jet60_OR_DiJet30woTT28,L1_ETMHF70_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
+336,L1_ETMHF80c_Jet60_OR_DiJet30woTT28,L1_ETMHF80_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
+337,L1_ETMHF90c_Jet60_OR_DiJet30woTT28,L1_ETMHF90_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
+338,L1_ETMHF100c_Jet60_OR_DiJet30woTT28,L1_ETMHF100_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
+339,L1_ETMHF110c_Jet60_OR_DiJet30woTT28,L1_ETMHF110_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
+340,L1_ETMHF120c_Jet60_OR_DiJet30woTT28,L1_ETMHF120_Jet60ORDiJet30NoTT28,0,x,PHY,SUS,Susy:
+341,L1_ETMHF70c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF70_Jet90ORDiJet45orTriJet30,0,x,PHY,SUS,Susy:
+342,L1_ETMHF80c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF80_Jet90ORDiJet45orTriJet30,0,x,PHY,SUS,Susy:
+343,L1_ETMHF90c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF90_Jet90ORDiJet45orTriJet30,0,x,PHY,SUS,Susy:
+344,L1_ETMHF100c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,1,x,PHY,SUS,Susy:
+345,L1_ETMHF110c_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,1,x,PHY,SUS,Susy:
+346,L1_DoubleMu7_SQ_EG7,,1,x,PHY,SUS,Added by L1DPG
+350,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4,,1,x,PHY,BPH,Bphys:
 351,L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18,,1,x,PHY,BPH,Bphys:
 352,L1_DoubleMu4_SQ_OS_dR_Max1p2,,1,x,PHY,BPH,Bphys:
 353,L1_DoubleMu5_SQ_OS_Mass7to18,,1,x,PHY,BPH,Bphys:
@@ -255,6 +266,8 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 359,L1_TripleMu_5_3_0_DoubleMu_5_3_OS_Mass_Max17,,1,x,PHY,BPH,Bphys:
 360,L1_DoubleMu5_OS_EG12,,1,x,PHY,BPH,Bphys:
 361,L1_DoubleMu6_SQ_OS,,1,x,PHY,BPH,Bphys: disabled by default
+370,L1_Mu6_DoubleEG17,,1,x,PHY,SMP,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+371,L1_DoubleMu7_EG7,,1,x,PHY,SMP,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 400,L1_IsolatedBunch,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 401,L1_FirstBunchInTrain,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 402,L1_FirstBunchAfterTrain,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -265,42 +278,34 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 407,L1_Mu5_EG20,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 408,L1_Mu5_IsoEG18,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 409,L1_Mu6_DoubleEG10,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-410,L1_Mu6_DoubleEG17,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-411,L1_Mu6_HTT200er,L1_Mu6_HTT200,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-412,L1_Mu12_EG10,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-413,L1_Mu10er2p1_ETM30cer,L1_Mu10er_ETM30,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-414,L1_Mu18er2p1_Tau20er2p1,L1_Mu18er_Tau20er,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-415,L1_Mu8_HTT150er,L1_Mu8_HTT150,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-416,L1_Mu14er2p1_ETM30cer,L1_Mu14er_ETM30,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-417,L1_MU20_EG15,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-418,L1_Mu20_EG10,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-419,L1_Mu18er2p1_IsoTau26er2p1,L1_Mu18er_IsoTau26er,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-420,L1_Mu20_IsoEG6,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-421,L1_Mu20er2p1_IsoTau26er2p1,L1_Mu20er_IsoTau26er,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-422,L1_DoubleMu0er1p4_dEta_Max1p8_OS,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-423,L1_DoubleMu0_ETM40cer,L1_DoubleMu0_ETM40,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-424,L1_DoubleMu0_ETM55cer,L1_DoubleMu0_ETM55,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-425,L1_DoubleMu0_ETM60cer,L1_DoubleMu0_ETM60,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-426,L1_DoubleMu0_ETM65cer,L1_DoubleMu0_ETM65,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-427,L1_DoubleMu0_ETM70cer,L1_DoubleMu0_ETM70,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-428,L1_DoubleMu7_EG7,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-429,L1_DoubleMu_10_0_dEta_Max1p8,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-430,L1_EG25er2p1_HTT125er,L1_EG25er_HTT125,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-431,L1_EG27er2p1_HTT200er,L1_EG27er_HTT200,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-432,L1_IsoEG18er2p1_IsoTau24er2p1_dEta_Min0p2,L1_IsoEG18er_IsoTau24er_dEta_Min0p2,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-433,L1_IsoEG20er2p1_IsoTau25er2p1_dEta_Min0p2,L1_IsoEG20er_IsoTau25er_dEta_Min0p2,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-434,L1_IsoEG22er2p1_IsoTau26er2p1_dEta_Min0p2,L1_IsoEG22er_IsoTau26er_dEta_Min0p2,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-435,L1_DoubleEG6_HTT255er,L1_DoubleEG6_HTT255,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-436,L1_Jet32_DoubleMu_10_0_dPhi_Jet_Mu0_Max0p4_dPhi_Mu_Mu_Min1p0,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-437,L1_Jet32_Mu0_EG10_dPhi_Jet_Mu_Max0p4_dPhi_Mu_EG_Min1p0,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-438,L1_DoubleJet30_Mass_Min400_Mu10,L1_DoubleJet30_Mj30j30_400_Mu10,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-439,L1_DoubleJet30_Mass_Min400_Mu6,L1_DoubleJet30_Mj30j30_400_Mu6,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-440,L1_DoubleJet_100_30_DoubleJet30_Mass_Min620,L1_DoubleJet_100_30_Mj30j30_620,1,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-441,L1_DoubleJet60er3p0_ETM60cer,L1_DoubleJetC60_ETM60,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-442,L1_QuadJet36er3p0_Tau52,L1_QuadJetC36_Tau52,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-443,L1_ETM75cer_Jet60_dPhi_Min0p4,L1_ETM75_Jet60_dPhi_Min0p4,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-444,L1_MinimumBiasHF0_AND_BptxAND,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-445,L1_MinimumBiasHF0_OR_BptxAND,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+410,L1_Mu6_HTT200er,L1_Mu6_HTT200,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+411,L1_Mu12_EG10,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+412,L1_Mu10er2p1_ETM30cer,L1_Mu10er_ETM30,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+413,L1_Mu18er2p1_Tau20er2p1,L1_Mu18er_Tau20er,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+414,L1_Mu8_HTT150er,L1_Mu8_HTT150,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+415,L1_Mu14er2p1_ETM30cer,L1_Mu14er_ETM30,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+416,L1_MU20_EG15,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+417,L1_Mu20_EG10,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+418,L1_Mu18er2p1_IsoTau26er2p1,L1_Mu18er_IsoTau26er,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+419,L1_Mu20_IsoEG6,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+420,L1_Mu20er2p1_IsoTau26er2p1,L1_Mu20er_IsoTau26er,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+421,L1_DoubleMu0er1p4_dEta_Max1p8_OS,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+422,L1_DoubleMu0_ETM40cer,L1_DoubleMu0_ETM40,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+423,L1_DoubleMu0_ETM55cer,L1_DoubleMu0_ETM55,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+424,L1_DoubleMu0_ETM60cer,L1_DoubleMu0_ETM60,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+425,L1_DoubleMu0_ETM65cer,L1_DoubleMu0_ETM65,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+426,L1_DoubleMu0_ETM70cer,L1_DoubleMu0_ETM70,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+427,L1_DoubleMu_10_0_dEta_Max1p8,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+428,L1_EG25er2p1_HTT125er,L1_EG25er_HTT125,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+429,L1_EG27er2p1_HTT200er,L1_EG27er_HTT200,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+430,L1_DoubleEG6_HTT255er,L1_DoubleEG6_HTT255,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+431,L1_Jet32_DoubleMu_10_0_dPhi_Jet_Mu0_Max0p4_dPhi_Mu_Mu_Min1p0,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+432,L1_Jet32_Mu0_EG10_dPhi_Jet_Mu_Max0p4_dPhi_Mu_EG_Min1p0,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+433,L1_DoubleJet60er3p0_ETM60cer,L1_DoubleJetC60_ETM60,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+434,L1_QuadJet36er3p0_Tau52,L1_QuadJetC36_Tau52,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+435,L1_ETM75cer_Jet60_dPhi_Min0p4,L1_ETM75_Jet60_dPhi_Min0p4,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+436,L1_MinimumBiasHF0_AND_BptxAND,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+437,L1_MinimumBiasHF0_OR_BptxAND,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 450,L1_AlwaysTrue,,0,x,,,Cosmics:
 451,L1_BptxPlus,,0,x,,,BRIL: bit33
 452,L1_BptxMinus,,0,x,,,BRIL: bit34
