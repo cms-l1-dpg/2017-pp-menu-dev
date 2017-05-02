@@ -21,6 +21,8 @@ def parse(input_file):
   seeds = set()
   config.masks = {}
   config.algorithms = {}
+  config.POG = {}
+  config.PAG = {}
 
 
   # parse input file with the format <id>, <name>, ..., <mask>, ...
@@ -58,6 +60,8 @@ def parse(input_file):
 
       indicies.add(idx)
       seeds.add(name)
+      config.POG[idx] = row['POG'].strip()
+      config.PAG[idx] = row['PAG'].strip()
 
       if int(row['mask']) == 1: config.masks[idx] = 1
       config.algorithms[idx] = name
