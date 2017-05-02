@@ -18,30 +18,30 @@
         <row>7,0</row>
         <row>8,0</row>
         <row>9,0</row>
-        <row>10,1</row>
+        <row>10,0</row>
         <row>11,1</row>
-        <row>12,0</row>
+        <row>12,1</row>
         <row>13,0</row>
         <row>14,0</row>
         <row>15,0</row>
-        <row>16,1</row>
+        <row>16,0</row>
         <row>17,1</row>
         <row>18,0</row>
         <row>19,0</row>
         <row>20,0</row>
         <row>21,0</row>
-        <row>22,1</row>
+        <row>22,0</row>
         <row>23,1</row>
-        <row>24,0</row>
-        <row>25,0</row>
-        <row>26,0</row>
+        <row>24,1</row>
+        <row>25,1</row>
+        <row>26,1</row>
         <row>27,0</row>
-        <row>28,1</row>
-        <row>29,0</row>
-        <row>30,1</row>
-        <row>31,0</row>
-        <row>32,0</row>
-        <row>33,0</row>
+        <row>28,0</row>
+        <row>29,1</row>
+        <row>30,0</row>
+        <row>31,1</row>
+        <row>32,1</row>
+        <row>33,1</row>
         <row>34,0</row>
         <row>35,0</row>
         <row>36,0</row>
@@ -58,10 +58,10 @@
         <row>47,0</row>
         <row>48,0</row>
         <row>49,0</row>
-        <row>50,1</row>
-        <row>51,1</row>
+        <row>50,0</row>
+        <row>51,0</row>
         <row>52,1</row>
-        <row>53,0</row>
+        <row>53,1</row>
         <row>54,0</row>
         <row>55,0</row>
         <row>56,0</row>
@@ -73,8 +73,8 @@
         <row>62,0</row>
         <row>63,0</row>
         <row>64,0</row>
-        <row>65,1</row>
-        <row>66,1</row>
+        <row>65,0</row>
+        <row>66,0</row>
         <row>67,1</row>
         <row>68,0</row>
         <row>69,0</row>
@@ -83,8 +83,8 @@
         <row>72,0</row>
         <row>73,0</row>
         <row>74,0</row>
-        <row>75,1</row>
-        <row>76,1</row>
+        <row>75,0</row>
+        <row>76,0</row>
         <row>77,1</row>
         <row>78,0</row>
         <row>79,0</row>
@@ -95,12 +95,12 @@
         <row>84,0</row>
         <row>85,0</row>
         <row>86,0</row>
-        <row>87,0</row>
-        <row>88,1</row>
-        <row>89,1</row>
+        <row>87,1</row>
+        <row>88,0</row>
+        <row>89,0</row>
         <row>90,1</row>
         <row>91,0</row>
-        <row>92,0</row>
+        <row>92,1</row>
         <row>93,0</row>
         <row>94,0</row>
         <row>95,0</row>
@@ -110,17 +110,17 @@
         <row>99,0</row>
         <row>100,0</row>
         <row>101,0</row>
-        <row>102,0</row>
+        <row>102,1</row>
         <row>103,0</row>
-        <row>104,0</row>
+        <row>104,1</row>
         <row>105,0</row>
-        <row>106,1</row>
+        <row>106,0</row>
         <row>107,1</row>
-        <row>108,0</row>
+        <row>108,1</row>
         <row>109,1</row>
-        <row>110,0</row>
-        <row>111,0</row>
-        <row>112,0</row>
+        <row>110,1</row>
+        <row>111,1</row>
+        <row>112,1</row>
         <row>113,0</row>
         <row>114,0</row>
         <row>115,0</row>
@@ -139,7 +139,7 @@
         <row>128,0</row>
         <row>129,0</row>
         <row>130,1</row>
-        <row>131,0</row>
+        <row>131,1</row>
         <row>132,0</row>
         <row>133,0</row>
         <row>134,0</row>
@@ -154,13 +154,13 @@
         <row>143,0</row>
         <row>144,0</row>
         <row>145,1</row>
-        <row>146,0</row>
+        <row>146,1</row>
         <row>147,0</row>
         <row>148,0</row>
-        <row>149,0</row>
+        <row>149,1</row>
         <row>150,0</row>
-        <row>151,1</row>
-        <row>152,0</row>
+        <row>151,0</row>
+        <row>152,1</row>
         <row>153,0</row>
         <row>154,0</row>
         <row>155,0</row>
@@ -176,13 +176,13 @@
         <row>165,0</row>
         <row>166,0</row>
         <row>167,0</row>
-        <row>168,1</row>
+        <row>168,0</row>
         <row>169,0</row>
-        <row>170,1</row>
+        <row>170,0</row>
         <row>171,1</row>
-        <row>172,0</row>
-        <row>173,0</row>
-        <row>174,0</row>
+        <row>172,1</row>
+        <row>173,1</row>
+        <row>174,1</row>
         <row>175,0</row>
         <row>176,0</row>
         <row>177,0</row>
@@ -198,12 +198,12 @@
         <row>187,0</row>
         <row>188,0</row>
         <row>189,0</row>
-        <row>190,1</row>
-        <row>191,0</row>
+        <row>190,0</row>
+        <row>191,1</row>
         <row>192,1</row>
-        <row>193,0</row>
+        <row>193,1</row>
         <row>194,1</row>
-        <row>195,0</row>
+        <row>195,1</row>
         <row>196,0</row>
         <row>197,0</row>
         <row>198,0</row>
@@ -212,9 +212,9 @@
         <row>201,0</row>
         <row>202,0</row>
         <row>203,0</row>
-        <row>204,0</row>
-        <row>205,0</row>
-        <row>206,0</row>
+        <row>204,1</row>
+        <row>205,1</row>
+        <row>206,1</row>
         <row>207,0</row>
         <row>208,0</row>
         <row>209,0</row>
@@ -270,79 +270,79 @@
         <row>259,0</row>
         <row>260,0</row>
         <row>261,0</row>
-        <row>262,0</row>
+        <row>262,1</row>
         <row>263,0</row>
         <row>264,0</row>
-        <row>265,0</row>
-        <row>266,0</row>
-        <row>267,0</row>
+        <row>265,1</row>
+        <row>266,1</row>
+        <row>267,1</row>
         <row>268,0</row>
-        <row>269,0</row>
-        <row>270,0</row>
-        <row>271,0</row>
+        <row>269,1</row>
+        <row>270,1</row>
+        <row>271,1</row>
         <row>272,0</row>
         <row>273,0</row>
-        <row>274,0</row>
-        <row>275,0</row>
-        <row>276,0</row>
+        <row>274,1</row>
+        <row>275,1</row>
+        <row>276,1</row>
         <row>277,0</row>
-        <row>278,0</row>
-        <row>279,0</row>
-        <row>280,0</row>
+        <row>278,1</row>
+        <row>279,1</row>
+        <row>280,1</row>
         <row>281,0</row>
-        <row>282,0</row>
-        <row>283,0</row>
-        <row>284,0</row>
+        <row>282,1</row>
+        <row>283,1</row>
+        <row>284,1</row>
         <row>285,0</row>
-        <row>286,0</row>
-        <row>287,0</row>
-        <row>288,0</row>
-        <row>289,0</row>
-        <row>290,0</row>
+        <row>286,1</row>
+        <row>287,1</row>
+        <row>288,1</row>
+        <row>289,1</row>
+        <row>290,1</row>
         <row>291,0</row>
-        <row>292,0</row>
+        <row>292,1</row>
         <row>293,0</row>
         <row>294,0</row>
         <row>295,0</row>
         <row>296,0</row>
-        <row>297,0</row>
+        <row>297,1</row>
         <row>298,0</row>
         <row>299,0</row>
-        <row>300,0</row>
-        <row>301,0</row>
-        <row>302,0</row>
+        <row>300,1</row>
+        <row>301,1</row>
+        <row>302,1</row>
         <row>303,0</row>
         <row>304,0</row>
         <row>305,0</row>
-        <row>306,0</row>
-        <row>307,0</row>
+        <row>306,1</row>
+        <row>307,1</row>
         <row>308,0</row>
-        <row>309,0</row>
-        <row>310,0</row>
-        <row>311,0</row>
-        <row>312,0</row>
+        <row>309,1</row>
+        <row>310,1</row>
+        <row>311,1</row>
+        <row>312,1</row>
         <row>313,0</row>
-        <row>314,0</row>
-        <row>315,0</row>
-        <row>316,0</row>
-        <row>317,0</row>
-        <row>318,0</row>
-        <row>319,0</row>
+        <row>314,1</row>
+        <row>315,1</row>
+        <row>316,1</row>
+        <row>317,1</row>
+        <row>318,1</row>
+        <row>319,1</row>
         <row>320,0</row>
         <row>321,0</row>
-        <row>322,0</row>
-        <row>323,0</row>
+        <row>322,1</row>
+        <row>323,1</row>
         <row>324,0</row>
         <row>325,0</row>
         <row>326,0</row>
         <row>327,0</row>
         <row>328,0</row>
         <row>329,0</row>
-        <row>330,0</row>
-        <row>331,0</row>
-        <row>332,0</row>
-        <row>333,0</row>
-        <row>334,0</row>
+        <row>330,1</row>
+        <row>331,1</row>
+        <row>332,1</row>
+        <row>333,1</row>
+        <row>334,1</row>
         <row>335,0</row>
         <row>336,0</row>
         <row>337,0</row>
@@ -352,24 +352,24 @@
         <row>341,0</row>
         <row>342,0</row>
         <row>343,0</row>
-        <row>344,0</row>
-        <row>345,0</row>
-        <row>346,0</row>
+        <row>344,1</row>
+        <row>345,1</row>
+        <row>346,1</row>
         <row>347,0</row>
         <row>348,0</row>
         <row>349,0</row>
-        <row>350,0</row>
-        <row>351,0</row>
-        <row>352,0</row>
-        <row>353,0</row>
-        <row>354,0</row>
+        <row>350,1</row>
+        <row>351,1</row>
+        <row>352,1</row>
+        <row>353,1</row>
+        <row>354,1</row>
         <row>355,0</row>
-        <row>356,0</row>
-        <row>357,0</row>
-        <row>358,0</row>
-        <row>359,0</row>
-        <row>360,0</row>
-        <row>361,0</row>
+        <row>356,1</row>
+        <row>357,1</row>
+        <row>358,1</row>
+        <row>359,1</row>
+        <row>360,1</row>
+        <row>361,1</row>
         <row>362,0</row>
         <row>363,0</row>
         <row>364,0</row>
@@ -378,8 +378,8 @@
         <row>367,0</row>
         <row>368,0</row>
         <row>369,0</row>
-        <row>370,0</row>
-        <row>371,0</row>
+        <row>370,1</row>
+        <row>371,1</row>
         <row>372,0</row>
         <row>373,0</row>
         <row>374,0</row>
