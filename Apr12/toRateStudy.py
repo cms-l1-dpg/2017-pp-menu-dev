@@ -17,13 +17,14 @@ def menu_file(config):
   header = '''#============================================================================#          
 #-------------------------------     Menu     -------------------------------#          
 #============================================================================#          
-# L1Seed                                                     Bit  Prescale POG     PAG 
+# L1Seed                                                     Bit  Prescale POG    PAG 
 '''
 
   output = file('menu.txt', 'w')
   output.write(header)
   for idx, name in config.algorithms.iteritems():
-    output.write('{:60} {:>3}         {}\n'.format(name, idx, config.masks[idx] if idx in config.masks else 0))
+    mask = config.masks[idx] if idx in config.masks else 0
+    output.write('{:60} {:>3}         {} {:6} {:6}\n'.format(name, idx, mask, config.POG[idx], config.PAG[idx]))
   output.close()
 
   return
