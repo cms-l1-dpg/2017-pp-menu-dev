@@ -32,7 +32,7 @@
         <row>21,0</row>
         <row>22,0</row>
         <row>23,1</row>
-        <row>24,1</row>
+        <row>24,0</row>
         <row>25,1</row>
         <row>26,1</row>
         <row>27,0</row>
@@ -274,7 +274,7 @@
         <row>263,0</row>
         <row>264,0</row>
         <row>265,1</row>
-        <row>266,1</row>
+        <row>266,0</row>
         <row>267,1</row>
         <row>268,0</row>
         <row>269,1</row>
