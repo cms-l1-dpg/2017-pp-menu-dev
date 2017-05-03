@@ -21,7 +21,7 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 21,L1_DoubleMu_11_4,,0,x,MU,BASE,Cosmics:
 22,L1_DoubleMu_12_5,,0,x,MU,BASE,slim:
 23,L1_DoubleMu_12_8,,1,x,MU,BASE,
-24,L1_DoubleMu_13_6,,1,x,MU,BASE,slim:
+24,L1_DoubleMu_13_6,,0,x,MU,BASE,slim:
 25,L1_DoubleMu_15_5,,1,x,MU,BASE,
 26,L1_DoubleMu_15_7,,1,x,MU,BASE,Susy:
 27,L1_TripleMu0,,0,x,MU,BASE,Circulating:
@@ -175,7 +175,7 @@ id,name,proposed name,mask,xml,POG,PAG,comment
 263,L1_IsoEG24er2p1_HTT100er,L1_IsoEG24er_HTT100,0,x,PHY,TOP,Top:
 264,L1_IsoEG26er2p1_HTT100er,L1_IsoEG26er_HTT100,0,x,PHY,TOP,Top: additional
 265,L1_IsoEG28er2p1_HTT100er,L1_IsoEG28er2p1_HTT100,1,x,PHY,TOP,ttH to bb/ttbar/single-top
-266,L1_IsoEG24er2p1_TripleJet_26er3p0_26_26er3p0,L1_IsoEG24er_TripleJet_C26_26_C26,1,x,PHY,TOP,Top:
+266,L1_IsoEG24er2p1_TripleJet_26er3p0_26_26er3p0,L1_IsoEG24er_TripleJet_C26_26_C26,0,x,PHY,TOP,Top:
 267,L1_Mu18_HTT100er,L1_Mu18_HTT100,1,x,PHY,TOP,Top: additional
 268,L1_Mu18_Jet24er3p0,L1_Mu18_JetC24,0,x,PHY,TOP,Top: additional
 269,L1_Mu20_EG17,,1,x,PHY,TOP,Top - emu:
