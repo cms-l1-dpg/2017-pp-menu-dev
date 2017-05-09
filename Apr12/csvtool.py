@@ -11,7 +11,7 @@ class Config:
     pass
 
 
-def parse(input_file, column="mask"):
+def parse(input_file, column="2.0"):
   import inspect
   fname = "%s.%s(%s)" % (__name__, inspect.currentframe().f_code.co_name, input_file)
 
