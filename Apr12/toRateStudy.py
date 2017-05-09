@@ -31,7 +31,14 @@ def menu_file(config):
 
 
 if __name__ == '__main__':
-  config = csvtool.parse(input_file)
+  import argparse
+
+  parser = argparse.ArgumentParser()
+  parser.add_argument("--csv", dest="csv", default=input_file, type=str, action="store", required=False, help="path to the configuration csv file")
+  parser.add_argument("--lumi", dest="mask", default="2.0", type=str, action="store", required=False, help="prescale/mask column identifier")
+
+  options = parser.parse_args()
+  config = csvtool.parse(options.csv, options.mask)
 
   menu_file(config)
 
