@@ -11,7 +11,7 @@ class Config:
     pass
 
 
-def parse(input_file):
+def parse(input_file, column="mask"):
   import inspect
   fname = "%s.%s(%s)" % (__name__, inspect.currentframe().f_code.co_name, input_file)
 
@@ -63,7 +63,7 @@ def parse(input_file):
       config.POG[idx] = row['POG'].strip()
       config.PAG[idx] = row['PAG'].strip()
 
-      if int(row['mask']) == 1: config.masks[idx] = 1
+      if int(row[column]) == 1: config.masks[idx] = 1
       config.algorithms[idx] = name
 
   return config
