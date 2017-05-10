@@ -165,7 +165,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 213,L1_ETT70_BptxAND,,0,0,x,,,Circulating
 214,L1_ETT75_BptxAND,,0,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 250,L1_SingleMuOpen_NotBptxOR,,0,0,x,PHY,EXO,EXO:  needs ~0.3 kHz (prescaled by at least 20)
-251,L1_SingleMuOpen_NotBptxOR_3BX,,0,1,x,PHY,EXO,EXO: PS=1
+251,L1_SingleMuOpen_NotBptxOR_3BX,,0,0,x,PHY,EXO,EXO: PS=1
 252,L1_SingleJet20er3p0_NotBptxOR,L1_SingleJetC20_NotBptxOR,0,0,x,PHY,EXO,EXO: needs ~0.3 kHz (prescaled by at least 400)
 253,L1_SingleJet20er3p0_NotBptxOR_3BX,L1_SingleJetC20_NotBptxOR_3BX,0,0,x,PHY,EXO,"EXO: to be masked and emulated at the HLT, as we did last year"
 254,L1_SingleJet43er3p0_NotBptxOR_3BX,L1_SingleJetC43_NotBptxOR_3BX,0,0,x,PHY,EXO,EXO: PS=1
