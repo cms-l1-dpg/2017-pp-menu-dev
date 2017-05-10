@@ -27,7 +27,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 27,L1_TripleMu0,,0,0,x,MU,BASE,Circulating:
 28,L1_TripleMu3,,0,0,x,MU,BASE,Susy:
 29,L1_TripleMu_4_4_4,,1,1,x,MU,BASE,Susy:
-30,L1_TripleMu_5_0_0,,0,0,x,MU,BASE,slim:
+30,L1_TripleMu_5_0_0,,0,1,x,MU,BASE,slim:
 31,L1_TripleMu_5_3_3,,1,1,x,MU,BASE,Susy:
 32,L1_TripleMu_5_5_3,,1,1,x,MU,BASE,slim:
 33,L1_QuadMu0,,1,1,x,MU,BASE,Circulating:
@@ -41,7 +41,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 47,L1_SingleEG30,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 48,L1_SingleEG32,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 49,L1_SingleEG34,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-50,L1_SingleEG36,,0,0,x,EG,BASE,slim:
+50,L1_SingleEG36,,0,1,x,EG,BASE,slim:
 51,L1_SingleEG38,,0,1,x,EG,BASE,slim:
 52,L1_SingleEG40,,1,1,x,EG,BASE,slim:
 53,L1_SingleEG45,,1,1,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -53,20 +53,20 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 59,L1_SingleIsoEG22,,0,0,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 60,L1_SingleIsoEG24,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 61,L1_SingleIsoEG26,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-62,L1_SingleIsoEG28,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-63,L1_SingleIsoEG30,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-64,L1_SingleIsoEG32,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-65,L1_SingleIsoEG34,,0,0,x,EG,BASE,slim: additional
+62,L1_SingleIsoEG28,,0,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+63,L1_SingleIsoEG30,,0,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+64,L1_SingleIsoEG32,,0,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+65,L1_SingleIsoEG34,,0,1,x,EG,BASE,slim: additional
 66,L1_SingleIsoEG36,,0,1,x,EG,BASE,slim: additional
 67,L1_SingleIsoEG38,,1,1,x,EG,BASE,slim: additional
 68,L1_SingleIsoEG18er2p1,L1_SingleIsoEG18er,0,0,x,EG,BASE,Circulating
 69,L1_SingleIsoEG20er2p1,L1_SingleIsoEG20er,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 70,L1_SingleIsoEG22er2p1,L1_SingleIsoEG22er,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 71,L1_SingleIsoEG24er2p1,L1_SingleIsoEG24er,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-72,L1_SingleIsoEG26er2p1,L1_SingleIsoEG26er,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-73,L1_SingleIsoEG28er2p1,L1_SingleIsoEG28er,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-74,L1_SingleIsoEG30er2p1,L1_SingleIsoEG30er,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-75,L1_SingleIsoEG32er2p1,L1_SingleIsoEG32er,0,0,x,EG,BASE,slim:
+72,L1_SingleIsoEG26er2p1,L1_SingleIsoEG26er,0,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+73,L1_SingleIsoEG28er2p1,L1_SingleIsoEG28er,0,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+74,L1_SingleIsoEG30er2p1,L1_SingleIsoEG30er,0,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+75,L1_SingleIsoEG32er2p1,L1_SingleIsoEG32er,0,1,x,EG,BASE,slim:
 76,L1_SingleIsoEG34er2p1,L1_SingleIsoEG34er,0,1,x,EG,BASE,slim:
 77,L1_SingleIsoEG36er2p1,L1_SingleIsoEG36er,1,1,x,EG,BASE,slim:
 80,L1_DoubleEG_15_10,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -84,11 +84,11 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 92,L1_TripleEG_18_17_8,,1,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 100,L1_SingleTau20,,0,0,x,TAU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-85
 101,L1_SingleTau80er2p1,L1_SingleTau80er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-102,L1_SingleTau100er2p1,L1_SingleTau100er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+102,L1_SingleTau100er2p1,L1_SingleTau100er,0,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 103,L1_SingleTau120er2p1,L1_SingleTau120er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 104,L1_DoubleTau50er2p1,L1_DoubleTau50er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 105,L1_DoubleTau70er2p1,L1_DoubleTau70er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-106,L1_DoubleIsoTau28er2p1,L1_DoubleIsoTau28er,0,0,x,TAU,BASE,Circulating
+106,L1_DoubleIsoTau28er2p1,L1_DoubleIsoTau28er,0,1,x,TAU,BASE,Circulating
 107,L1_DoubleIsoTau30er2p1,L1_DoubleIsoTau30er,0,1,x,TAU,BASE,slim:
 108,L1_DoubleIsoTau32er2p1,L1_DoubleIsoTau32er,1,1,x,TAU,BASE,slim:
 109,L1_DoubleIsoTau33er2p1,L1_DoubleIsoTau33er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -104,19 +104,19 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 125,L1_SingleJet120,,0,0,x,JET,BASE,JetMET POG:
 126,L1_SingleJet140,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 127,L1_SingleJet150,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-128,L1_SingleJet160,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-129,L1_SingleJet170,,0,0,x,JET,BASE,JetMET POG:
+128,L1_SingleJet160,,0,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+129,L1_SingleJet170,,0,1,x,JET,BASE,JetMET POG:
 130,L1_SingleJet180,,1,1,x,JET,BASE,slim:
 131,L1_SingleJet200,,1,1,x,JET,BASE,JetMET POG:
 140,L1_DoubleJet40er3p0,L1_DoubleJetC40,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 141,L1_DoubleJet50er3p0,L1_DoubleJetC50,0,0,x,JET,BASE,Cosmics:
 142,L1_DoubleJet60er3p0,L1_DoubleJetC60,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 143,L1_DoubleJet80er3p0,L1_DoubleJetC80,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-144,L1_DoubleJet100er3p0,L1_DoubleJetC100,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+144,L1_DoubleJet100er3p0,L1_DoubleJetC100,0,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 145,L1_DoubleJet112er3p0,L1_DoubleJetC112,1,1,x,JET,BASE,slim:
 146,L1_DoubleJet120er3p0,L1_DoubleJetC120,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 147,L1_TripleJet_84_68_48_VBF,,0,0,x,JET,BASE,Circulating
-148,L1_TripleJet_88_72_56_VBF,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+148,L1_TripleJet_88_72_56_VBF,,0,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 149,L1_TripleJet_92_76_64_VBF,,1,1,x,JET,BASE,Circulating
 150,L1_QuadJet40er3p0,L1_QuadJetC40,0,0,x,JET,BASE,Circulating
 151,L1_QuadJet50er3p0,L1_QuadJetC50,0,1,x,JET,BASE,slim:
@@ -144,9 +144,9 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 185,L1_ETM75cer,L1_ETM75,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 186,L1_ETM80cer,L1_ETM80,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 187,L1_ETM85cer,L1_ETM85,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-188,L1_ETM90cer,L1_ETM90,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-189,L1_ETM95cer,L1_ETM95,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-190,L1_ETM100cer,L1_ETM100,0,0,x,VSUM,BASE,"slim: * calibrated, etaMax=27 (|eta| .lt. 2.65)"
+188,L1_ETM90cer,L1_ETM90,0,1,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+189,L1_ETM95cer,L1_ETM95,0,1,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+190,L1_ETM100cer,L1_ETM100,0,1,x,VSUM,BASE,"slim: * calibrated, etaMax=27 (|eta| .lt. 2.65)"
 191,L1_ETM105cer,L1_ETM105,1,1,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 192,L1_ETM110cer,L1_ETM110,1,1,x,VSUM,BASE,slim:
 193,L1_ETM115cer,L1_ETM115,1,1,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -155,7 +155,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 200,L1_ETMHF70c,L1_ETMHF70,0,0,x,VSUM,BASE,Susy:
 201,L1_ETMHF80c,L1_ETMHF80,0,0,x,VSUM,BASE,Susy:
 202,L1_ETMHF90c,L1_ETMHF90,0,0,x,VSUM,BASE,Susy:
-203,L1_ETMHF100c,L1_ETMHF100,0,0,x,VSUM,BASE,Susy:
+203,L1_ETMHF100c,L1_ETMHF100,0,1,x,VSUM,BASE,Susy:
 204,L1_ETMHF110c,L1_ETMHF110,1,1,x,VSUM,BASE,Susy:
 205,L1_ETMHF120c,L1_ETMHF120,1,1,x,VSUM,BASE,Susy:
 206,L1_ETMHF150c,L1_ETMHF150,1,1,x,VSUM,BASE,Susy:
