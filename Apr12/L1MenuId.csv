@@ -82,19 +82,20 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 90,L1_DoubleEG_25_14,,1,1,x,EG,BASE,slim:
 91,L1_TripleEG_14_10_8,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 92,L1_TripleEG_18_17_8,,1,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-100,L1_SingleTau80er2p1,L1_SingleTau80er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-101,L1_SingleTau100er2p1,L1_SingleTau100er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-102,L1_SingleTau120er2p1,L1_SingleTau120er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-103,L1_DoubleTau50er2p1,L1_DoubleTau50er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-104,L1_DoubleTau70er2p1,L1_DoubleTau70er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-105,L1_DoubleIsoTau28er2p1,L1_DoubleIsoTau28er,0,0,x,TAU,BASE,Circulating
-106,L1_DoubleIsoTau30er2p1,L1_DoubleIsoTau30er,0,1,x,TAU,BASE,slim:
-107,L1_DoubleIsoTau32er2p1,L1_DoubleIsoTau32er,1,1,x,TAU,BASE,slim:
-108,L1_DoubleIsoTau33er2p1,L1_DoubleIsoTau33er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-109,L1_DoubleIsoTau34er2p1,L1_DoubleIsoTau34er,1,1,x,TAU,BASE,slim:
-110,L1_DoubleIsoTau35er2p1,L1_DoubleIsoTau35er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-111,L1_DoubleIsoTau36er2p1,L1_DoubleIsoTau36er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-112,L1_DoubleIsoTau38er2p1,L1_DoubleIsoTau38er,1,1,x,TAU,BASE,tau
+100,L1_SingleTau20,,0,0,x,TAU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-85
+101,L1_SingleTau80er2p1,L1_SingleTau80er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+102,L1_SingleTau100er2p1,L1_SingleTau100er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+103,L1_SingleTau120er2p1,L1_SingleTau120er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+104,L1_DoubleTau50er2p1,L1_DoubleTau50er,0,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+105,L1_DoubleTau70er2p1,L1_DoubleTau70er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+106,L1_DoubleIsoTau28er2p1,L1_DoubleIsoTau28er,0,0,x,TAU,BASE,Circulating
+107,L1_DoubleIsoTau30er2p1,L1_DoubleIsoTau30er,0,1,x,TAU,BASE,slim:
+108,L1_DoubleIsoTau32er2p1,L1_DoubleIsoTau32er,1,1,x,TAU,BASE,slim:
+109,L1_DoubleIsoTau33er2p1,L1_DoubleIsoTau33er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+110,L1_DoubleIsoTau34er2p1,L1_DoubleIsoTau34er,1,1,x,TAU,BASE,slim:
+111,L1_DoubleIsoTau35er2p1,L1_DoubleIsoTau35er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+112,L1_DoubleIsoTau36er2p1,L1_DoubleIsoTau36er,1,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+113,L1_DoubleIsoTau38er2p1,L1_DoubleIsoTau38er,1,1,x,TAU,BASE,tau
 120,L1_SingleJet16,,0,0,x,JET,BASE,Circulating
 121,L1_SingleJet20,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 122,L1_SingleJet35,,0,0,x,JET,BASE,JetMET POG:
