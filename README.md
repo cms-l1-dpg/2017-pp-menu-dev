@@ -9,13 +9,13 @@ https://indico.cern.ch/event/623817/
 * initial collection of seeds
   * [csv](https://github.com/cms-l1-dpg/2017-pp-menu-dev/blob/version-1/Apr12/L1MenuId.csv)
   * [xml](https://raw.githubusercontent.com/cms-l1-dpg/2017-pp-menu-dev/version-1/Apr12/L1Menu_20170412.xml)
-* second collection of seeds [2017-05-03-tsg]
+* L1Menu_Collisions2017_dev_r2 [2017-05-03-tsg]
   * [csv](https://github.com/cms-l1-dpg/2017-pp-menu-dev/blob/2017-05-03-tsg/Apr12/L1MenuId.csv)
   * [xml](https://raw.githubusercontent.com/cms-l1-dpg/2017-pp-menu-dev/2017-05-03-tsg/Apr12/L1Menu_Collisions2017_dev_r2.xml)
-* third collection of seeds [2017-05-17]
+* L1Menu_Collisions2017_dev_r3 [2017-05-17]
   * [csv](https://github.com/cms-l1-dpg/2017-pp-menu-dev/blob/2017-05-17/Apr12/L1MenuId.csv)
   * [xml](https://raw.githubusercontent.com/cms-l1-dpg/2017-pp-menu-dev/2017-05-17/Apr12/L1Menu_Collisions2017_dev_r3.xml)
-    * updates from 2017-05-03-tsg
+    * updates from L1Menu_Collisions2017_dev_r2 [2017-05-03-tsg]
       * https://its.cern.ch/jira/browse/CMSLITDPG-95
       * https://its.cern.ch/jira/browse/CMSLITDPG-94
       * https://its.cern.ch/jira/browse/CMSLITDPG-87
