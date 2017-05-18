@@ -1,6 +1,7 @@
 #!/bin/env python
 
 import csv
+import collections
 import sys
 
 MAX_INDEX = 512
@@ -11,7 +12,7 @@ class Config:
     pass
 
 
-def parse(input_file, column="2.0"):
+def parse(input_file, columns=["2.0",]):
   import inspect
   fname = "%s.%s(%s)" % (__name__, inspect.currentframe().f_code.co_name, input_file)
 
@@ -23,6 +24,10 @@ def parse(input_file, column="2.0"):
   config.algorithms = {}
   config.POG = {}
   config.PAG = {}
+  config.prescales = collections.OrderedDict()
+  config.ps_columns = columns
+  for x in columns:
+    config.prescales[x] = {}
 
 
   # parse input file with the format <id>, <name>, ..., <mask>, ...
@@ -63,7 +68,13 @@ def parse(input_file, column="2.0"):
       config.POG[idx] = row['POG'].strip()
       config.PAG[idx] = row['PAG'].strip()
 
-      if int(row[column]) > 0: config.masks[idx] = 1
+      # unmask if prescale columns[0] has value > 0
+      if int(row[columns[0]]) > 0: config.masks[idx] = 1
+
+      # fill prescales
+      for x in columns:
+        config.prescales[x][idx] = int(row[x])
+
       config.algorithms[idx] = name
 
   return config

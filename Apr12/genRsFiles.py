@@ -4,8 +4,8 @@
 # @author Takashi Matsushita
 #
 
-# number of prescale columns
-n_columns = 2
+# prescale columns
+ps_columns = ('2.0', '1.45')
 
 # input file
 input_file = 'L1MenuId.csv'
@@ -15,11 +15,11 @@ input_file = 'L1MenuId.csv'
 ##  do not edit below ##
 import csvtool
 
-def mask_file(masks):
+def mask_file(config):
   rows = ""
   for ii in range(csvtool.MAX_INDEX):
-    if ii in masks:
-      rows += "        <row>%d,%d</row>\n" % (ii, masks[ii])
+    if ii in config.algorithms:
+      rows += "        <row>%d,%d</row> <!-- %s -->\n" % (ii, 1, config.algorithms[ii])
     else:
       rows += "        <row>%d,%d</row>\n" % (ii, 0)
   rows = rows.strip('\n')
@@ -48,35 +48,41 @@ def mask_file(masks):
   return
 
 
-def prescale_file(algorithms):
+def prescale_file(config):
   header = "      <columns>algo/prescale-index"
   types = "      <types>uint"
+  comment = "<!-- id[lumi in e34]"
+  n_columns = len(config.prescales)
   for ii in range(n_columns):
     header += ", %d" % ii
     types += ", uint"
+    comment += ", %s[%s]" % (ii, config.ps_columns[ii])
   header += "</columns>"
   types += "</types>"
+  comment += " -->"
 
   rows = ""
   for ii in range(csvtool.MAX_INDEX):
-    if ii in algorithms:
+    if ii in config.algorithms:
       rows += "        <row>%d" % ii
-      for jj in range(n_columns):
-        rows += ",1"
-      rows += "</row>\n"
+      for key in config.prescales:
+        ps = int(config.prescales[key][ii])
+        rows += ",%d" % ps
+      rows += "</row> <!-- %s -->\n" % config.algorithms[ii]
   rows = rows.strip('\n')
 
   prescale = {}
   prescale['header'] = header
   prescale['rows'] = rows
   prescale['types'] = types
+  prescale['comment'] = comment
 
   template = """<?xml version="1.0" encoding="UTF-8"?>
 <run-settings id="uGT">
   <context id="uGtProcessor">
     <param id="index" type="uint">0</param>
     <param id="prescales" type="table">
-%(header)s
+%(header)s %(comment)s
 %(types)s
       <rows>
 %(rows)s
@@ -94,9 +100,9 @@ def prescale_file(algorithms):
 
 
 if __name__ == '__main__':
-  config = csvtool.parse(input_file)
+  config = csvtool.parse(input_file, ps_columns)
 
-  mask_file(config.masks)
-  prescale_file(config.algorithms)
+  mask_file(config)
+  prescale_file(config)
 
 # end
