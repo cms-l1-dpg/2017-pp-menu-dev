@@ -63,7 +63,7 @@ def parse(input_file, column="2.0"):
       config.POG[idx] = row['POG'].strip()
       config.PAG[idx] = row['PAG'].strip()
 
-      if int(row[column]) == 1: config.masks[idx] = 1
+      if int(row[column]) > 0: config.masks[idx] = 1
       config.algorithms[idx] = name
 
   return config
