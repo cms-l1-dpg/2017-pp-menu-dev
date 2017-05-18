@@ -1,4 +1,4 @@
-Collection estimated rates of development menus for 2017 proton collision
+Estimated rates of development menus for 2017 proton collision
 
 https://twiki.cern.ch/twiki/bin/viewauth/CMS/HowToL1TriggerMenu
 
