@@ -317,7 +317,7 @@
         <row>306,0</row>
         <row>307,0</row>
         <row>308,0</row>
-        <row>309,0</row>
+        <row>309,1</row>
         <row>310,0</row>
         <row>311,0</row>
         <row>312,0</row>
@@ -325,7 +325,7 @@
         <row>314,0</row>
         <row>315,1</row>
         <row>316,1</row>
-        <row>317,1</row>
+        <row>317,0</row>
         <row>318,0</row>
         <row>319,0</row>
         <row>320,0</row>
@@ -361,9 +361,9 @@
         <row>350,0</row>
         <row>351,0</row>
         <row>352,0</row>
-        <row>353,0</row>
-        <row>354,0</row>
-        <row>355,0</row>
+        <row>353,1</row>
+        <row>354,1</row>
+        <row>355,1</row>
         <row>356,0</row>
         <row>357,0</row>
         <row>358,0</row>
