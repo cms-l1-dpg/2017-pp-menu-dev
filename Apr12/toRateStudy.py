@@ -4,9 +4,9 @@
 # @author Takashi Matsushita
 #
 
-# input file
+# defaults
 input_file = 'L1MenuId.csv'
-
+ps_column = '2.0'
 
 
 ##  do not edit below ##
@@ -34,11 +34,11 @@ if __name__ == '__main__':
   import argparse
 
   parser = argparse.ArgumentParser()
-  parser.add_argument("--csv", dest="csv", default=input_file, type=str, action="store", required=False, help="path to the configuration csv file")
-  parser.add_argument("--lumi", dest="mask", default="2.0", type=str, action="store", required=False, help="prescale/mask column identifier")
+  parser.add_argument("--csv", dest="csv", default=input_file, type=str, action="store", required=False, help="path to the configuration csv file [default: %s]" % input_file)
+  parser.add_argument("--lumi", dest="mask", default=ps_column, type=str, action="store", required=False, help="prescale/mask column identifier [default: %s]" % ps_column)
 
   options = parser.parse_args()
-  config = csvtool.parse(options.csv, options.mask)
+  config = csvtool.parse(options.csv, [options.mask,])
 
   menu_file(config)
 
