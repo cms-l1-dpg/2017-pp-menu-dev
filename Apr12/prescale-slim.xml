@@ -6,10 +6,10 @@
       <columns>algo/prescale-index, 0, 1</columns> <!-- id[lumi in e34], 0[2.0], 1[1.45] -->
       <types>uint, uint, uint</types>
       <rows>
-        <row>0,0,3</row> <!-- L1_SingleMuCosmics -->
-        <row>1,1,2</row> <!-- L1_SingleMuOpen -->
-        <row>2,2,1</row> <!-- L1_SingleMu3 -->
-        <row>3,3,0</row> <!-- L1_SingleMu5 -->
+        <row>0,0,0</row> <!-- L1_SingleMuCosmics -->
+        <row>1,0,0</row> <!-- L1_SingleMuOpen -->
+        <row>2,0,0</row> <!-- L1_SingleMu3 -->
+        <row>3,0,0</row> <!-- L1_SingleMu5 -->
         <row>4,0,0</row> <!-- L1_SingleMu7 -->
         <row>5,0,0</row> <!-- L1_SingleMu10_LowQ -->
         <row>6,0,0</row> <!-- L1_SingleMu11_LowQ -->
@@ -330,8 +330,8 @@
         <row>436,0,0</row> <!-- L1_MinimumBiasHF0_AND_BptxAND -->
         <row>437,0,0</row> <!-- L1_MinimumBiasHF0_OR_BptxAND -->
         <row>438,0,0</row> <!-- L1_Mu10er2p1_ETM30 -->
-        <row>439,999,777</row> <!-- L1_Mu14er2p1_ETM30 -->
-        <row>450,888,666</row> <!-- L1_AlwaysTrue -->
+        <row>439,0,0</row> <!-- L1_Mu14er2p1_ETM30 -->
+        <row>450,0,0</row> <!-- L1_AlwaysTrue -->
         <row>451,0,0</row> <!-- L1_NotBptxOR -->
         <row>452,0,0</row> <!-- L1_BptxXOR -->
         <row>453,0,0</row> <!-- L1_ZeroBias_copy -->

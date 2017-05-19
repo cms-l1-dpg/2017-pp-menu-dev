@@ -100,7 +100,14 @@ def prescale_file(config):
 
 
 if __name__ == '__main__':
-  config = csvtool.parse(input_file, ps_columns)
+  import argparse
+
+  parser = argparse.ArgumentParser()
+  parser.add_argument("--csv", dest="csv", default=input_file, type=str, action="store", required=False, help="path to the configuration csv file [default: %s]" % input_file)
+  parser.add_argument("--lumi", dest="mask", default=ps_columns, type=str, nargs='+', action="store", required=False, help="prescale/mask column identifier [default: %s]" % ' '.join(ps_columns))
+
+  options = parser.parse_args()
+  config = csvtool.parse(options.csv, options.mask)
 
   mask_file(config)
   prescale_file(config)
