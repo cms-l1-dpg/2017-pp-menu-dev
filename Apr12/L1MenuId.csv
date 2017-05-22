@@ -1,23 +1,23 @@
 id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 0,L1_SingleMuCosmics,,0,0,x,MU,BASE,Cosmics:
-1,L1_SingleMuOpen,,0,0,x,MU,BASE,Cosmics:
-2,L1_SingleMu3,,0,0,x,MU,BASE,Cosmics:
+1,L1_SingleMuOpen,,0,30000,x,MU,BASE,Cosmics:
+2,L1_SingleMu3,,0,16000,x,MU,BASE,Cosmics:
 3,L1_SingleMu5,,0,0,x,MU,BASE,Cosmics:
-4,L1_SingleMu7,,0,0,x,MU,BASE,Cosmics:
-5,L1_SingleMu10_LowQ,,0,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+4,L1_SingleMu7,,0,200,x,MU,BASE,Cosmics:
+5,L1_SingleMu10_LowQ,,0,600,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 6,L1_SingleMu11_LowQ,,0,0,x,MU,BASE,Muon HLT/POG: https://its.cern.ch/jira/browse/CMSLITDPG-67
 7,L1_SingleMu16,,0,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-8,L1_SingleMu18,,0,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+8,L1_SingleMu18,,0,200,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 9,L1_SingleMu20,,0,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 10,L1_SingleMu22,,0,1,x,MU,BASE,slim:
 11,L1_SingleMu25,,1,1,x,MU,BASE,slim:
 12,L1_SingleMu30,,1,1,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 13,L1_SingleMu14er2p1,L1_SingleMu14er,0,0,x,MU,BASE,Cosmics:
-14,L1_SingleMu16er2p1,L1_SingleMu16er,0,0,x,MU,BASE,Cosmics:
+14,L1_SingleMu16er2p1,L1_SingleMu16er,0,200,x,MU,BASE,Cosmics:
 15,L1_SingleMu18er2p1,L1_SingleMu18er,0,0,x,MU,BASE,Cosmics:
 16,L1_SingleMu20er2p1,L1_SingleMu20er,0,1,x,MU,BASE,slim: * missing in L1Menu_Collisions2017_dev.xml
 17,L1_SingleMu22er2p1,L1_SingleMu22er,1,1,x,MU,BASE,slim:
-20,L1_DoubleMu0,,0,0,x,MU,BASE,Cosmics/Circulating:
+20,L1_DoubleMu0,,0,600,x,MU,BASE,Cosmics/Circulating:
 21,L1_DoubleMu_11_4,,0,0,x,MU,BASE,Cosmics:
 22,L1_DoubleMu_12_5,,0,1,x,MU,BASE,slim:
 23,L1_DoubleMu_12_8,,1,1,x,MU,BASE,
@@ -31,12 +31,12 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 31,L1_TripleMu_5_3_3,,1,1,x,MU,BASE,Susy:
 32,L1_TripleMu_5_5_3,,1,1,x,MU,BASE,slim:
 33,L1_QuadMu0,,1,1,x,MU,BASE,Circulating:
-40,L1_SingleEG5,,0,0,x,EG,BASE,Cosmics:
-41,L1_SingleEG10,,0,0,x,EG,BASE,Cosmics:
-42,L1_SingleEG15,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-43,L1_SingleEG18,,0,0,x,EG,BASE,Cosmics:
-44,L1_SingleEG24,,0,0,x,EG,BASE,Cosmics:
-45,L1_SingleEG26,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+40,L1_SingleEG5,,0,80000,x,EG,BASE,Cosmics:
+41,L1_SingleEG10,,0,12000,x,EG,BASE,Cosmics:
+42,L1_SingleEG15,,0,3000,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+43,L1_SingleEG18,,0,8000,x,EG,BASE,Cosmics:
+44,L1_SingleEG24,,0,5000,x,EG,BASE,Cosmics:
+45,L1_SingleEG26,,0,500,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 46,L1_SingleEG28,,0,0,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 47,L1_SingleEG30,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 48,L1_SingleEG32,,0,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -98,10 +98,10 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 113,L1_DoubleIsoTau38er2p1,L1_DoubleIsoTau38er,1,1,x,TAU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync:
 120,L1_SingleJet16,,0,0,x,JET,BASE,Circulating
 121,L1_SingleJet20,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-122,L1_SingleJet35,,0,0,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
-123,L1_SingleJet60,,0,0,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
-124,L1_SingleJet90,,0,0,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
-125,L1_SingleJet120,,0,0,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
+122,L1_SingleJet35,,0,5000,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
+123,L1_SingleJet60,,0,2000,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
+124,L1_SingleJet90,,0,3000,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
+125,L1_SingleJet120,,0,300,x,JET,BASE,JetMET POG: https://its.cern.ch/jira/browse/CMSLITDPG-46
 126,L1_SingleJet140,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 127,L1_SingleJet150,,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 128,L1_SingleJet160,,0,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -121,10 +121,10 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 150,L1_QuadJet40er3p0,L1_QuadJetC40,0,0,x,JET,BASE,Circulating
 151,L1_QuadJet50er3p0,L1_QuadJetC50,0,1,x,JET,BASE,slim:
 152,L1_QuadJet60er3p0,L1_QuadJetC60,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-160,L1_HTT120er,L1_HTT120,0,0,x,SSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-161,L1_HTT160er,L1_HTT160,0,0,x,SSUM,BASE,Cosmics:
+160,L1_HTT120er,L1_HTT120,0,52000,x,SSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+161,L1_HTT160er,L1_HTT160,0,12000,x,SSUM,BASE,Cosmics:
 162,L1_HTT200er,L1_HTT200,0,0,x,SSUM,BASE,Cosmics:
-163,L1_HTT220er,L1_HTT220,0,0,x,SSUM,BASE,Cosmics:
+163,L1_HTT220er,L1_HTT220,0,8000,x,SSUM,BASE,Cosmics:
 164,L1_HTT240er,L1_HTT240,0,0,x,SSUM,BASE,Cosmics:
 165,L1_HTT255er,L1_HTT255,0,0,x,SSUM,BASE,Cosmics:
 166,L1_HTT270er,L1_HTT270,0,0,x,SSUM,BASE,Cosmics:
@@ -139,7 +139,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 180,L1_ETM30,,0,0,x,VSUM,BASE,Circulating
 181,L1_ETM40,,0,0,x,VSUM,BASE,Circulating
 182,L1_ETM50,,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-183,L1_ETM60,,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+183,L1_ETM60,,0,1000,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 184,L1_ETM70,,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 185,L1_ETM75,,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 186,L1_ETM80,,0,0,x,VSUM,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -159,9 +159,9 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 204,L1_ETMHF110,,1,1,x,VSUM,BASE,Susy:
 205,L1_ETMHF120,,1,1,x,VSUM,BASE,Susy:
 206,L1_ETMHF150,,1,1,x,VSUM,BASE,Susy:
-240,L1_SingleMuOpen_NotBptxOR,,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS>=20, rate=300Hz"
+240,L1_SingleMuOpen_NotBptxOR,,0,16,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS>=20, rate=300Hz"
 241,L1_SingleMuOpen_NotBptxOR_3BX,,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
-242,L1_SingleJet20er3p0_NotBptxOR,L1_SingleJetC20_NotBptxOR,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 ,PS>=400, rate=300Hz"
+242,L1_SingleJet20er3p0_NotBptxOR,L1_SingleJetC20_NotBptxOR,0,320,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 ,PS>=400, rate=300Hz"
 243,L1_SingleJet20er3p0_NotBptxOR_3BX,L1_SingleJetC20_NotBptxOR_3BX,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66, PS=0"
 244,L1_SingleJet43er3p0_NotBptxOR_3BX,L1_SingleJetC43_NotBptxOR_3BX,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
 245,L1_SingleJet46er3p0_NotBptxOR_3BX,L1_SingleJetC46_NotBptxOR_3BX,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
@@ -209,10 +209,10 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 295,L1_DoubleEG_Iso23_10,,1,1,x,PHY,HIG,"HZZ, HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf"
 296,L1_DoubleEG_Iso24_10,,1,1,x,PHY,HIG,"HZZ, HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf"
 297,L1_TripleEG_Iso20_10_5,,1,1,x,PHY,HIG,"HZZ, HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf"
-298,L1_DoubleJet_90_30_DoubleJet30_Mass_Min620,L1_DoubleJet_90_30_Mj30j30_620,0,1,x,PHY,HIG,Higgs VBF H to tau tau:
+298,L1_DoubleJet_90_30_DoubleJet30_Mass_Min620,L1_DoubleJet_90_30_Mj30j30_620,0,1000,x,PHY,HIG,Higgs VBF H to tau tau:
 299,L1_DoubleJet_100_30_DoubleJet30_Mass_Min620,L1_DoubleJet_100_30_Mj30j30_620,0,1,x,PHY,HIG,Higgs VBF H to tau tau:
 300,L1_DoubleJet_100_35_DoubleJet35_Mass_Min620,L1_DoubleJet_100_35_Mj35j35_620,1,1,x,PHY,HIG,Higgs VBF H to tau tau: https://its.cern.ch/jira/browse/CMSLITDPG-102
-301,L1_DoubleJet30_Mass_Min400_Mu6,L1_DoubleJet30_Mj30j30_400_Mu6,0,1,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+301,L1_DoubleJet30_Mass_Min400_Mu6,L1_DoubleJet30_Mj30j30_400_Mu6,0,1000,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 302,L1_DoubleJet30_Mass_Min400_Mu10,L1_DoubleJet30_Mj30j30_400_Mu10,0,1,x,PHY,HIG,Higgs VBF H to tau tau: https://its.cern.ch/jira/browse/CMSLITDPG-102
 303,L1_IsoEG18er2p1_IsoTau24er2p1_dEta_Min0p2,L1_IsoEG18er_IsoTau24er_dEta_Min0p2,0,1,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 304,L1_IsoEG20er2p1_IsoTau25er2p1_dEta_Min0p2,L1_IsoEG20er_IsoTau25er_dEta_Min0p2,0,1,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -284,7 +284,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 381,L1_DoubleMu6_SQ_OS,,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78 disabled by default
 390,L1_Mu6_DoubleEG17,,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
 391,L1_DoubleMu7_EG7,,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
-400,L1_IsolatedBunch,,0,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+400,L1_IsolatedBunch,,0,11,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 401,L1_FirstBunchInTrain,,0,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 402,L1_FirstBunchAfterTrain,,0,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 403,L1_Mu5_EG15,,0,0,x,PHY,TOP,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -299,21 +299,21 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 412,L1_EG25er2p1_HTT125er,L1_EG25er_HTT125,0,0,x,PHY,TOP,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 413,L1_EG27er2p1_HTT200er,L1_EG27er_HTT200,0,1,x,PHY,TOP,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 414,L1_DoubleJet60er3p0_ETM60,L1_DoubleJetC60_ETM60,0,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-415,L1_QuadJet36er3p0_Tau52,L1_QuadJetC36_Tau52,0,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+415,L1_QuadJet36er3p0_Tau52,L1_QuadJetC36_Tau52,0,60,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 416,L1_ETM75_Jet60_dPhi_Min0p4,,0,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 417,L1_DoubleMu0_ETM40,,0,0,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 418,L1_DoubleMu0_ETM55,,0,0,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 419,L1_DoubleMu0_ETM60,,0,0,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 420,L1_DoubleMu0_ETM65,,0,0,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 421,L1_DoubleMu0_ETM70,,0,1,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-422,L1_Jet32_DoubleMu_10_0_dPhi_Jet_Mu0_Max0p4_dPhi_Mu_Mu_Min1p0,,0,0,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-423,L1_Jet32_Mu0_EG10_dPhi_Jet_Mu_Max0p4_dPhi_Mu_EG_Min1p0,,0,0,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+422,L1_Jet32_DoubleMu_10_0_dPhi_Jet_Mu0_Max0p4_dPhi_Mu_Mu_Min1p0,,0,100,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+423,L1_Jet32_Mu0_EG10_dPhi_Jet_Mu_Max0p4_dPhi_Mu_EG_Min1p0,,0,190,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 424,L1_DoubleEG6_HTT255er,L1_DoubleEG6_HTT255,0,1,x,PHY,SUS,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 425,L1_DoubleMu0er1p4_dEta_Max1p8_OS,,0,1,x,PHY,BPH,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 426,L1_DoubleMu_10_0_dEta_Max1p8,,0,0,x,PHY,BPH,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 427,L1_Mu6_DoubleEG10,,0,0,x,PHY,SMP,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-428,L1_Mu3_JetC16_dEta_Max0p4_dPhi_Max0p4,,0,0,x,PHY,BTV,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-429,L1_Mu3_JetC60_dEta_Max0p4_dPhi_Max0p4,,0,0,x,PHY,BTV,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+428,L1_Mu3_JetC16_dEta_Max0p4_dPhi_Max0p4,,0,430,x,PHY,BTV,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+429,L1_Mu3_JetC60_dEta_Max0p4_dPhi_Max0p4,,0,20,x,PHY,BTV,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 430,L1_Mu3_JetC120_dEta_Max0p4_dPhi_Max0p4,,0,1,x,PHY,BTV,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 431,L1_SingleEG2_BptxAND,,0,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 432,L1_SingleJet12_BptxAND,,0,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -332,7 +332,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 455,L1_BPTX_BeamGas_Ref2_VME,L1_BRIL_bit001,0,0,x,,,BRIL: bit01
 456,L1_BPTX_BeamGas_B1_VME,L1_BRIL_bit002,0,0,x,,,BRIL: bit02
 457,L1_BPTX_BeamGas_B2_VME,L1_BRIL_bit003,0,0,x,,,BRIL: bit03
-458,L1_ZeroBias,L1_BRIL_bit004,0,0,x,,,BRIL: bit04
+458,L1_ZeroBias,L1_BRIL_bit004,0,15923,x,,,BRIL: bit04
 459,L1_BptxPlus,L1_BRIL_bit005,0,0,x,,,BRIL: bit05
 460,L1_BptxMinus,L1_BRIL_bit006,0,0,x,,,BRIL: bit06
 461,L1_BptxOR,L1_BRIL_bit007,0,0,x,,,BRIL: bit07
@@ -347,7 +347,7 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 470,L1_BPTX_AND_Ref3_VME,L1_BRIL_bit016,0,0,x,,,BRIL: bit16
 471,L1_BPTX_OR_Ref3_VME,L1_BRIL_bit017,0,0,x,,,BRIL: bit17
 472,L1_BPTX_RefAND_VME,L1_BRIL_bit018,0,0,x,,,BRIL: bit18
-473,L1_FirstCollisionInOrbit,L1_BRIL_bit019,0,0,x,,,BRIL: bit19
+473,L1_FirstCollisionInOrbit,L1_BRIL_bit019,0,1097,x,,,BRIL: bit19
 474,L1_BPTX_AND_Ref4_VME,L1_BRIL_bit020,0,0,x,,,BRIL: bit20
 475,L1_BPTX_OR_Ref4_VME,L1_BRIL_bit021,0,0,x,,,BRIL: bit21
 476,L1_LastCollisionInTrain,L1_BRIL_bit022,0,0,x,,,BRIL: bit22
