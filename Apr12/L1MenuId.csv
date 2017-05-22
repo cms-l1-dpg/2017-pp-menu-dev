@@ -62,10 +62,10 @@ id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
 68,L1_SingleIsoEG18er2p1,L1_SingleIsoEG18er,0,,,0,x,EG,BASE,Circulating
 69,L1_SingleIsoEG20er2p1,L1_SingleIsoEG20er,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 70,L1_SingleIsoEG22er2p1,L1_SingleIsoEG22er,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-71,L1_SingleIsoEG24er2p1,L1_SingleIsoEG24er,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-72,L1_SingleIsoEG26er2p1,L1_SingleIsoEG26er,0,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-73,L1_SingleIsoEG28er2p1,L1_SingleIsoEG28er,50,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-74,L1_SingleIsoEG30er2p1,L1_SingleIsoEG30er,50,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+71,L1_SingleIsoEG24er2p1,L1_SingleIsoEG24er,0,,,50,x,EG,BASE,"Top: https://its.cern.ch/jira/browse/CMSLITDPG-89, sync: L1_IsoEG24er2p1_HTT100"
+72,L1_SingleIsoEG26er2p1,L1_SingleIsoEG26er,0,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
+73,L1_SingleIsoEG28er2p1,L1_SingleIsoEG28er,50,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
+74,L1_SingleIsoEG30er2p1,L1_SingleIsoEG30er,50,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
 75,L1_SingleIsoEG32er2p1,L1_SingleIsoEG32er,0,,,1,x,EG,BASE,slim:
 76,L1_SingleIsoEG34er2p1,L1_SingleIsoEG34er,0,,,1,x,EG,BASE,slim:
 77,L1_SingleIsoEG36er2p1,L1_SingleIsoEG36er,1,,,1,x,EG,BASE,slim:
