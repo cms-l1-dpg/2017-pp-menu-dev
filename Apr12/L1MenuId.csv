@@ -358,31 +358,31 @@ id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
 451,L1_NotBptxOR,,0,,,0,x,,,BRIL: NOT bit07
 452,L1_BptxXOR,,0,,,0,x,,,BRIL: (bit05 AND (NOT bit06)) OR (bit06 AND (NOT bit05))
 453,L1_ZeroBias_copy,,0,,,0,x,,,BRIL: bit04 - to be used for BX mask if needed
-454,L1_BPTX_BeamGas_Ref1_VME,L1_BRIL_bit000,0,,,0,x,,,BRIL: bit00
-455,L1_BPTX_BeamGas_Ref2_VME,L1_BRIL_bit001,0,,,0,x,,,BRIL: bit01
-456,L1_BPTX_BeamGas_B1_VME,L1_BRIL_bit002,0,,,0,x,,,BRIL: bit02
-457,L1_BPTX_BeamGas_B2_VME,L1_BRIL_bit003,0,,,0,x,,,BRIL: bit03
-458,L1_ZeroBias,L1_BRIL_bit004,0,,,15923,x,,,BRIL: bit04
-459,L1_BptxPlus,L1_BRIL_bit005,0,,,0,x,,,BRIL: bit05
-460,L1_BptxMinus,L1_BRIL_bit006,0,,,0,x,,,BRIL: bit06
-461,L1_BptxOR,L1_BRIL_bit007,0,,,0,x,,,BRIL: bit07
-462,L1_BPTX_AND_Ref1_VME,L1_BRIL_bit008,0,,,0,x,,,BRIL: bit08
-463,L1_BPTX_B1NotB2_VME,L1_BRIL_bit009,0,,,0,x,,,BRIL: bit09
-464,L1_BPTX_B2NotB1_VME,L1_BRIL_bit010,0,,,0,x,,,BRIL: bit10
-465,L1_BPTX_NotOR_VME,L1_BRIL_bit011,0,,,0,x,,,BRIL: bit11
-466,L1_BPTX_AND_Ref2_NIM,L1_BRIL_bit012,0,,,0,x,,,BRIL: bit12
-467,L1_BPTX_B1NotB2_NIM,L1_BRIL_bit013,0,,,0,x,,,BRIL: bit13
-468,L1_BPTX_B2NotB1_NIM,L1_BRIL_bit014,0,,,0,x,,,BRIL: bit14
-469,L1_BPTX_NotOR_NIM,L1_BRIL_bit015,0,,,0,x,,,BRIL: bit15
-470,L1_BPTX_AND_Ref3_VME,L1_BRIL_bit016,0,,,0,x,,,BRIL: bit16
-471,L1_BPTX_OR_Ref3_VME,L1_BRIL_bit017,0,,,0,x,,,BRIL: bit17
-472,L1_BPTX_RefAND_VME,L1_BRIL_bit018,0,,,0,x,,,BRIL: bit18
-473,L1_FirstCollisionInOrbit,L1_BRIL_bit019,0,,,1097,x,,,BRIL: bit19
-474,L1_BPTX_AND_Ref4_VME,L1_BRIL_bit020,0,,,0,x,,,BRIL: bit20
-475,L1_BPTX_OR_Ref4_VME,L1_BRIL_bit021,0,,,0,x,,,BRIL: bit21
-476,L1_LastCollisionInTrain,L1_BRIL_bit022,0,,,0,x,,,BRIL: bit22
-477,L1_FirstCollisionInTrain,L1_BRIL_bit023,0,,,0,x,,,BRIL: bit23
-478,L1_BPTX_AND_NIM,L1_BRIL_bit032,0,,,0,x,,,BRIL: bit32
-479,L1_BPTX_B1_NIM,L1_BRIL_bit033,0,,,0,x,,,BRIL: bit33
-480,L1_BPTX_B2_NIM,L1_BRIL_bit034,0,,,0,x,,,BRIL: bit34
-481,L1_BPTX_OR_NIM,L1_BRIL_bit035,0,,,0,x,,,BRIL: bit35
+454,L1_BPTX_BeamGas_Ref1_VME,L1_BRIL_bit000,0,,,0,x,,,BRIL: bit00 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+455,L1_BPTX_BeamGas_Ref2_VME,L1_BRIL_bit001,0,,,0,x,,,BRIL: bit01 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+456,L1_BPTX_BeamGas_B1_VME,L1_BRIL_bit002,0,,,0,x,,,BRIL: bit02 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+457,L1_BPTX_BeamGas_B2_VME,L1_BRIL_bit003,0,,,0,x,,,BRIL: bit03 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+458,L1_ZeroBias,L1_BRIL_bit004,0,,,15923,x,,,BRIL: bit04 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+459,L1_BptxPlus,L1_BRIL_bit005,0,,,0,x,,,BRIL: bit05 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+460,L1_BptxMinus,L1_BRIL_bit006,0,,,0,x,,,BRIL: bit06 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+461,L1_BptxOR,L1_BRIL_bit007,0,,,0,x,,,BRIL: bit07 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+462,L1_BPTX_AND_Ref1_VME,L1_BRIL_bit008,0,,,0,x,,,BRIL: bit08 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+463,L1_UnpairedBunchBptxPlus,L1_BRIL_bit009,0,,,0,x,,,BRIL: bit09 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+464,L1_UnpairedBunchBptxMinus,L1_BRIL_bit010,0,,,0,x,,,BRIL: bit10 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+465,L1_BPTX_NotOR_VME,L1_BRIL_bit011,0,,,0,x,,,BRIL: bit11 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+466,L1_BPTX_AND_Ref2_NIM,L1_BRIL_bit012,0,,,0,x,,,BRIL: bit12 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+467,L1_BPTX_B1NotB2_NIM,L1_BRIL_bit013,0,,,0,x,,,BRIL: bit13 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+468,L1_BPTX_B2NotB1_NIM,L1_BRIL_bit014,0,,,0,x,,,BRIL: bit14 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+469,L1_BPTX_NotOR_NIM,L1_BRIL_bit015,0,,,0,x,,,BRIL: bit15 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+470,L1_BPTX_AND_Ref3_VME,L1_BRIL_bit016,0,,,0,x,,,BRIL: bit16 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+471,L1_BPTX_OR_Ref3_VME,L1_BRIL_bit017,0,,,0,x,,,BRIL: bit17 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+472,L1_BPTX_RefAND_VME,L1_BRIL_bit018,0,,,0,x,,,BRIL: bit18 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+473,L1_FirstCollisionInOrbit,L1_BRIL_bit019,0,,,1097,x,,,BRIL: bit19 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+474,L1_BPTX_AND_Ref4_VME,L1_BRIL_bit020,0,,,0,x,,,BRIL: bit20 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+475,L1_BPTX_OR_Ref4_VME,L1_BRIL_bit021,0,,,0,x,,,BRIL: bit21 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+476,L1_LastCollisionInTrain,L1_BRIL_bit022,0,,,0,x,,,BRIL: bit22 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+477,L1_FirstCollisionInTrain,L1_BRIL_bit023,0,,,0,x,,,BRIL: bit23 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+478,L1_BPTX_AND_NIM,L1_BRIL_bit032,0,,,0,x,,,BRIL: bit32 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+479,L1_BPTX_B1_NIM,L1_BRIL_bit033,0,,,0,x,,,BRIL: bit33 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+480,L1_BPTX_B2_NIM,L1_BRIL_bit034,0,,,0,x,,,BRIL: bit34 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+481,L1_BPTX_OR_NIM,L1_BRIL_bit035,0,,,0,x,,,BRIL: bit35 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
