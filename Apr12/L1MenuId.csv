@@ -33,13 +33,15 @@ id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
 34,L1_DoubleMu_13_6,,0,,,1,x,MU,BASE,slim:
 35,L1_DoubleMu_15_5,,1,,,1,x,MU,BASE,
 36,L1_DoubleMu_15_7,,1,,,1,x,MU,BASE,Susy:
-37,L1_TripleMu0,,0,,,0,x,MU,BASE,Circulating:
-38,L1_TripleMu3,,0,,,0,x,MU,BASE,Susy:
-39,L1_TripleMu_4_4_4,,1,,,1,x,MU,BASE,Susy:
-40,L1_TripleMu_5_0_0,,0,,,1,x,MU,BASE,slim:
-41,L1_TripleMu_5_3_3,,1,,,1,x,MU,BASE,Susy:
-42,L1_TripleMu_5_5_3,,1,,,1,x,MU,BASE,slim:
-43,L1_QuadMu0,,1,,,1,x,MU,BASE,Circulating:
+37,L1_DoubleMu18er2p1,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-116
+38,L1_DoubleMu22er2p1,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-116
+39,L1_TripleMu0,,0,,,0,x,MU,BASE,Circulating:
+40,L1_TripleMu3,,0,,,0,x,MU,BASE,Susy:
+41,L1_TripleMu_4_4_4,,1,,,1,x,MU,BASE,Susy:
+42,L1_TripleMu_5_0_0,,0,,,1,x,MU,BASE,slim:
+43,L1_TripleMu_5_3_3,,1,,,1,x,MU,BASE,Susy:
+44,L1_TripleMu_5_5_3,,1,,,1,x,MU,BASE,slim:
+45,L1_QuadMu0,,1,,,1,x,MU,BASE,Circulating:
 50,L1_SingleEG5,,0,,,80000,x,EG,BASE,Cosmics:
 51,L1_SingleEG10,,0,,,12000,x,EG,BASE,Cosmics:
 52,L1_SingleEG15,,0,,,3000,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
@@ -89,8 +91,9 @@ id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
 98,L1_DoubleEG_25_12,,0,,,1,x,EG,BASE,slim:
 99,L1_DoubleEG_25_13,,0,,,1,x,EG,BASE,slim:
 100,L1_DoubleEG_25_14,,1,,,1,x,EG,BASE,slim:
-101,L1_TripleEG_14_10_8,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-102,L1_TripleEG_18_17_8,,1,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+101,L1_DoubleIsoEG22er2p1,,0,,,0,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-116
+102,L1_TripleEG_14_10_8,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+103,L1_TripleEG_18_17_8,,1,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 110,L1_SingleTau20,,0,,,0,x,TAU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-85
 111,L1_SingleTau80er2p1,L1_SingleTau80er,0,,,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 112,L1_SingleTau100er2p1,L1_SingleTau100er,0,,,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
