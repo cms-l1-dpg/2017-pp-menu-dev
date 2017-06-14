@@ -1,31 +1,34 @@
 id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
 0,L1_SingleMuCosmics,,0,,,0,x,MU,BASE,Cosmics:
-1,L1_SingleMuCosmics_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-2,L1_SingleMuCosmics_OMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-3,L1_SingleMuCosmics_EMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-4,L1_SingleMuOpen,,0,,,30000,x,MU,BASE,Cosmics:
-5,L1_SingleMu3,,0,,,16000,x,MU,BASE,Cosmics:
-6,L1_SingleMu5,,0,,,0,x,MU,BASE,Cosmics:
-7,L1_SingleMu7,,0,,,200,x,MU,BASE,Cosmics:
-8,L1_SingleMu10_LowQ,,0,,,600,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-9,L1_SingleMu11_LowQ,,0,,,0,x,MU,BASE,Muon HLT/POG: https://its.cern.ch/jira/browse/CMSLITDPG-67
-10,L1_SingleMu12_LowQ_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-11,L1_SingleMu12_LowQ_OMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-12,L1_SingleMu12_LowQ_EMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-13,L1_SingleMu16,,0,,,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-14,L1_SingleMu18,,0,,,200,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-15,L1_SingleMu20,,0,,,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-16,L1_SingleMu22,,0,,,1,x,MU,BASE,slim:
-17,L1_SingleMu22_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-18,L1_SingleMu22_OMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-19,L1_SingleMu22_EMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
-20,L1_SingleMu25,,1,,,1,x,MU,BASE,slim:
-21,L1_SingleMu30,,1,,,1,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-22,L1_SingleMu14er2p1,L1_SingleMu14er,0,,,0,x,MU,BASE,Cosmics:
-23,L1_SingleMu16er2p1,L1_SingleMu16er,0,,,200,x,MU,BASE,Cosmics:
-24,L1_SingleMu18er2p1,L1_SingleMu18er,0,,,0,x,MU,BASE,Cosmics:
-25,L1_SingleMu20er2p1,L1_SingleMu20er,0,,,1,x,MU,BASE,slim: * missing in L1Menu_Collisions2017_dev.xml
-26,L1_SingleMu22er2p1,L1_SingleMu22er,1,,,1,x,MU,BASE,slim:
+1,L1_SingleMuOpen,,0,,,30000,x,MU,BASE,Cosmics:
+2,L1_SingleMuCosmics_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+3,L1_SingleMuCosmics_OMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+4,L1_SingleMuCosmics_EMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+5,L1_SingleMu0_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+6,L1_SingleMu0_OMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+7,L1_SingleMu0_EMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+8,L1_SingleMu3,,0,,,16000,x,MU,BASE,Cosmics:
+9,L1_SingleMu5,,0,,,0,x,MU,BASE,Cosmics:
+10,L1_SingleMu7,,0,,,200,x,MU,BASE,Cosmics:
+11,L1_SingleMu10_LowQ,,0,,,600,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+12,L1_SingleMu11_LowQ,,0,,,0,x,MU,BASE,Muon HLT/POG: https://its.cern.ch/jira/browse/CMSLITDPG-67
+13,L1_SingleMu12_LowQ_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+14,L1_SingleMu12_LowQ_OMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+15,L1_SingleMu12_LowQ_EMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+16,L1_SingleMu16,,0,,,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+17,L1_SingleMu18,,0,,,200,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+18,L1_SingleMu20,,0,,,0,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+19,L1_SingleMu22,,0,,,1,x,MU,BASE,slim:
+20,L1_SingleMu22_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+21,L1_SingleMu22_OMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+22,L1_SingleMu22_EMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
+23,L1_SingleMu25,,1,,,1,x,MU,BASE,slim:
+24,L1_SingleMu30,,1,,,1,x,MU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+25,L1_SingleMu14er2p1,L1_SingleMu14er,0,,,0,x,MU,BASE,Cosmics:
+26,L1_SingleMu16er2p1,L1_SingleMu16er,0,,,200,x,MU,BASE,Cosmics:
+27,L1_SingleMu18er2p1,L1_SingleMu18er,0,,,0,x,MU,BASE,Cosmics:
+28,L1_SingleMu20er2p1,L1_SingleMu20er,0,,,1,x,MU,BASE,slim: * missing in L1Menu_Collisions2017_dev.xml
+29,L1_SingleMu22er2p1,L1_SingleMu22er,1,,,1,x,MU,BASE,slim:
 30,L1_DoubleMu0,,0,,,600,x,MU,BASE,Cosmics/Circulating:
 31,L1_DoubleMu_11_4,,0,,,0,x,MU,BASE,Cosmics:
 32,L1_DoubleMu_12_5,,0,,,1,x,MU,BASE,slim:
