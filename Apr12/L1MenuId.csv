@@ -124,6 +124,10 @@ id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
 143,L1_SingleJet60_FWD,,0,,,0,x,JET,BASE,SMP/BTV/JME: https://its.cern.ch/jira/browse/CMSLITDPG-99
 144,L1_SingleJet90_FWD,,0,,,0,x,JET,BASE,SMP/BTV/JME: https://its.cern.ch/jira/browse/CMSLITDPG-99
 145,L1_SingleJet120_FWD,,0,,,0,x,JET,BASE,SMP/BTV/JME: https://its.cern.ch/jira/browse/CMSLITDPG-99
+146,L1_SingleJet35_HFp,,0,,,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
+147,L1_SingleJet35_HFm,,0,,,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
+148,L1_SingleJet60_HFp,,0,,,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
+149,L1_SingleJet60_HFm,,0,,,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
 150,L1_DoubleJet40er3p0,L1_DoubleJetC40,0,,,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 151,L1_DoubleJet50er3p0,L1_DoubleJetC50,0,,,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync:
 152,L1_DoubleJet60er3p0,L1_DoubleJetC60,0,,,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
