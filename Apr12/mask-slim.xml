@@ -154,10 +154,10 @@
         <row>143,1</row> <!-- L1_SingleJet60_FWD -->
         <row>144,1</row> <!-- L1_SingleJet90_FWD -->
         <row>145,1</row> <!-- L1_SingleJet120_FWD -->
-        <row>146,0</row>
-        <row>147,0</row>
-        <row>148,0</row>
-        <row>149,0</row>
+        <row>146,1</row> <!-- L1_SingleJet35_HFp -->
+        <row>147,1</row> <!-- L1_SingleJet35_HFm -->
+        <row>148,1</row> <!-- L1_SingleJet60_HFp -->
+        <row>149,1</row> <!-- L1_SingleJet60_HFm -->
         <row>150,1</row> <!-- L1_DoubleJet40er3p0 -->
         <row>151,1</row> <!-- L1_DoubleJet50er3p0 -->
         <row>152,1</row> <!-- L1_DoubleJet60er3p0 -->
