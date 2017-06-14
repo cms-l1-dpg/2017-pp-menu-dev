@@ -7,32 +7,35 @@
       <types>uint, uint, uint</types>
       <rows>
         <row>0,0,0</row> <!-- L1_SingleMuCosmics -->
-        <row>1,0,0</row> <!-- L1_SingleMuCosmics_BMTF -->
-        <row>2,0,0</row> <!-- L1_SingleMuCosmics_OMTF -->
-        <row>3,0,0</row> <!-- L1_SingleMuCosmics_EMTF -->
-        <row>4,0,30000</row> <!-- L1_SingleMuOpen -->
-        <row>5,0,16000</row> <!-- L1_SingleMu3 -->
-        <row>6,0,0</row> <!-- L1_SingleMu5 -->
-        <row>7,0,200</row> <!-- L1_SingleMu7 -->
-        <row>8,0,600</row> <!-- L1_SingleMu10_LowQ -->
-        <row>9,0,0</row> <!-- L1_SingleMu11_LowQ -->
-        <row>10,0,0</row> <!-- L1_SingleMu12_LowQ_BMTF -->
-        <row>11,0,0</row> <!-- L1_SingleMu12_LowQ_OMTF -->
-        <row>12,0,0</row> <!-- L1_SingleMu12_LowQ_EMTF -->
-        <row>13,0,0</row> <!-- L1_SingleMu16 -->
-        <row>14,0,200</row> <!-- L1_SingleMu18 -->
-        <row>15,0,0</row> <!-- L1_SingleMu20 -->
-        <row>16,0,1</row> <!-- L1_SingleMu22 -->
-        <row>17,0,0</row> <!-- L1_SingleMu22_BMTF -->
-        <row>18,0,0</row> <!-- L1_SingleMu22_OMTF -->
-        <row>19,0,0</row> <!-- L1_SingleMu22_EMTF -->
-        <row>20,1,1</row> <!-- L1_SingleMu25 -->
-        <row>21,1,1</row> <!-- L1_SingleMu30 -->
-        <row>22,0,0</row> <!-- L1_SingleMu14er2p1 -->
-        <row>23,0,200</row> <!-- L1_SingleMu16er2p1 -->
-        <row>24,0,0</row> <!-- L1_SingleMu18er2p1 -->
-        <row>25,0,1</row> <!-- L1_SingleMu20er2p1 -->
-        <row>26,1,1</row> <!-- L1_SingleMu22er2p1 -->
+        <row>1,0,30000</row> <!-- L1_SingleMuOpen -->
+        <row>2,0,0</row> <!-- L1_SingleMuCosmics_BMTF -->
+        <row>3,0,0</row> <!-- L1_SingleMuCosmics_OMTF -->
+        <row>4,0,0</row> <!-- L1_SingleMuCosmics_EMTF -->
+        <row>5,0,0</row> <!-- L1_SingleMu0_BMTF -->
+        <row>6,0,0</row> <!-- L1_SingleMu0_OMTF -->
+        <row>7,0,0</row> <!-- L1_SingleMu0_EMTF -->
+        <row>8,0,16000</row> <!-- L1_SingleMu3 -->
+        <row>9,0,0</row> <!-- L1_SingleMu5 -->
+        <row>10,0,200</row> <!-- L1_SingleMu7 -->
+        <row>11,0,600</row> <!-- L1_SingleMu10_LowQ -->
+        <row>12,0,0</row> <!-- L1_SingleMu11_LowQ -->
+        <row>13,0,0</row> <!-- L1_SingleMu12_LowQ_BMTF -->
+        <row>14,0,0</row> <!-- L1_SingleMu12_LowQ_OMTF -->
+        <row>15,0,0</row> <!-- L1_SingleMu12_LowQ_EMTF -->
+        <row>16,0,0</row> <!-- L1_SingleMu16 -->
+        <row>17,0,200</row> <!-- L1_SingleMu18 -->
+        <row>18,0,0</row> <!-- L1_SingleMu20 -->
+        <row>19,0,1</row> <!-- L1_SingleMu22 -->
+        <row>20,0,0</row> <!-- L1_SingleMu22_BMTF -->
+        <row>21,0,0</row> <!-- L1_SingleMu22_OMTF -->
+        <row>22,0,0</row> <!-- L1_SingleMu22_EMTF -->
+        <row>23,1,1</row> <!-- L1_SingleMu25 -->
+        <row>24,1,1</row> <!-- L1_SingleMu30 -->
+        <row>25,0,0</row> <!-- L1_SingleMu14er2p1 -->
+        <row>26,0,200</row> <!-- L1_SingleMu16er2p1 -->
+        <row>27,0,0</row> <!-- L1_SingleMu18er2p1 -->
+        <row>28,0,1</row> <!-- L1_SingleMu20er2p1 -->
+        <row>29,1,1</row> <!-- L1_SingleMu22er2p1 -->
         <row>30,0,600</row> <!-- L1_DoubleMu0 -->
         <row>31,0,0</row> <!-- L1_DoubleMu_11_4 -->
         <row>32,0,1</row> <!-- L1_DoubleMu_12_5 -->
