@@ -3,7 +3,7 @@
   <context id="uGtProcessor">
     <param id="index" type="uint">0</param>
     <param id="prescales" type="table">
-      <columns>algo/prescale-index, 0, 1</columns> <!-- id[lumi in e34], 0[2.0], 1[1.45] -->
+      <columns>algo/prescale-index, 0, 1</columns> <!-- id[lumi in e34], 0[2.0], 1[1.4] -->
       <types>uint, uint, uint</types>
       <rows>
         <row>0,0,0</row> <!-- L1_SingleMuCosmics -->
@@ -311,6 +311,11 @@
         <row>349,1,1</row> <!-- L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30 -->
         <row>350,1,1</row> <!-- L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30 -->
         <row>351,1,1</row> <!-- L1_DoubleMu7_SQ_EG7 -->
+        <row>352,0,0</row> <!-- L1_ETMHF80_HTT60 -->
+        <row>353,0,0</row> <!-- L1_ETMHF90_HTT60 -->
+        <row>354,0,0</row> <!-- L1_ETMHF100_HTT60 -->
+        <row>355,0,0</row> <!-- L1_ETMHF110_HTT60 -->
+        <row>356,0,0</row> <!-- L1_ETMHF120_HTT60 -->
         <row>360,1,1</row> <!-- L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4 -->
         <row>361,1,1</row> <!-- L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18 -->
         <row>362,1,1</row> <!-- L1_DoubleMu4_SQ_OS_dR_Max1p2 -->
