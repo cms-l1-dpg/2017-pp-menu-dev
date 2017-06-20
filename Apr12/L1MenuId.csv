@@ -412,3 +412,24 @@ id,name,proposed name,2.0,1.8,1.6,1.4,xml,POG,PAG,comment
 479,L1_BPTX_B1_NIM,L1_BRIL_bit033,0,,,0,x,,,BRIL: bit33 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
 480,L1_BPTX_B2_NIM,L1_BRIL_bit034,0,,,0,x,,,BRIL: bit34 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
 481,L1_BPTX_OR_NIM,L1_BRIL_bit035,0,,,0,x,,,BRIL: bit35 ref: https://twiki.cern.ch/twiki/bin/view/CMS/AndreyPozdnyakovBPTXCableNames
+490,L1_CDC_3_TOP120_DPHI1p570_4p711,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+491,L1_CDC_3_TOP120_DPHI2p094_4p189,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+492,L1_CDC_3_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+493,L1_CDC_3_TOP_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+494,L1_CDC_3_er1p2_TOP120_DPHI1p570_4p711,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+495,L1_CDC_3_er1p2_TOP120_DPHI2p094_4p189,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+496,L1_CDC_3_er1p2_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+497,L1_CDC_3_er1p6_TOP120_DPHI1p570_4p711,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+498,L1_CDC_3_er1p6_TOP120_DPHI2p094_4p189,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+499,L1_CDC_3_er1p6_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+500,L1_CDC_3_er2p1_TOP120_DPHI1p570_4p711,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+501,L1_CDC_3_er2p1_TOP120_DPHI2p094_4p189,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+502,L1_CDC_3_er2p1_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+503,L1_CDC_SingleMu_3_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+504,L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+505,L1_CDC_SingleMu_3_er1p6_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+506,L1_CDC_SingleMu_3_er2p1_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+507,L1_CDCp1_3_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+508,L1_CDCp1_3_er1p2_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+509,L1_CDCp1_3_er1p6_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
+510,L1_CDCp1_3_er2p1_TOP120_DPHI2p618_3p665,,0,,,0,x,,,https://its.cern.ch/jira/browse/CMSLITDPG-74
