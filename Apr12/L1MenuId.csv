@@ -1,4 +1,4 @@
-id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
+id,name,proposed name,2.0,1.8,1.6,1.4,xml,POG,PAG,comment
 0,L1_SingleMuCosmics,,0,,,0,x,MU,BASE,Cosmics:
 1,L1_SingleMuOpen,,0,,,30000,x,MU,BASE,Cosmics:
 2,L1_SingleMuCosmics_BMTF,,0,,,0,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-113
@@ -304,6 +304,11 @@ id,name,proposed name,2.0,1.8,1.6,1.45,xml,POG,PAG,comment
 349,L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,1,,,1,x,PHY,SUS,Susy:
 350,L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,1,,,1,x,PHY,SUS,Susy:
 351,L1_DoubleMu7_SQ_EG7,,1,,,1,x,PHY,SUS,Added by L1DPG
+352,L1_ETMHF80_HTT60,,0,,,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+353,L1_ETMHF90_HTT60,,0,,,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+354,L1_ETMHF100_HTT60,,0,,,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+355,L1_ETMHF110_HTT60,,0,,,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+356,L1_ETMHF120_HTT60,,0,,,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
 360,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4,,1,,,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
 361,L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18,,1,,,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
 362,L1_DoubleMu4_SQ_OS_dR_Max1p2,,1,,,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
