@@ -419,6 +419,27 @@
         <row>479,0,0</row> <!-- L1_BPTX_B1_NIM -->
         <row>480,0,0</row> <!-- L1_BPTX_B2_NIM -->
         <row>481,0,0</row> <!-- L1_BPTX_OR_NIM -->
+        <row>490,0,0</row> <!-- L1_CDC_3_TOP120_DPHI1p570_4p711 -->
+        <row>491,0,0</row> <!-- L1_CDC_3_TOP120_DPHI2p094_4p189 -->
+        <row>492,0,0</row> <!-- L1_CDC_3_TOP120_DPHI2p618_3p665 -->
+        <row>493,0,0</row> <!-- L1_CDC_3_TOP_DPHI2p618_3p665 -->
+        <row>494,0,0</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI1p570_4p711 -->
+        <row>495,0,0</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI2p094_4p189 -->
+        <row>496,0,0</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI2p618_3p665 -->
+        <row>497,0,0</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI1p570_4p711 -->
+        <row>498,0,0</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI2p094_4p189 -->
+        <row>499,0,0</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI2p618_3p665 -->
+        <row>500,0,0</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI1p570_4p711 -->
+        <row>501,0,0</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI2p094_4p189 -->
+        <row>502,0,0</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI2p618_3p665 -->
+        <row>503,0,0</row> <!-- L1_CDC_SingleMu_3_TOP120_DPHI2p618_3p665 -->
+        <row>504,0,0</row> <!-- L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p665 -->
+        <row>505,0,0</row> <!-- L1_CDC_SingleMu_3_er1p6_TOP120_DPHI2p618_3p665 -->
+        <row>506,0,0</row> <!-- L1_CDC_SingleMu_3_er2p1_TOP120_DPHI2p618_3p665 -->
+        <row>507,0,0</row> <!-- L1_CDCp1_3_TOP120_DPHI2p618_3p665 -->
+        <row>508,0,0</row> <!-- L1_CDCp1_3_er1p2_TOP120_DPHI2p618_3p665 -->
+        <row>509,0,0</row> <!-- L1_CDCp1_3_er1p6_TOP120_DPHI2p618_3p665 -->
+        <row>510,0,0</row> <!-- L1_CDCp1_3_er2p1_TOP120_DPHI2p618_3p665 -->
       </rows>
     </param>
   </context>
