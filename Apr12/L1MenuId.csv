@@ -108,6 +108,10 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 129,L1_SingleJet170,,0,1,x,JET,BASE,JetMET POG:
 130,L1_SingleJet180,,1,1,x,JET,BASE,slim:
 131,L1_SingleJet200,,1,1,x,JET,BASE,JetMET POG:
+132,L1_SingleJet35_HFp,,0,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
+133,L1_SingleJet35_HFm,,0,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
+134,L1_SingleJet60_HFp,,0,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
+135,L1_SingleJet60_HFm,,0,0,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-128
 140,L1_DoubleJet40er3p0,L1_DoubleJetC40,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 141,L1_DoubleJet50er3p0,L1_DoubleJetC50,0,0,x,JET,BASE,Cosmics:
 142,L1_DoubleJet60er3p0,L1_DoubleJetC60,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2

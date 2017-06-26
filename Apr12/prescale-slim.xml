@@ -115,6 +115,10 @@
         <row>129,0,1</row> <!-- L1_SingleJet170 -->
         <row>130,1,1</row> <!-- L1_SingleJet180 -->
         <row>131,1,1</row> <!-- L1_SingleJet200 -->
+        <row>132,0,0</row> <!-- L1_SingleJet35_HFp -->
+        <row>133,0,0</row> <!-- L1_SingleJet35_HFm -->
+        <row>134,0,0</row> <!-- L1_SingleJet60_HFp -->
+        <row>135,0,0</row> <!-- L1_SingleJet60_HFm -->
         <row>140,0,0</row> <!-- L1_DoubleJet40er3p0 -->
         <row>141,0,0</row> <!-- L1_DoubleJet50er3p0 -->
         <row>142,0,0</row> <!-- L1_DoubleJet60er3p0 -->

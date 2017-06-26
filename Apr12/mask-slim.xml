@@ -140,10 +140,10 @@
         <row>129,1</row> <!-- L1_SingleJet170 -->
         <row>130,1</row> <!-- L1_SingleJet180 -->
         <row>131,1</row> <!-- L1_SingleJet200 -->
-        <row>132,0</row>
-        <row>133,0</row>
-        <row>134,0</row>
-        <row>135,0</row>
+        <row>132,1</row> <!-- L1_SingleJet35_HFp -->
+        <row>133,1</row> <!-- L1_SingleJet35_HFm -->
+        <row>134,1</row> <!-- L1_SingleJet60_HFp -->
+        <row>135,1</row> <!-- L1_SingleJet60_HFm -->
         <row>136,0</row>
         <row>137,0</row>
         <row>138,0</row>
