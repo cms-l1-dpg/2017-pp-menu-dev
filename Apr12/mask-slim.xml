@@ -370,11 +370,11 @@
         <row>359,1</row> <!-- L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30 -->
         <row>360,1</row> <!-- L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30 -->
         <row>361,1</row> <!-- L1_DoubleMu7_SQ_EG7 -->
-        <row>362,0</row>
-        <row>363,0</row>
-        <row>364,0</row>
-        <row>365,0</row>
-        <row>366,0</row>
+        <row>362,1</row> <!-- L1_ETMHF80_HTT60 -->
+        <row>363,1</row> <!-- L1_ETMHF90_HTT60 -->
+        <row>364,1</row> <!-- L1_ETMHF100_HTT60 -->
+        <row>365,1</row> <!-- L1_ETMHF110_HTT60 -->
+        <row>366,1</row> <!-- L1_ETMHF120_HTT60 -->
         <row>367,0</row>
         <row>368,0</row>
         <row>369,0</row>

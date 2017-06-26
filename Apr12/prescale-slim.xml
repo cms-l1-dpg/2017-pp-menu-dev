@@ -293,6 +293,11 @@
         <row>359,1,1</row> <!-- L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30 -->
         <row>360,1,1</row> <!-- L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30 -->
         <row>361,1,1</row> <!-- L1_DoubleMu7_SQ_EG7 -->
+        <row>362,0,0</row> <!-- L1_ETMHF80_HTT60 -->
+        <row>363,0,0</row> <!-- L1_ETMHF90_HTT60 -->
+        <row>364,0,0</row> <!-- L1_ETMHF100_HTT60 -->
+        <row>365,0,0</row> <!-- L1_ETMHF110_HTT60 -->
+        <row>366,0,0</row> <!-- L1_ETMHF120_HTT60 -->
         <row>370,1,1</row> <!-- L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4 -->
         <row>371,1,1</row> <!-- L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18 -->
         <row>372,1,1</row> <!-- L1_DoubleMu4_SQ_OS_dR_Max1p2 -->

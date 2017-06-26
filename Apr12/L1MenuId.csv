@@ -286,6 +286,11 @@ id,name,proposed name,2.0,1.45,xml,POG,PAG,comment
 359,L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,1,1,x,PHY,SUS,Susy:
 360,L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,1,1,x,PHY,SUS,Susy:
 361,L1_DoubleMu7_SQ_EG7,,1,1,x,PHY,SUS,Added by L1DPG
+362,L1_ETMHF80_HTT60,,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+363,L1_ETMHF90_HTT60,,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+364,L1_ETMHF100_HTT60,,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+365,L1_ETMHF110_HTT60,,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+366,L1_ETMHF120_HTT60,,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
 370,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4,,1,1,x,PHY,BPH,Bphys:
 371,L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18,,1,1,x,PHY,BPH,Bphys:
 372,L1_DoubleMu4_SQ_OS_dR_Max1p2,,1,1,x,PHY,BPH,Bphys:
