@@ -385,16 +385,21 @@ id,name,proposed name,2.0,1.8,1.6,1.4,xml,POG,PAG,comment
 430,L1_Mu3_JetC120_dEta_Max0p4_dPhi_Max0p4,,0,,,1,x,PHY,BTV,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 431,L1_SingleEG2_BptxAND,,0,,,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 432,L1_SingleJet12_BptxAND,,0,,,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-433,L1_ETT53_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
-434,L1_ETT55_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+433,L1_ETT40_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+434,L1_ETT50_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
 435,L1_ETT60_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
-436,L1_ETT68_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
-437,L1_ETT70_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
-438,L1_ETT75_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
-439,L1_MinimumBiasHF0_AND_BptxAND,,0,,,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-440,L1_MinimumBiasHF0_OR_BptxAND,,0,,,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-441,L1_Mu10er2p1_ETM30,L1_Mu10er_ETM30,0,,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-442,L1_Mu14er2p1_ETM30,L1_Mu14er_ETM30,0,,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+436,L1_ETT70_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+437,L1_ETT75_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+438,L1_ETT80_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+439,L1_ETT85_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+440,L1_ETT90_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+441,L1_ETT95_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+442,L1_ETT100_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+443,L1_ETT110_BptxAND,,0,,,0,x,PHY,HIN,https://its.cern.ch/jira/browse/CMSLITDPG-86
+444,L1_MinimumBiasHF0_AND_BptxAND,,0,,,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+445,L1_MinimumBiasHF0_OR_BptxAND,,0,,,0,x,PHY,HIN,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+446,L1_Mu10er2p1_ETM30,L1_Mu10er_ETM30,0,,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+447,L1_Mu14er2p1_ETM30,L1_Mu14er_ETM30,0,,,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 450,L1_AlwaysTrue,,0,,,0,x,,,Cosmics:
 451,L1_NotBptxOR,,0,,,0,x,,,BRIL: NOT bit07
 452,L1_BptxXOR,,0,,,0,x,,,BRIL: (bit05 AND (NOT bit06)) OR (bit06 AND (NOT bit05))
