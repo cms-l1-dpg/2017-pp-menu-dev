@@ -319,6 +319,7 @@
         <row>359,0,0</row> <!-- L1_ETMHF100_HTT60er -->
         <row>360,0,0</row> <!-- L1_ETMHF110_HTT60er -->
         <row>361,0,0</row> <!-- L1_ETMHF120_HTT60er -->
+        <row>362,13000,8000</row> <!-- L1_Mu3_Jet30er2p5 -->
         <row>365,1,1</row> <!-- L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4 -->
         <row>366,1,1</row> <!-- L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18 -->
         <row>367,1,1</row> <!-- L1_DoubleMu4_SQ_OS_dR_Max1p2 -->
