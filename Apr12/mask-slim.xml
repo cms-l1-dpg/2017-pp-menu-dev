@@ -441,21 +441,21 @@
         <row>430,1</row> <!-- L1_Mu3_JetC120_dEta_Max0p4_dPhi_Max0p4 -->
         <row>431,1</row> <!-- L1_SingleEG2_BptxAND -->
         <row>432,1</row> <!-- L1_SingleJet12_BptxAND -->
-        <row>433,1</row> <!-- L1_ETT53_BptxAND -->
-        <row>434,1</row> <!-- L1_ETT55_BptxAND -->
+        <row>433,1</row> <!-- L1_ETT40_BptxAND -->
+        <row>434,1</row> <!-- L1_ETT50_BptxAND -->
         <row>435,1</row> <!-- L1_ETT60_BptxAND -->
-        <row>436,1</row> <!-- L1_ETT68_BptxAND -->
-        <row>437,1</row> <!-- L1_ETT70_BptxAND -->
-        <row>438,1</row> <!-- L1_ETT75_BptxAND -->
-        <row>439,1</row> <!-- L1_MinimumBiasHF0_AND_BptxAND -->
-        <row>440,1</row> <!-- L1_MinimumBiasHF0_OR_BptxAND -->
-        <row>441,1</row> <!-- L1_Mu10er2p1_ETM30 -->
-        <row>442,1</row> <!-- L1_Mu14er2p1_ETM30 -->
-        <row>443,0</row>
-        <row>444,0</row>
-        <row>445,0</row>
-        <row>446,0</row>
-        <row>447,0</row>
+        <row>436,1</row> <!-- L1_ETT70_BptxAND -->
+        <row>437,1</row> <!-- L1_ETT75_BptxAND -->
+        <row>438,1</row> <!-- L1_ETT80_BptxAND -->
+        <row>439,1</row> <!-- L1_ETT85_BptxAND -->
+        <row>440,1</row> <!-- L1_ETT90_BptxAND -->
+        <row>441,1</row> <!-- L1_ETT95_BptxAND -->
+        <row>442,1</row> <!-- L1_ETT100_BptxAND -->
+        <row>443,1</row> <!-- L1_ETT110_BptxAND -->
+        <row>444,1</row> <!-- L1_MinimumBiasHF0_AND_BptxAND -->
+        <row>445,1</row> <!-- L1_MinimumBiasHF0_OR_BptxAND -->
+        <row>446,1</row> <!-- L1_Mu10er2p1_ETM30 -->
+        <row>447,1</row> <!-- L1_Mu14er2p1_ETM30 -->
         <row>448,0</row>
         <row>449,0</row>
         <row>450,1</row> <!-- L1_AlwaysTrue -->
