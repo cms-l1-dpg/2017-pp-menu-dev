@@ -268,25 +268,26 @@
         <row>282,1000,1000</row> <!-- L1_DoubleJet30_Mass_Min400_Mu6 -->
         <row>283,0,1</row> <!-- L1_DoubleJet30_Mass_Min400_Mu10 -->
         <row>284,0,1</row> <!-- L1_IsoEG18er2p1_IsoTau24er2p1_dR_Min0p3 -->
-        <row>285,0,1</row> <!-- L1_IsoEG20er2p1_IsoTau25er2p1_dR_Min0p3 -->
-        <row>286,1,1</row> <!-- L1_IsoEG22er2p1_IsoTau26er2p1_dR_Min0p3 -->
-        <row>287,1,1</row> <!-- L1_IsoEG24er2p1_IsoTau27er2p1_dR_Min0p3 -->
-        <row>288,0,1</row> <!-- L1_Mu16er2p1_Tau20er2p1 -->
-        <row>289,0,1</row> <!-- L1_Mu16er2p1_Tau24er2p1 -->
-        <row>290,0,1</row> <!-- L1_Mu18er2p1_Tau20er2p1 -->
-        <row>291,1,1</row> <!-- L1_Mu18er2p1_Tau24er2p1 -->
-        <row>292,0,0</row> <!-- L1_Mu22er2p1_Tau50er2p1 -->
-        <row>293,1,1</row> <!-- L1_Mu22er2p1_Tau70er2p1 -->
-        <row>294,0,1</row> <!-- L1_Mu18er2p1_IsoTau26er2p1 -->
-        <row>295,0,1</row> <!-- L1_Mu20er2p1_IsoTau26er2p1 -->
-        <row>296,0,1</row> <!-- L1_Mu22er2p1_IsoTau28er2p1 -->
-        <row>297,0,1</row> <!-- L1_Mu22er2p1_IsoTau30er2p1 -->
-        <row>298,1,1</row> <!-- L1_Mu22er2p1_IsoTau32er2p1 -->
-        <row>299,1,1</row> <!-- L1_Mu22er2p1_IsoTau33er2p1 -->
-        <row>300,1,1</row> <!-- L1_Mu22er2p1_IsoTau34er2p1 -->
-        <row>301,1,1</row> <!-- L1_Mu22er2p1_IsoTau35er2p1 -->
-        <row>302,1,1</row> <!-- L1_Mu22er2p1_IsoTau36er2p1 -->
-        <row>303,1,1</row> <!-- L1_Mu22er2p1_IsoTau38er2p1 -->
+        <row>285,1000,1000</row> <!-- L1_DoubleJet35_rmovlp_IsoTau45_Mass_Min450 -->
+        <row>286,0,1</row> <!-- L1_IsoEG20er2p1_IsoTau25er2p1_dR_Min0p3 -->
+        <row>287,1,1</row> <!-- L1_IsoEG22er2p1_IsoTau26er2p1_dR_Min0p3 -->
+        <row>288,1,1</row> <!-- L1_IsoEG24er2p1_IsoTau27er2p1_dR_Min0p3 -->
+        <row>289,0,1</row> <!-- L1_Mu16er2p1_Tau20er2p1 -->
+        <row>290,0,1</row> <!-- L1_Mu16er2p1_Tau24er2p1 -->
+        <row>291,0,1</row> <!-- L1_Mu18er2p1_Tau20er2p1 -->
+        <row>292,1,1</row> <!-- L1_Mu18er2p1_Tau24er2p1 -->
+        <row>293,0,0</row> <!-- L1_Mu22er2p1_Tau50er2p1 -->
+        <row>294,1,1</row> <!-- L1_Mu22er2p1_Tau70er2p1 -->
+        <row>295,0,1</row> <!-- L1_Mu18er2p1_IsoTau26er2p1 -->
+        <row>296,0,1</row> <!-- L1_Mu20er2p1_IsoTau26er2p1 -->
+        <row>297,0,1</row> <!-- L1_Mu22er2p1_IsoTau28er2p1 -->
+        <row>298,0,1</row> <!-- L1_Mu22er2p1_IsoTau30er2p1 -->
+        <row>299,1,1</row> <!-- L1_Mu22er2p1_IsoTau32er2p1 -->
+        <row>300,1,1</row> <!-- L1_Mu22er2p1_IsoTau33er2p1 -->
+        <row>301,1,1</row> <!-- L1_Mu22er2p1_IsoTau34er2p1 -->
+        <row>302,1,1</row> <!-- L1_Mu22er2p1_IsoTau35er2p1 -->
+        <row>303,1,1</row> <!-- L1_Mu22er2p1_IsoTau36er2p1 -->
+        <row>304,1,1</row> <!-- L1_Mu22er2p1_IsoTau38er2p1 -->
         <row>305,1,1</row> <!-- L1_Mu6_HTT240er -->
         <row>306,1,1</row> <!-- L1_Mu6_HTT250er -->
         <row>307,0,1</row> <!-- L1_Mu15_HTT100er -->
