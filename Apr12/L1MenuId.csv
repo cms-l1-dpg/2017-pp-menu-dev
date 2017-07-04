@@ -58,46 +58,52 @@ id,name,proposed name,2.0,1.8,1.6,1.4,xml,POG,PAG,comment
 60,L1_SingleEG36,,0,,,1,x,EG,BASE,slim:
 61,L1_SingleEG38,,0,,,1,x,EG,BASE,slim:
 62,L1_SingleEG40,,1,,,1,x,EG,BASE,slim:
-63,L1_SingleEG45,,1,,,1,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-64,L1_SingleEG34er2p1,L1_SingleEG34er,0,,,0,x,EG,BASE,slim:
-65,L1_SingleEG36er2p1,L1_SingleEG36er,0,,,0,x,EG,BASE,slim:
-66,L1_SingleEG38er2p1,L1_SingleEG38er,0,,,0,x,EG,BASE,slim:
-67,L1_SingleIsoEG18,,0,,,0,x,EG,BASE,Circulating
-68,L1_SingleIsoEG20,,0,,,0,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-69,L1_SingleIsoEG22,,0,,,0,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-70,L1_SingleIsoEG24,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-71,L1_SingleIsoEG26,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-72,L1_SingleIsoEG28,,0,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-73,L1_SingleIsoEG30,,0,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-74,L1_SingleIsoEG32,,0,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-75,L1_SingleIsoEG34,,0,,,1,x,EG,BASE,slim: additional
-76,L1_SingleIsoEG36,,0,,,1,x,EG,BASE,slim: additional
-77,L1_SingleIsoEG38,,1,,,1,x,EG,BASE,slim: additional
-78,L1_SingleIsoEG18er2p1,L1_SingleIsoEG18er,0,,,0,x,EG,BASE,Circulating
-79,L1_SingleIsoEG20er2p1,L1_SingleIsoEG20er,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-80,L1_SingleIsoEG22er2p1,L1_SingleIsoEG22er,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-81,L1_SingleIsoEG24er2p1,L1_SingleIsoEG24er,0,,,50,x,EG,BASE,"Top: https://its.cern.ch/jira/browse/CMSLITDPG-89, sync: L1_IsoEG24er2p1_HTT100"
-82,L1_SingleIsoEG26er2p1,L1_SingleIsoEG26er,0,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
-83,L1_SingleIsoEG28er2p1,L1_SingleIsoEG28er,50,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
-84,L1_SingleIsoEG30er2p1,L1_SingleIsoEG30er,50,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
-85,L1_SingleIsoEG32er2p1,L1_SingleIsoEG32er,0,,,1,x,EG,BASE,slim:
-86,L1_SingleIsoEG34er2p1,L1_SingleIsoEG34er,0,,,1,x,EG,BASE,slim:
-87,L1_SingleIsoEG36er2p1,L1_SingleIsoEG36er,1,,,1,x,EG,BASE,slim:
-90,L1_DoubleEG_15_10,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-91,L1_DoubleEG_18_17,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-92,L1_DoubleEG_20_18,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-93,L1_DoubleEG_22_10,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-94,L1_DoubleEG_22_12,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-95,L1_DoubleEG_22_15,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-96,L1_DoubleEG_23_10,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-97,L1_DoubleEG_24_17,,1,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-98,L1_DoubleEG_25_12,,0,,,1,x,EG,BASE,slim:
-99,L1_DoubleEG_25_13,,0,,,1,x,EG,BASE,slim:
-100,L1_DoubleEG_25_14,,1,,,1,x,EG,BASE,slim:
-101,L1_DoubleIsoEG22er2p1,,0,,,0,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-116
-102,L1_DoubleIsoEG24er2p1,,0,,,0,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-150
-103,L1_TripleEG_14_10_8,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-104,L1_TripleEG_18_17_8,,1,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+63,L1_SingleEG42,,1,,,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+64,L1_SingleEG45,,1,,,1,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+65,L1_SingleEG50,,1,,,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+66,L1_SingleEG34er2p1,L1_SingleEG34er,0,,,0,x,EG,BASE,slim:
+67,L1_SingleEG36er2p1,L1_SingleEG36er,0,,,0,x,EG,BASE,slim:
+68,L1_SingleEG38er2p1,L1_SingleEG38er,0,,,0,x,EG,BASE,slim:
+69,L1_SingleIsoEG18,,0,,,0,x,EG,BASE,Circulating
+70,L1_SingleIsoEG20,,0,,,0,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+71,L1_SingleIsoEG22,,0,,,0,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+72,L1_SingleIsoEG24,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+73,L1_SingleIsoEG26,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+74,L1_SingleIsoEG28,,0,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+75,L1_SingleIsoEG30,,0,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+76,L1_SingleIsoEG32,,0,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+77,L1_SingleIsoEG34,,0,,,1,x,EG,BASE,slim: additional
+78,L1_SingleIsoEG35,,0,,,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+79,L1_SingleIsoEG36,,0,,,1,x,EG,BASE,slim: additional
+80,L1_SingleIsoEG37,,0,,,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+81,L1_SingleIsoEG38,,1,,,1,x,EG,BASE,slim: additional
+82,L1_SingleIsoEG18er2p1,L1_SingleIsoEG18er,0,,,0,x,EG,BASE,Circulating
+83,L1_SingleIsoEG20er2p1,L1_SingleIsoEG20er,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+84,L1_SingleIsoEG22er2p1,L1_SingleIsoEG22er,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+85,L1_SingleIsoEG24er2p1,L1_SingleIsoEG24er,0,,,50,x,EG,BASE,"Top: https://its.cern.ch/jira/browse/CMSLITDPG-89, sync: L1_IsoEG24er2p1_HTT100"
+86,L1_SingleIsoEG26er2p1,L1_SingleIsoEG26er,0,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
+87,L1_SingleIsoEG28er2p1,L1_SingleIsoEG28er,50,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
+88,L1_SingleIsoEG30er2p1,L1_SingleIsoEG30er,50,50,50,1,x,EG,BASE,Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
+89,L1_SingleIsoEG32er2p1,L1_SingleIsoEG32er,0,,,1,x,EG,BASE,slim:
+90,L1_SingleIsoEG33er2p1,,0,,,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+91,L1_SingleIsoEG34er2p1,L1_SingleIsoEG34er,0,,,1,x,EG,BASE,slim:
+92,L1_SingleIsoEG35er2p1,,0,,,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+93,L1_SingleIsoEG36er2p1,L1_SingleIsoEG36er,1,,,1,x,EG,BASE,slim:
+95,L1_DoubleEG_15_10,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+96,L1_DoubleEG_18_17,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+97,L1_DoubleEG_20_18,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+98,L1_DoubleEG_22_10,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+99,L1_DoubleEG_22_12,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+100,L1_DoubleEG_22_15,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+101,L1_DoubleEG_23_10,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+102,L1_DoubleEG_24_17,,1,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+103,L1_DoubleEG_25_12,,0,,,1,x,EG,BASE,slim:
+104,L1_DoubleEG_25_13,,0,,,1,x,EG,BASE,slim:
+105,L1_DoubleEG_25_14,,1,,,1,x,EG,BASE,slim:
+106,L1_DoubleIsoEG22er2p1,,0,,,0,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-116
+107,L1_DoubleIsoEG24er2p1,,0,,,0,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-150
+108,L1_TripleEG_14_10_8,,0,,,0,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+109,L1_TripleEG_18_17_8,,1,,,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 110,L1_SingleTau20,,0,,,0,x,TAU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-85
 111,L1_SingleTau80er2p1,L1_SingleTau80er,0,,,0,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 112,L1_SingleTau100er2p1,L1_SingleTau100er,0,,,1,x,TAU,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
