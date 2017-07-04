@@ -99,6 +99,9 @@
         <row>94,1,1</row> <!-- L1_SingleIsoEG36er2p1 -->
         <row>95,1,1</row> <!-- L1_SingleIsoEG38er2p1 -->
         <row>96,1,1</row> <!-- L1_SingleIsoEG40er2p1 -->
+        <row>97,0,0</row> <!-- L1_IsoEG33_Mt40 -->
+        <row>98,0,0</row> <!-- L1_IsoEG33_Mt44 -->
+        <row>99,0,0</row> <!-- L1_IsoEG33_Mt48 -->
         <row>100,0,0</row> <!-- L1_DoubleEG_15_10 -->
         <row>101,0,0</row> <!-- L1_DoubleEG_18_17 -->
         <row>102,0,0</row> <!-- L1_DoubleEG_20_18 -->
