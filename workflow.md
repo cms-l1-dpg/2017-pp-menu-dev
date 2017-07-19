@@ -1,6 +1,10 @@
 ## L1 menu development
 - [ ] Set deadline for request of seeds in sync with HLT menu
-- [ ] All the requests should be entered in JIRA
+- [ ] Present the request at a meeting
+  * [ ] prepare backup seeds for higher pileup
+  * [ ] prepare monitoring seeds if needed
+    * [ ] specify target rates for prescaled seeds
+- [ ] All the approved requests should be entered in JIRA
   * https://its.cern.ch/jira/projects/CMSLITDPG/
     * adding/changing/removing L1 seeds
     * [ ] create a ticket in "L1TMenu" component
