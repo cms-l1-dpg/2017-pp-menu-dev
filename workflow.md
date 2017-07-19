@@ -1,7 +1,7 @@
 ## L1 menu development
 - [ ] Set deadline for request of seeds in sync with HLT menu
 - [ ] Present the request at a meeting
-  * [ ] prepare backup seeds for higher pileup
+  * [ ] prepare backup seeds for higher pileups
   * [ ] prepare monitoring seeds if needed
     * [ ] specify target rates for prescaled seeds
 - [ ] All the approved requests should be entered in JIRA
@@ -20,8 +20,8 @@
 
 ## L1 menu deployment
 - [ ] Perform offline O2O of the new menu for offline test of HLT with the target CMSSW release
-- [ ] Check compatibility of CMSSW release in DQM/O2O machines
+- [ ] Check compatibility of CMSSW release on DQM/O2O machines
 - [ ] Check compatibility of SWATCH cell
 - [ ] Prepare prescale sets for the new menu
-  * [ ] 2.0/1.8/1.6/1.4/1.2/0.75/0.5/0.25 x e34
+  * [ ] 2.0/1.8/1.6/1.4/1.2/0.75/0.5/0.25 x 10e34
 - [ ] Preper configuration/run-setting keys for the new menu
