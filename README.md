@@ -37,8 +37,9 @@ https://indico.cern.ch/event/623817/
     * updates from L1Menu_Collisions2017_dev_r7
       * https://its.cern.ch/jira/browse/CMSLITDPG-155?jql=labels%20%3D%20HLTv2
       * Incompatible changes
-        * renames
 ```
+        renames
+        =======
           https://its.cern.ch/jira/browse/CMSLITDPG-134
             L1_ETMHF80_HTT60er -> L1_ETMHF80_HTT60
             L1_ETMHF90_HTT60er -> L1_ETMHF90_HTT60
@@ -70,9 +71,9 @@ https://indico.cern.ch/event/623817/
             L1_Mu5_IsoEG18                                -> L1_Mu5_LooseIsoEG18
             L1_IsoEG24er2p1_Jet26er3p0_dR_Min0p3          -> L1_LooseIsoEG24er2p1_Jet26er3p0_dR_Min0p3
             L1_IsoEG28er2p1_HTT100er                      -> L1_LooseIsoEG28er2p1_HTT100er
-```
-        * replace
-```
+            
+        replace
+        =======
           https://its.cern.ch/jira/browse/CMSLITDPG-86
             -L1_ETT53_BptxAND
             -L1_ETT55_BptxAND
@@ -85,8 +86,8 @@ https://indico.cern.ch/event/623817/
             +L1_ETT95_BptxAND
             +L1_ETT100_BptxAND
             +L1_ETT110_BptxAND
-```
-        * scale
-```
+            
+        scale
+        =======
           https://its.cern.ch/jira/browse/CMSLITDPG-155
 ```
