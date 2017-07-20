@@ -5,7 +5,7 @@
 #
 
 # prescale columns
-ps_columns = ('2.0', '1.4')
+ps_columns = ('2.0', '1.8', '1.6', '1.4', '1.2', '1.0', '0.75', '0.5', '0.25')
 
 # input file
 input_file = 'L1MenuId.csv'
