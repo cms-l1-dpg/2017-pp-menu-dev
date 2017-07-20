@@ -153,12 +153,13 @@ id,name,proposed name,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comment
 155,L1_DoubleJet100er3p0,L1_DoubleJetC100,160,140,1,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 156,L1_DoubleJet112er3p0,L1_DoubleJetC112,100,85,1,1,1,1,1,1,1,x,JET,BASE,slim:
 157,L1_DoubleJet120er3p0,L1_DoubleJetC120,1,1,1,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-158,L1_TripleJet_84_68_48_VBF,,0,0,0,0,1,1,1,1,1,x,JET,BASE,Circulating
-159,L1_TripleJet_88_72_56_VBF,,0,0,0,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-160,L1_TripleJet_92_76_64_VBF,,1,1,1,1,1,1,1,1,1,x,JET,BASE,Circulating
-161,L1_QuadJet40er3p0,L1_QuadJetC40,0,0,0,0,0,1,1,1,1,x,JET,BASE,Circulating
-162,L1_QuadJet50er3p0,L1_QuadJetC50,0,0,0,1,1,1,1,1,1,x,JET,BASE,slim:
-163,L1_QuadJet60er3p0,L1_QuadJetC60,1,1,1,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+158,L1_DoubleJet150er3p0,,1,1,1,1,1,1,1,1,1,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-156
+159,L1_TripleJet_84_68_48_VBF,,0,0,0,0,1,1,1,1,1,x,JET,BASE,Circulating
+160,L1_TripleJet_88_72_56_VBF,,0,0,0,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+161,L1_TripleJet_92_76_64_VBF,,1,1,1,1,1,1,1,1,1,x,JET,BASE,Circulating
+162,L1_QuadJet40er3p0,L1_QuadJetC40,0,0,0,0,0,1,1,1,1,x,JET,BASE,Circulating
+163,L1_QuadJet50er3p0,L1_QuadJetC50,0,0,0,1,1,1,1,1,1,x,JET,BASE,slim:
+164,L1_QuadJet60er3p0,L1_QuadJetC60,1,1,1,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 165,L1_HTT120er,L1_HTT120,8200,5900,4100,2700,1800,1300,1000,650,330,x,SSUM,BASE,"https://its.cern.ch/jira/browse/CMSLITDPG-140  target rate [50, 100] Hz"
 166,L1_HTT160er,L1_HTT160,2900,2100,1500,1000,700,510,380,260,130,x,SSUM,BASE,"https://its.cern.ch/jira/browse/CMSLITDPG-140  target rate [50, 100] Hz"
 167,L1_HTT200er,L1_HTT200,1200,850,620,420,300,230,170,120,60,x,SSUM,BASE,"https://its.cern.ch/jira/browse/CMSLITDPG-140  target rate [50, 100] Hz"

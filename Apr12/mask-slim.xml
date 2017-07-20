@@ -166,13 +166,13 @@
         <row>155,1</row> <!-- L1_DoubleJet100er3p0 -->
         <row>156,1</row> <!-- L1_DoubleJet112er3p0 -->
         <row>157,1</row> <!-- L1_DoubleJet120er3p0 -->
-        <row>158,1</row> <!-- L1_TripleJet_84_68_48_VBF -->
-        <row>159,1</row> <!-- L1_TripleJet_88_72_56_VBF -->
-        <row>160,1</row> <!-- L1_TripleJet_92_76_64_VBF -->
-        <row>161,1</row> <!-- L1_QuadJet40er3p0 -->
-        <row>162,1</row> <!-- L1_QuadJet50er3p0 -->
-        <row>163,1</row> <!-- L1_QuadJet60er3p0 -->
-        <row>164,0</row>
+        <row>158,1</row> <!-- L1_DoubleJet150er3p0 -->
+        <row>159,1</row> <!-- L1_TripleJet_84_68_48_VBF -->
+        <row>160,1</row> <!-- L1_TripleJet_88_72_56_VBF -->
+        <row>161,1</row> <!-- L1_TripleJet_92_76_64_VBF -->
+        <row>162,1</row> <!-- L1_QuadJet40er3p0 -->
+        <row>163,1</row> <!-- L1_QuadJet50er3p0 -->
+        <row>164,1</row> <!-- L1_QuadJet60er3p0 -->
         <row>165,1</row> <!-- L1_HTT120er -->
         <row>166,1</row> <!-- L1_HTT160er -->
         <row>167,1</row> <!-- L1_HTT200er -->
