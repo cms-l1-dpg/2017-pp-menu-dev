@@ -205,12 +205,18 @@
         <row>200,1,1,1,1,1,1,1,1,1</row> <!-- L1_ETMHF110 -->
         <row>201,1,1,1,1,1,1,1,1,1</row> <!-- L1_ETMHF120 -->
         <row>202,1,1,1,1,1,1,1,1,1</row> <!-- L1_ETMHF150 -->
-        <row>210,35,35,35,35,35,35,35,35,35</row> <!-- L1_SingleMuOpen_NotBptxOR -->
-        <row>211,1,1,1,1,1,1,1,1,1</row> <!-- L1_SingleMuOpen_NotBptxOR_3BX -->
-        <row>212,1000,1000,1000,1000,1000,1000,1000,1000,1000</row> <!-- L1_SingleJet20er3p0_NotBptxOR -->
-        <row>213,0,0,0,0,0,0,0,0,0</row> <!-- L1_SingleJet20er3p0_NotBptxOR_3BX -->
-        <row>214,1,1,1,1,1,1,1,1,1</row> <!-- L1_SingleJet43er3p0_NotBptxOR_3BX -->
-        <row>215,1,1,1,1,1,1,1,1,1</row> <!-- L1_SingleJet46er3p0_NotBptxOR_3BX -->
+        <row>205,35,35,35,35,35,35,35,35,35</row> <!-- L1_SingleMuOpen_NotBptxOR -->
+        <row>206,1,1,1,1,1,1,1,1,1</row> <!-- L1_SingleMuOpen_NotBptxOR_3BX -->
+        <row>207,1000,1000,1000,1000,1000,1000,1000,1000,1000</row> <!-- L1_SingleJet20er3p0_NotBptxOR -->
+        <row>208,0,0,0,0,0,0,0,0,0</row> <!-- L1_SingleJet20er3p0_NotBptxOR_3BX -->
+        <row>209,1,1,1,1,1,1,1,1,1</row> <!-- L1_SingleJet43er3p0_NotBptxOR_3BX -->
+        <row>210,1,1,1,1,1,1,1,1,1</row> <!-- L1_SingleJet46er3p0_NotBptxOR_3BX -->
+        <row>211,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min300_dEta_Max1p5 -->
+        <row>212,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min320_dEta_Max1p5 -->
+        <row>213,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min340_dEta_Max1p5 -->
+        <row>214,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min360_dEta_Max1p5 -->
+        <row>215,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min380_dEta_Max1p5 -->
+        <row>216,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min400_dEta_Max1p5 -->
         <row>220,0,0,0,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG24er2p1_Jet26er3p0_dR_Min0p3 -->
         <row>221,0,0,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG26er2p1_Jet34er3p0_dR_Min0p3 -->
         <row>222,0,1,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG28er2p1_Jet34er3p0_dR_Min0p3 -->

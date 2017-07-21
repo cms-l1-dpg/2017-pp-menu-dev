@@ -213,18 +213,18 @@
         <row>202,1</row> <!-- L1_ETMHF150 -->
         <row>203,0</row>
         <row>204,0</row>
-        <row>205,0</row>
-        <row>206,0</row>
-        <row>207,0</row>
-        <row>208,0</row>
-        <row>209,0</row>
-        <row>210,1</row> <!-- L1_SingleMuOpen_NotBptxOR -->
-        <row>211,1</row> <!-- L1_SingleMuOpen_NotBptxOR_3BX -->
-        <row>212,1</row> <!-- L1_SingleJet20er3p0_NotBptxOR -->
-        <row>213,1</row> <!-- L1_SingleJet20er3p0_NotBptxOR_3BX -->
-        <row>214,1</row> <!-- L1_SingleJet43er3p0_NotBptxOR_3BX -->
-        <row>215,1</row> <!-- L1_SingleJet46er3p0_NotBptxOR_3BX -->
-        <row>216,0</row>
+        <row>205,1</row> <!-- L1_SingleMuOpen_NotBptxOR -->
+        <row>206,1</row> <!-- L1_SingleMuOpen_NotBptxOR_3BX -->
+        <row>207,1</row> <!-- L1_SingleJet20er3p0_NotBptxOR -->
+        <row>208,1</row> <!-- L1_SingleJet20er3p0_NotBptxOR_3BX -->
+        <row>209,1</row> <!-- L1_SingleJet43er3p0_NotBptxOR_3BX -->
+        <row>210,1</row> <!-- L1_SingleJet46er3p0_NotBptxOR_3BX -->
+        <row>211,1</row> <!-- L1_DoubleJet30_Mass_Min300_dEta_Max1p5 -->
+        <row>212,1</row> <!-- L1_DoubleJet30_Mass_Min320_dEta_Max1p5 -->
+        <row>213,1</row> <!-- L1_DoubleJet30_Mass_Min340_dEta_Max1p5 -->
+        <row>214,1</row> <!-- L1_DoubleJet30_Mass_Min360_dEta_Max1p5 -->
+        <row>215,1</row> <!-- L1_DoubleJet30_Mass_Min380_dEta_Max1p5 -->
+        <row>216,1</row> <!-- L1_DoubleJet30_Mass_Min400_dEta_Max1p5 -->
         <row>217,0</row>
         <row>218,0</row>
         <row>219,0</row>

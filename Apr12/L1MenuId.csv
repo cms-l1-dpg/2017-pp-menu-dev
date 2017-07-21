@@ -198,12 +198,18 @@ id,name,proposed name,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comment
 200,L1_ETMHF110,,1,1,1,1,1,1,1,1,1,x,VSUM,BASE,Susy:
 201,L1_ETMHF120,,1,1,1,1,1,1,1,1,1,x,VSUM,BASE,Susy:
 202,L1_ETMHF150,,1,1,1,1,1,1,1,1,1,x,VSUM,BASE,Susy:
-210,L1_SingleMuOpen_NotBptxOR,,35,35,35,35,35,35,35,35,35,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS>=20, rate=300Hz"
-211,L1_SingleMuOpen_NotBptxOR_3BX,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
-212,L1_SingleJet20er3p0_NotBptxOR,L1_SingleJetC20_NotBptxOR,1000,1000,1000,1000,1000,1000,1000,1000,1000,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 ,PS>=400, rate=300Hz"
-213,L1_SingleJet20er3p0_NotBptxOR_3BX,L1_SingleJetC20_NotBptxOR_3BX,0,0,0,0,0,0,0,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66, PS=0"
-214,L1_SingleJet43er3p0_NotBptxOR_3BX,L1_SingleJetC43_NotBptxOR_3BX,1,1,1,1,1,1,1,1,1,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
-215,L1_SingleJet46er3p0_NotBptxOR_3BX,L1_SingleJetC46_NotBptxOR_3BX,1,1,1,1,1,1,1,1,1,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
+205,L1_SingleMuOpen_NotBptxOR,,35,35,35,35,35,35,35,35,35,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS>=20, rate=300Hz"
+206,L1_SingleMuOpen_NotBptxOR_3BX,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
+207,L1_SingleJet20er3p0_NotBptxOR,L1_SingleJetC20_NotBptxOR,1000,1000,1000,1000,1000,1000,1000,1000,1000,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 ,PS>=400, rate=300Hz"
+208,L1_SingleJet20er3p0_NotBptxOR_3BX,L1_SingleJetC20_NotBptxOR_3BX,0,0,0,0,0,0,0,0,0,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66, PS=0"
+209,L1_SingleJet43er3p0_NotBptxOR_3BX,L1_SingleJetC43_NotBptxOR_3BX,1,1,1,1,1,1,1,1,1,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
+210,L1_SingleJet46er3p0_NotBptxOR_3BX,L1_SingleJetC46_NotBptxOR_3BX,1,1,1,1,1,1,1,1,1,x,PHY,EXO,"EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 , PS=1"
+211,L1_DoubleJet30_Mass_Min300_dEta_Max1p5,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
+212,L1_DoubleJet30_Mass_Min320_dEta_Max1p5,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
+213,L1_DoubleJet30_Mass_Min340_dEta_Max1p5,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
+214,L1_DoubleJet30_Mass_Min360_dEta_Max1p5,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
+215,L1_DoubleJet30_Mass_Min380_dEta_Max1p5,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
+216,L1_DoubleJet30_Mass_Min400_dEta_Max1p5,,1,1,1,1,1,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
 220,L1_LooseIsoEG24er2p1_Jet26er3p0_dR_Min0p3,"L1_IsoEG24er_JetC26_dR_Min0p3, L1_IsoEG24er2p1_Jet26er3p0_dR_Min0p3",0,0,0,1,1,1,1,1,1,x,PHY,TOP,Top: https://its.cern.ch/jira/browse/CMSLITDPG-84
 221,L1_LooseIsoEG26er2p1_Jet34er3p0_dR_Min0p3,"L1_IsoEG26er_JetC34_dR_Min0p3, L1_IsoEG26er2p1_Jet34er3p0_dR_Min0p3",0,0,1,1,1,1,1,1,1,x,PHY,TOP,Top: https://its.cern.ch/jira/browse/CMSLITDPG-84
 222,L1_LooseIsoEG28er2p1_Jet34er3p0_dR_Min0p3,"L1_IsoEG28er_JetC34_dR_Min0p3, L1_IsoEG28er2p1_Jet34er3p0_dR_Min0p3",0,1,1,1,1,1,1,1,1,x,PHY,TOP,Top: https://its.cern.ch/jira/browse/CMSLITDPG-84
@@ -307,7 +313,7 @@ id,name,proposed name,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comment
 324,L1_DoubleMu3_SQ_HTT200er,,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
 325,L1_DoubleMu3_SQ_HTT220er,,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
 326,L1_DoubleMu3_SQ_HTT240er,,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
-327,L1_DoubleMu_15_5_SQ,L1_DoubleMuon_15_5_SQ,1,1,1,1,1,1,1,1,1,x,MU,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-168
+327,L1_DoubleMu_15_5_SQ,L1_DoubleMuon_15_5_SQ,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-168
 328,L1_DoubleMu_15_7_SQ,L1_DoubleMuHighQual_15_7,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 329,L1_DoubleMu_15_7_SQ_Mass_Min4,L1_DoubleMuHighQual_15_7_Mass4,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 330,L1_TripleMu3_SQ,L1_TripleMu3_HighQual,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
