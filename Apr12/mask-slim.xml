@@ -249,9 +249,9 @@
         <row>238,1</row> <!-- L1_HTT250er_QuadJet_70_55_40_35_er2p5 -->
         <row>239,1</row> <!-- L1_HTT280er_QuadJet_70_55_40_35_er2p5 -->
         <row>240,1</row> <!-- L1_HTT300er_QuadJet_70_55_40_35_er2p5 -->
-        <row>241,0</row>
-        <row>242,0</row>
-        <row>243,0</row>
+        <row>241,1</row> <!-- L1_HTT320er_QuadJet_70_55_40_40_er2p4 -->
+        <row>242,1</row> <!-- L1_HTT320er_QuadJet_70_55_40_40_er2p5 -->
+        <row>243,1</row> <!-- L1_HTT340er_QuadJet_70_55_40_40_er2p5 -->
         <row>244,0</row>
         <row>245,1</row> <!-- L1_DoubleJet100er2p3_dEta_Max1p6 -->
         <row>246,1</row> <!-- L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6 -->
