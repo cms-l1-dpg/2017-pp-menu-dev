@@ -101,3 +101,99 @@ https://indico.cern.ch/event/623817/
         =======
           https://its.cern.ch/jira/browse/CMSLITDPG-155
 ```
+```
+---
+### L1Menu_Collisions2017_dev_r8 [2017-07-05]
+---
+  * [csv](https://github.com/cms-l1-dpg/2017-pp-menu-dev/blob/aeb7af17785fd8e059229a95240585482552dd34/Apr12/L1MenuId.csv)
+  * [xml](https://raw.githubusercontent.com/cms-l1-dpg/2017-pp-menu-dev/30081c575ccca5362b42ce8be112b20d305f8cc6/Apr12/L1Menu_Collisions2017_dev_r8.xml)
+    * updates from L1Menu_Collisions2017_dev_r7
+      * https://its.cern.ch/jira/browse/CMSLITDPG-155?jql=labels%20%3D%20HLTv2
+      * Incompatible changes
+```
+        renames
+        =======
+          https://its.cern.ch/jira/browse/CMSLITDPG-134
+            L1_ETMHF80_HTT60er -> L1_ETMHF80_HTT60
+            L1_ETMHF90_HTT60er -> L1_ETMHF90_HTT60
+            L1_ETMHF100_HTT60er -> L1_ETMHF100_HTT60
+            L1_ETMHF110_HTT60er -> L1_ETMHF110_HTT60
+            L1_ETMHF120_HTT60er -> L1_ETMHF120_HTT60
+
+          https://its.cern.ch/jira/browse/CMSLITDPG-152
+            L1_Mu23_IsoEG10                               -> L1_Mu23_LooseIsoEG10
+            L1_IsoEG24er2p1_HTT100er                      -> L1_LooseIsoEG24er2p1_HTT100er
+            L1_IsoEG20er2p1_IsoTau25er2p1_dR_Min0p3       -> L1_LooseIsoEG20er2p1_IsoTau25er2p1_dR_Min0p3
+            L1_IsoEG24er2p1_TripleJet_26er3p0_26_26er3p0  -> L1_LooseIsoEG24er2p1_TripleJet_26er3p0_26_26er3p0
+            L1_IsoEG26er2p1_HTT100er                      -> L1_LooseIsoEG26er2p1_HTT100er
+            L1_Mu5_IsoEG20                                -> L1_Mu5_LooseIsoEG20
+            L1_IsoEG30er2p1_Jet34er3p0_dR_Min0p3          -> L1_LooseIsoEG30er2p1_Jet34er3p0_dR_Min0p3
+            L1_Mu7_IsoEG23                                -> L1_Mu7_LooseIsoEG23
+            L1_IsoEG18er2p1_IsoTau24er2p1_dR_Min0p3       -> L1_LooseIsoEG18er2p1_IsoTau24er2p1_dR_Min0p3
+            L1_Mu20_IsoEG6                                -> L1_Mu20_LooseIsoEG6
+            L1_DoubleEG_Iso23_10                          -> L1_DoubleEG_LooseIso23_10
+            L1_DoubleEG_Iso24_10                          -> L1_DoubleEG_LooseIso24_10
+            L1_Mu7_IsoEG20                                -> L1_Mu7_LooseIsoEG20
+            L1_IsoEG28er2p1_Jet34er3p0_dR_Min0p3          -> L1_LooseIsoEG28er2p1_Jet34er3p0_dR_Min0p3
+            L1_TripleEG_Iso20_10_5                        -> L1_TripleEG_LooseIso20_10_5
+            L1_DoubleIsoEG22er2p1                         -> L1_DoubleLooseIsoEG22er2p1
+            L1_IsoEG26er2p1_Jet34er3p0_dR_Min0p3          -> L1_LooseIsoEG26er2p1_Jet34er3p0_dR_Min0p3
+            L1_IsoEG24er2p1_IsoTau27er2p1_dR_Min0p3       -> L1_LooseIsoEG24er2p1_IsoTau27er2p1_dR_Min0p3
+            L1_DoubleIsoEG24er2p1                         -> L1_DoubleLooseIsoEG24er2p1
+            L1_IsoEG22er2p1_IsoTau26er2p1_dR_Min0p3       -> L1_LooseIsoEG22er2p1_IsoTau26er2p1_dR_Min0p3
+            L1_Mu5_IsoEG18                                -> L1_Mu5_LooseIsoEG18
+            L1_IsoEG24er2p1_Jet26er3p0_dR_Min0p3          -> L1_LooseIsoEG24er2p1_Jet26er3p0_dR_Min0p3
+            L1_IsoEG28er2p1_HTT100er                      -> L1_LooseIsoEG28er2p1_HTT100er
+            
+        replace
+        =======
+          https://its.cern.ch/jira/browse/CMSLITDPG-86
+            -L1_ETT53_BptxAND
+            -L1_ETT55_BptxAND
+            -L1_ETT68_BptxAND
+            +L1_ETT40_BptxAND
+            +L1_ETT50_BptxAND
+            +L1_ETT80_BptxAND
+            +L1_ETT85_BptxAND
+            +L1_ETT90_BptxAND
+            +L1_ETT95_BptxAND
+            +L1_ETT100_BptxAND
+            +L1_ETT110_BptxAND
+            
+        scale
+        =======
+          https://its.cern.ch/jira/browse/CMSLITDPG-155
+```
+---
+### L1Menu_Collisions2017_dev_r9 [2017-07-24]
+---
+  * [csv](https://github.com/cms-l1-dpg/2017-pp-menu-dev/blob/2017-07-24/Apr12/L1MenuId.csv)
+  * [xml](https://raw.githubusercontent.com/cms-l1-dpg/2017-pp-menu-dev/2017-07-24/Apr12/L1Menu_Collisions2017_dev_r9.xml)
+    * updates from L1Menu_Collisions2017_dev_r8
+```
+        add
+        ===
+          https://its.cern.ch/jira/browse/CMSLITDPG-156
+            L1_DoubleJet150er3p0
+          https://its.cern.ch/jira/browse/CMSLITDPG-158
+            L1_DoubleEG8er2p6_HTT255er
+            L1_DoubleEG8er2p6_HTT270er
+            L1_DoubleEG8er2p6_HTT300er
+          https://its.cern.ch/jira/browse/CMSLITDPG-159
+            L1_HTT320er_QuadJet_70_55_40_40_er2p4
+            L1_HTT320er_QuadJet_70_55_40_40_er2p5
+            L1_HTT340er_QuadJet_70_55_40_40_er2p5
+          https://its.cern.ch/jira/browse/CMSLITDPG-161
+            L1_Mu20er2p1_IsoTau27er2p1
+          https://its.cern.ch/jira/browse/CMSLITDPG-168
+            L1_DoubleMuon_15_5_SQ
+          https://its.cern.ch/jira/browse/CMSLITDPG-176
+            L1_DoubleJet112er2p3_dEta_Max1p6
+          https://its.cern.ch/jira/browse/CMSLITDPG-177
+            L1_DoubleJet30_Mass_Min300_dEta_Max1p5
+            L1_DoubleJet30_Mass_Min320_dEta_Max1p5
+            L1_DoubleJet30_Mass_Min340_dEta_Max1p5
+            L1_DoubleJet30_Mass_Min360_dEta_Max1p5
+            L1_DoubleJet30_Mass_Min380_dEta_Max1p5
+            L1_DoubleJet30_Mass_Min400_dEta_Max1p5
+```
