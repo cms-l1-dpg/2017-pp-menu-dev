@@ -321,7 +321,7 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 326,L1_DoubleEG6_HTT250er,L1_DoubleEG6_HTT250,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 327,L1_DoubleEG6_HTT270er,L1_DoubleEG6_HTT270,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 328,L1_DoubleEG6_HTT300er,L1_DoubleEG6_HTT300,0,0,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-335,L1_DoubleEG8er2p6_HTT255er,L1_DoubleEG8_eta2p61_HTT255er,0,0,0,1,1,1,1,1,1,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-158
+335,L1_DoubleEG8er2p6_HTT255er,L1_DoubleEG8_eta2p61_HTT255er,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-158
 336,L1_DoubleEG8er2p6_HTT270er,L1_DoubleEG8_eta2p61_HTT270er,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-158
 337,L1_DoubleEG8er2p6_HTT300er,L1_DoubleEG8_eta2p61_HTT300er,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-158
 329,L1_ETMHF70_Jet60_OR_DoubleJet30,L1_ETMHF70_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
