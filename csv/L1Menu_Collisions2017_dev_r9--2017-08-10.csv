@@ -381,7 +381,7 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 385,L1_TripleMu_5SQ_3SQ_0OQ,,0,40,35,27,12,9,7,3,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
 390,L1_Mu6_DoubleEG17,,0,1,1,1,1,1,1,1,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
 391,L1_DoubleMu7_EG7,,0,0,1,1,1,1,1,1,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
-400,L1_IsolatedBunch,,0,0,0,0,0,0,0,0,0,0,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+400,L1_IsolatedBunch,,110,110,110,110,110,110,110,110,110,110,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 401,L1_FirstBunchInTrain,,58403,58403,58403,58403,58403,58403,58403,58403,58403,58403,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 402,L1_FirstBunchAfterTrain,,58403,58403,58403,58403,58403,58403,58403,58403,58403,58403,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 403,L1_Mu5_EG15,,0,0,0,0,0,0,0,0,0,0,x,PHY,TOP,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
