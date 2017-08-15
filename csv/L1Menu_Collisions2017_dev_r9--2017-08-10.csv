@@ -154,12 +154,12 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 156,L1_DoubleJet112er3p0,L1_DoubleJetC112,200,100,90,1,1,1,1,1,1,1,x,JET,BASE,slim:
 157,L1_DoubleJet120er3p0,L1_DoubleJetC120,150,70,1,1,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 158,L1_DoubleJet150er3p0,,0,1,1,1,1,1,1,1,1,1,x,JET,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-156
-158,L1_TripleJet_84_68_48_VBF,,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,Circulating
-159,L1_TripleJet_88_72_56_VBF,,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-160,L1_TripleJet_92_76_64_VBF,,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,Circulating
-161,L1_QuadJet40er3p0,L1_QuadJetC40,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,Circulating
-162,L1_QuadJet50er3p0,L1_QuadJetC50,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,slim:
-163,L1_QuadJet60er3p0,L1_QuadJetC60,0,1,1,1,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+159,L1_TripleJet_84_68_48_VBF,,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,Circulating
+160,L1_TripleJet_88_72_56_VBF,,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+161,L1_TripleJet_92_76_64_VBF,,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,Circulating
+162,L1_QuadJet40er3p0,L1_QuadJetC40,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,Circulating
+163,L1_QuadJet50er3p0,L1_QuadJetC50,0,0,0,0,0,0,0,0,0,0,x,JET,BASE,slim:
+164,L1_QuadJet60er3p0,L1_QuadJetC60,0,1,1,1,1,1,1,1,1,1,x,JET,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 165,L1_HTT120er,L1_HTT120,15000,11400,7600,4700,2800,1900,1400,860,510,250,x,SSUM,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-140  target rate [50-100] Hz
 166,L1_HTT160er,L1_HTT160,5000,4100,2700,1700,1050,730,530,350,210,100,x,SSUM,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-140  target rate [50-100] Hz
 167,L1_HTT200er,L1_HTT200,1600,1600,1100,700,440,310,230,150,95,47,x,SSUM,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-140  target rate [50-100] Hz
@@ -198,12 +198,12 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 200,L1_ETMHF110,,0,0,0,1,1,1,1,1,1,1,x,VSUM,BASE,Susy:
 201,L1_ETMHF120,,0,1,1,1,1,1,1,1,1,1,x,VSUM,BASE,Susy:
 202,L1_ETMHF150,,1,1,1,1,1,1,1,1,1,1,x,VSUM,BASE,Susy:
-210,L1_SingleMuOpen_NotBptxOR,,0,20,20,20,20,20,20,20,20,20,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS>=20 rate=300Hz
-211,L1_SingleMuOpen_NotBptxOR_3BX,,0,1,1,1,1,1,1,1,1,1,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS=1
-212,L1_SingleJet20er3p0_NotBptxOR,L1_SingleJetC20_NotBptxOR,0,500,450,400,400,400,400,400,400,400,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 PS>=400 rate=300Hz
-213,L1_SingleJet20er3p0_NotBptxOR_3BX,L1_SingleJetC20_NotBptxOR_3BX,0,0,0,0,0,0,0,0,0,0,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 PS=0
-214,L1_SingleJet43er3p0_NotBptxOR_3BX,L1_SingleJetC43_NotBptxOR_3BX,0,1,1,1,1,1,1,1,1,1,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS=1
-215,L1_SingleJet46er3p0_NotBptxOR_3BX,L1_SingleJetC46_NotBptxOR_3BX,0,1,1,1,1,1,1,1,1,1,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS=1
+205,L1_SingleMuOpen_NotBptxOR,,0,20,20,20,20,20,20,20,20,20,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS>=20 rate=300Hz
+206,L1_SingleMuOpen_NotBptxOR_3BX,,0,1,1,1,1,1,1,1,1,1,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS=1
+207,L1_SingleJet20er3p0_NotBptxOR,L1_SingleJetC20_NotBptxOR,0,500,450,400,400,400,400,400,400,400,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 PS>=400 rate=300Hz
+208,L1_SingleJet20er3p0_NotBptxOR_3BX,L1_SingleJetC20_NotBptxOR_3BX,0,0,0,0,0,0,0,0,0,0,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66 PS=0
+209,L1_SingleJet43er3p0_NotBptxOR_3BX,L1_SingleJetC43_NotBptxOR_3BX,0,1,1,1,1,1,1,1,1,1,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS=1
+210,L1_SingleJet46er3p0_NotBptxOR_3BX,L1_SingleJetC46_NotBptxOR_3BX,0,1,1,1,1,1,1,1,1,1,x,PHY,EXO,EXO: https://its.cern.ch/jira/browse/CMSLITDPG-66  PS=1
 211,L1_DoubleJet30_Mass_Min300_dEta_Max1p5,,0,0,0,0,0,0,0,0,0,0,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
 212,L1_DoubleJet30_Mass_Min320_dEta_Max1p5,,0,0,0,0,0,0,0,0,0,0,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
 213,L1_DoubleJet30_Mass_Min340_dEta_Max1p5,,0,0,0,0,0,0,0,0,0,0,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
@@ -236,151 +236,151 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 243,L1_HTT340er_QuadJet_70_55_40_40_er2p5,,0,1,1,1,1,1,1,1,1,1,x,PHY,TOP,https://its.cern.ch/jira/browse/CMSLITDPG-159
 245,L1_DoubleJet100er2p3_dEta_Max1p6,L1_DoubleJet100Eta2p3_dEtaMax1p6,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,Higgs H to bb: https://its.cern.ch/jira/browse/CMSLITDPG-38
 246,L1_DoubleJet112er2p3_dEta_Max1p6,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-176
-246,L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6,L1_Mu10Eta2p3_Jet32Eta2p3_dRMax0p4_DoubleJet32Eta2p3_dEtaMax1p6,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs H to bb: https://its.cern.ch/jira/browse/CMSLITDPG-38
-247,L1_Mu12er2p3_Jet40er2p3_dR_Max0p4_DoubleJet40er2p3_dEta_Max1p6,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,Higgs H to bb: https://its.cern.ch/jira/browse/CMSLITDPG-38
-248,L1_IsoTau40er_ETM80,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
-249,L1_IsoTau40er_ETM85,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
-250,L1_IsoTau40er_ETM90,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
-251,L1_IsoTau40er_ETM95,,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
-252,L1_IsoTau40er_ETM100,L1_SingleIsoTau40er_ETM100,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
-253,L1_IsoTau40er_ETM105,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-254,L1_IsoTau40er_ETM110,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-255,L1_IsoTau40er_ETM115,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-256,L1_IsoTau40er_ETM120,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-257,L1_IsoTau40er_ETMHF80,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
-258,L1_IsoTau40er_ETMHF90,,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
-259,L1_IsoTau40er_ETMHF100,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-260,L1_IsoTau40er_ETMHF110,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-261,L1_IsoTau40er_ETMHF120,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-262,L1_Mu22er2p1_IsoTau40er2p1,L1_SingleMu22er_IsoTau40er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48  monitoring: must be unprescaled
-263,L1_QuadJet36er3p0_IsoTau52er2p1,L1_QuadJetC36_IsoTau52er,0,190,125,80,50,30,23,14,8,4,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48  monitoring: prescaled 50 Hz
-264,L1_ETM80_Jet60_dPhi_Min0p4,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-265,L1_ETM90_Jet60_dPhi_Min0p4,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-266,L1_ETM100_Jet60_dPhi_Min0p4,,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-267,L1_ETM110_Jet60_dPhi_Min0p4,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-268,L1_DoubleJet60er3p0_ETM70,L1_DoubleJetC60_ETM70,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-269,L1_DoubleJet60er3p0_ETM80,L1_DoubleJetC60_ETM80,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-270,L1_DoubleJet60er3p0_ETM90,L1_DoubleJetC60_ETM90,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-271,L1_DoubleJet60er3p0_ETM100,L1_DoubleJetC60_ETM100,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
-272,L1_DoubleEG_LooseIso23_10,L1_DoubleEG_Iso23_10,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,HZZ HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf
-273,L1_DoubleEG_LooseIso24_10,L1_DoubleEG_Iso24_10,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,HZZ HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf
-274,L1_TripleEG_LooseIso20_10_5,L1_TripleEG_Iso20_10_5,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,HZZ HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf
-275,L1_DoubleJet_90_30_DoubleJet30_Mass_Min620,L1_DoubleJet_90_30_Mj30j30_620,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs VBF H to tau tau:
-276,L1_DoubleJet_100_30_DoubleJet30_Mass_Min620,L1_DoubleJet_100_30_Mj30j30_620,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs VBF H to tau tau:
-277,L1_DoubleJet_100_35_DoubleJet35_Mass_Min620,L1_DoubleJet_100_35_Mj35j35_620,0,0,0,0,1,1,1,1,1,1,x,PHY,HIG,Higgs VBF H to tau tau: https://its.cern.ch/jira/browse/CMSLITDPG-102
-278,L1_DoubleJet_110_35_DoubleJet35_Mass_Min620,,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
-279,L1_DoubleJet_110_40_DoubleJet40_Mass_Min620,,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
-280,L1_DoubleJet_115_35_DoubleJet35_Mass_Min620,,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
-281,L1_DoubleJet_115_40_DoubleJet40_Mass_Min620,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
-282,L1_DoubleJet30_Mass_Min400_Mu6,L1_DoubleJet30_Mj30j30_400_Mu6,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
-283,L1_DoubleJet30_Mass_Min400_Mu10,L1_DoubleJet30_Mj30j30_400_Mu10,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs VBF H to tau tau: https://its.cern.ch/jira/browse/CMSLITDPG-102
-284,L1_LooseIsoEG18er2p1_IsoTau24er2p1_dR_Min0p3,L1_IsoEG18er2p1_IsoTau24er2p1_dR_Min0p3,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-100
-285,L1_DoubleJet35_rmovlp_IsoTau45_Mass_Min450,L1_DoubleJet35_rmovlp_ISOTAU45_Mass_Min450,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-121
-286,L1_LooseIsoEG20er2p1_IsoTau25er2p1_dR_Min0p3,L1_IsoEG20er2p1_IsoTau25er2p1_dR_Min0p3,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-100
-287,L1_LooseIsoEG22er2p1_IsoTau26er2p1_dR_Min0p3,L1_IsoEG22er2p1_IsoTau26er2p1_dR_Min0p3,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-100
-288,L1_LooseIsoEG24er2p1_IsoTau27er2p1_dR_Min0p3,L1_IsoEG24er2p1_IsoTau27er2p1_dR_Min0p3,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
-289,L1_Mu16er2p1_Tau20er2p1,L1_Mu16er_Tau20er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
-290,L1_Mu16er2p1_Tau24er2p1,L1_Mu16er_Tau24er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
-291,L1_Mu18er2p1_Tau20er2p1,L1_Mu18er_Tau20er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
-292,L1_Mu18er2p1_Tau24er2p1,L1_Mu18er_Tau24er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
-293,L1_Mu22er2p1_Tau50er2p1,L1_Mu22er_Tau50er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleTau50er
-294,L1_Mu22er2p1_Tau70er2p1,L1_Mu22er_Tau70er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleTau70er
-295,L1_Mu18er2p1_IsoTau26er2p1,L1_Mu18er_IsoTau26er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
-296,L1_Mu20er2p1_IsoTau26er2p1,L1_Mu20er_IsoTau26er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
+247,L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6,L1_Mu10Eta2p3_Jet32Eta2p3_dRMax0p4_DoubleJet32Eta2p3_dEtaMax1p6,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs H to bb: https://its.cern.ch/jira/browse/CMSLITDPG-38
+248,L1_Mu12er2p3_Jet40er2p3_dR_Max0p4_DoubleJet40er2p3_dEta_Max1p6,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,Higgs H to bb: https://its.cern.ch/jira/browse/CMSLITDPG-38
+249,L1_IsoTau40er_ETM80,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
+250,L1_IsoTau40er_ETM85,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
+251,L1_IsoTau40er_ETM90,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
+252,L1_IsoTau40er_ETM95,,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
+253,L1_IsoTau40er_ETM100,L1_SingleIsoTau40er_ETM100,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
+254,L1_IsoTau40er_ETM105,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+255,L1_IsoTau40er_ETM110,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+256,L1_IsoTau40er_ETM115,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+257,L1_IsoTau40er_ETM120,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+258,L1_IsoTau40er_ETMHF80,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
+259,L1_IsoTau40er_ETMHF90,,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48
+260,L1_IsoTau40er_ETMHF100,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+261,L1_IsoTau40er_ETMHF110,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+262,L1_IsoTau40er_ETMHF120,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+263,L1_Mu22er2p1_IsoTau40er2p1,L1_SingleMu22er_IsoTau40er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48  monitoring: must be unprescaled
+264,L1_QuadJet36er3p0_IsoTau52er2p1,L1_QuadJetC36_IsoTau52er,0,190,125,80,50,30,23,14,8,4,x,PHY,HIG,tau + MET: https://its.cern.ch/jira/browse/CMSLITDPG-48  monitoring: prescaled 50 Hz
+265,L1_ETM80_Jet60_dPhi_Min0p4,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+266,L1_ETM90_Jet60_dPhi_Min0p4,,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+267,L1_ETM100_Jet60_dPhi_Min0p4,,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+268,L1_ETM110_Jet60_dPhi_Min0p4,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+269,L1_DoubleJet60er3p0_ETM70,L1_DoubleJetC60_ETM70,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+270,L1_DoubleJet60er3p0_ETM80,L1_DoubleJetC60_ETM80,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+271,L1_DoubleJet60er3p0_ETM90,L1_DoubleJetC60_ETM90,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+272,L1_DoubleJet60er3p0_ETM100,L1_DoubleJetC60_ETM100,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-87
+273,L1_DoubleEG_LooseIso23_10,L1_DoubleEG_Iso23_10,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,HZZ HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf
+274,L1_DoubleEG_LooseIso24_10,L1_DoubleEG_Iso24_10,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,HZZ HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf
+275,L1_TripleEG_LooseIso20_10_5,L1_TripleEG_Iso20_10_5,0,0,0,1,1,1,1,1,1,1,x,PHY,HIG,HZZ HWW: https://indico.cern.ch/event/630992/contributions/2549890/attachments/1442254/2222923/L1Status_DPG.pdf
+276,L1_DoubleJet_90_30_DoubleJet30_Mass_Min620,L1_DoubleJet_90_30_Mj30j30_620,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs VBF H to tau tau:
+277,L1_DoubleJet_100_30_DoubleJet30_Mass_Min620,L1_DoubleJet_100_30_Mj30j30_620,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs VBF H to tau tau:
+278,L1_DoubleJet_100_35_DoubleJet35_Mass_Min620,L1_DoubleJet_100_35_Mj35j35_620,0,0,0,0,1,1,1,1,1,1,x,PHY,HIG,Higgs VBF H to tau tau: https://its.cern.ch/jira/browse/CMSLITDPG-102
+279,L1_DoubleJet_110_35_DoubleJet35_Mass_Min620,,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
+280,L1_DoubleJet_110_40_DoubleJet40_Mass_Min620,,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
+281,L1_DoubleJet_115_35_DoubleJet35_Mass_Min620,,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
+282,L1_DoubleJet_115_40_DoubleJet40_Mass_Min620,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-102
+283,L1_DoubleJet30_Mass_Min400_Mu6,L1_DoubleJet30_Mj30j30_400_Mu6,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
+284,L1_DoubleJet30_Mass_Min400_Mu10,L1_DoubleJet30_Mj30j30_400_Mu10,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,Higgs VBF H to tau tau: https://its.cern.ch/jira/browse/CMSLITDPG-102
+285,L1_LooseIsoEG18er2p1_IsoTau24er2p1_dR_Min0p3,L1_IsoEG18er2p1_IsoTau24er2p1_dR_Min0p3,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-100
+286,L1_DoubleJet35_rmovlp_IsoTau45_Mass_Min450,L1_DoubleJet35_rmovlp_ISOTAU45_Mass_Min450,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-121
+287,L1_LooseIsoEG20er2p1_IsoTau25er2p1_dR_Min0p3,L1_IsoEG20er2p1_IsoTau25er2p1_dR_Min0p3,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-100
+288,L1_LooseIsoEG22er2p1_IsoTau26er2p1_dR_Min0p3,L1_IsoEG22er2p1_IsoTau26er2p1_dR_Min0p3,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-100
+289,L1_LooseIsoEG24er2p1_IsoTau27er2p1_dR_Min0p3,L1_IsoEG24er2p1_IsoTau27er2p1_dR_Min0p3,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-150
+290,L1_Mu16er2p1_Tau20er2p1,L1_Mu16er_Tau20er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
+291,L1_Mu16er2p1_Tau24er2p1,L1_Mu16er_Tau24er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
+292,L1_Mu18er2p1_Tau20er2p1,L1_Mu18er_Tau20er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
+293,L1_Mu18er2p1_Tau24er2p1,L1_Mu18er_Tau24er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
+294,L1_Mu22er2p1_Tau50er2p1,L1_Mu22er_Tau50er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleTau50er
+295,L1_Mu22er2p1_Tau70er2p1,L1_Mu22er_Tau70er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleTau70er
+296,L1_Mu18er2p1_IsoTau26er2p1,L1_Mu18er_IsoTau26er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
+297,L1_Mu20er2p1_IsoTau26er2p1,L1_Mu20er_IsoTau26er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-82
 298,L1_Mu20er2p1_IsoTau27er2p1,,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-161
-297,L1_Mu22er2p1_IsoTau28er2p1,L1_Mu22er_IsoTau28er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau28er
-298,L1_Mu22er2p1_IsoTau30er2p1,L1_Mu22er_IsoTau30er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau30er
-299,L1_Mu22er2p1_IsoTau32er2p1,L1_Mu22er_IsoTau32er,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau32er
-300,L1_Mu22er2p1_IsoTau33er2p1,L1_Mu22er_IsoTau33er,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau33er
-301,L1_Mu22er2p1_IsoTau34er2p1,L1_Mu22er_IsoTau34er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau34er
-302,L1_Mu22er2p1_IsoTau35er2p1,L1_Mu22er_IsoTau35er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau35er
-303,L1_Mu22er2p1_IsoTau36er2p1,L1_Mu22er_IsoTau36er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau36er
-304,L1_Mu22er2p1_IsoTau38er2p1,L1_Mu22er_IsoTau38er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau38er
-305,L1_Mu6_HTT240er,L1_Mu6_HTT240,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy: https://indico.cern.ch/event/623066/contributions/2513193/attachments/1426266/2189134/L1shoppinglist.pdf
-306,L1_Mu6_HTT250er,L1_Mu6_HTT250,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-307,L1_Mu15_HTT100er,L1_Mu15_HTT100,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-308,L1_DoubleMu0_ETMHF40_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF40_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-309,L1_DoubleMu0_ETMHF50_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF50_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-310,L1_DoubleMu0_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF60_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-311,L1_DoubleMu0_ETMHF70_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF70_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-312,L1_DoubleMu0_ETMHF80_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF80_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-313,L1_DoubleMu3_SQ_ETMHF40_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF40_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-314,L1_DoubleMu3_SQ_ETMHF50_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF50_Jet60ORDiJet30,0,0,0,0,1,1,1,1,1,1,x,PHY,SUS,Susy:
-315,L1_DoubleMu3_SQ_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF60_Jet60ORDiJet30,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-316,L1_DoubleMu3_SQ_ETMHF70_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF70_Jet60ORDiJet30,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-317,L1_DoubleMu3_SQ_ETMHF80_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF80_Jet60ORDiJet30,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-318,L1_DoubleMu3_SQ_HTT100er,L1_DoubleMu3HighQual_HTT100,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-319,L1_DoubleMu3_SQ_HTT200er,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
-320,L1_DoubleMu3_SQ_HTT220er,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
-321,L1_DoubleMu3_SQ_HTT240er,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
+299,L1_Mu22er2p1_IsoTau28er2p1,L1_Mu22er_IsoTau28er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau28er
+300,L1_Mu22er2p1_IsoTau30er2p1,L1_Mu22er_IsoTau30er,0,0,0,0,0,0,0,0,0,0,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau30er
+301,L1_Mu22er2p1_IsoTau32er2p1,L1_Mu22er_IsoTau32er,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau32er
+302,L1_Mu22er2p1_IsoTau33er2p1,L1_Mu22er_IsoTau33er,0,0,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau33er
+303,L1_Mu22er2p1_IsoTau34er2p1,L1_Mu22er_IsoTau34er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau34er
+304,L1_Mu22er2p1_IsoTau35er2p1,L1_Mu22er_IsoTau35er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau35er
+305,L1_Mu22er2p1_IsoTau36er2p1,L1_Mu22er_IsoTau36er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau36er
+306,L1_Mu22er2p1_IsoTau38er2p1,L1_Mu22er_IsoTau38er,0,1,1,1,1,1,1,1,1,1,x,PHY,HIG,https://its.cern.ch/jira/browse/CMSLITDPG-103  sync: L1_DoubleIsoTau38er
+310,L1_Mu6_HTT240er,L1_Mu6_HTT240,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy: https://indico.cern.ch/event/623066/contributions/2513193/attachments/1426266/2189134/L1shoppinglist.pdf
+311,L1_Mu6_HTT250er,L1_Mu6_HTT250,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+312,L1_Mu15_HTT100er,L1_Mu15_HTT100,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+313,L1_DoubleMu0_ETMHF40_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF40_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+314,L1_DoubleMu0_ETMHF50_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF50_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+315,L1_DoubleMu0_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF60_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+316,L1_DoubleMu0_ETMHF70_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF70_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+317,L1_DoubleMu0_ETMHF80_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF80_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+318,L1_DoubleMu3_SQ_ETMHF40_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF40_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+319,L1_DoubleMu3_SQ_ETMHF50_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF50_Jet60ORDiJet30,0,0,0,0,1,1,1,1,1,1,x,PHY,SUS,Susy:
+320,L1_DoubleMu3_SQ_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF60_Jet60ORDiJet30,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+321,L1_DoubleMu3_SQ_ETMHF70_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF70_Jet60ORDiJet30,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+322,L1_DoubleMu3_SQ_ETMHF80_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF80_Jet60ORDiJet30,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+323,L1_DoubleMu3_SQ_HTT100er,L1_DoubleMu3HighQual_HTT100,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+324,L1_DoubleMu3_SQ_HTT200er,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
+325,L1_DoubleMu3_SQ_HTT220er,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
+326,L1_DoubleMu3_SQ_HTT240er,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
 327,L1_DoubleMu_15_5_SQ,L1_DoubleMuon_15_5_SQ,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-168
-322,L1_DoubleMu_15_7_SQ,L1_DoubleMuHighQual_15_7,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-323,L1_DoubleMu_15_7_SQ_Mass_Min4,L1_DoubleMuHighQual_15_7_Mass4,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-324,L1_TripleMu3_SQ,L1_TripleMu3_HighQual,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-325,L1_DoubleEG6_HTT240er,L1_DoubleEG6_HTT240,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-326,L1_DoubleEG6_HTT250er,L1_DoubleEG6_HTT250,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-327,L1_DoubleEG6_HTT270er,L1_DoubleEG6_HTT270,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
-328,L1_DoubleEG6_HTT300er,L1_DoubleEG6_HTT300,0,0,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+328,L1_DoubleMu_15_7_SQ,L1_DoubleMuHighQual_15_7,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+329,L1_DoubleMu_15_7_SQ_Mass_Min4,L1_DoubleMuHighQual_15_7_Mass4,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+330,L1_TripleMu3_SQ,L1_TripleMu3_HighQual,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+331,L1_DoubleEG6_HTT240er,L1_DoubleEG6_HTT240,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+332,L1_DoubleEG6_HTT250er,L1_DoubleEG6_HTT250,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+333,L1_DoubleEG6_HTT270er,L1_DoubleEG6_HTT270,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+334,L1_DoubleEG6_HTT300er,L1_DoubleEG6_HTT300,0,0,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 335,L1_DoubleEG8er2p6_HTT255er,L1_DoubleEG8_eta2p61_HTT255er,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-158
 336,L1_DoubleEG8er2p6_HTT270er,L1_DoubleEG8_eta2p61_HTT270er,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-158
 337,L1_DoubleEG8er2p6_HTT300er,L1_DoubleEG8_eta2p61_HTT300er,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-158
-329,L1_ETMHF70_Jet60_OR_DoubleJet30,L1_ETMHF70_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-330,L1_ETMHF75_Jet60_OR_DoubleJet30,L1_ETMHF75_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-331,L1_ETMHF80_Jet60_OR_DoubleJet30,L1_ETMHF80_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-332,L1_ETMHF85_Jet60_OR_DoubleJet30,L1_ETMHF85_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-333,L1_ETMHF90_Jet60_OR_DoubleJet30,L1_ETMHF90_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-334,L1_ETMHF95_Jet60_OR_DoubleJet30,L1_ETMHF95_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-335,L1_ETMHF100_Jet60_OR_DoubleJet30,L1_ETMHF100_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-336,L1_ETMHF105_Jet60_OR_DoubleJet30,L1_ETMHF105_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-337,L1_ETMHF110_Jet60_OR_DoubleJet30,L1_ETMHF110_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-338,L1_ETMHF115_Jet60_OR_DoubleJet30,L1_ETMHF115_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-339,L1_ETMHF120_Jet60_OR_DoubleJet30,L1_ETMHF120_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-340,L1_ETMHF70_Jet60_OR_DiJet30woTT28,L1_ETMHF70_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-341,L1_ETMHF80_Jet60_OR_DiJet30woTT28,L1_ETMHF80_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-342,L1_ETMHF90_Jet60_OR_DiJet30woTT28,L1_ETMHF90_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-343,L1_ETMHF100_Jet60_OR_DiJet30woTT28,L1_ETMHF100_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-344,L1_ETMHF110_Jet60_OR_DiJet30woTT28,L1_ETMHF110_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-345,L1_ETMHF120_Jet60_OR_DiJet30woTT28,L1_ETMHF120_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-346,L1_ETMHF70_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF70_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-347,L1_ETMHF80_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF80_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-348,L1_ETMHF90_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF90_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-349,L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-350,L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-351,L1_DoubleMu7_SQ_EG7,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
-352,L1_ETMHF80_HTT60er,L1_ETMHF80_HTT60,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
-353,L1_ETMHF90_HTT60er,L1_ETMHF90_HTT60,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
-354,L1_ETMHF100_HTT60er,L1_ETMHF100_HTT60,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
-355,L1_ETMHF110_HTT60er,L1_ETMHF110_HTT60,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
-356,L1_ETMHF120_HTT60er,L1_ETMHF120_HTT60,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
-357,L1_Mu3_Jet30er2p5,,0,11000,8900,6500,4500,3100,2200,1230,600,300,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-143  target rate = 50 Hz
-360,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-361,L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-362,L1_DoubleMu4_SQ_OS_dR_Max1p2,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-363,L1_DoubleMu5_SQ_OS_Mass7to18,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-364,L1_DoubleMu_20_2_SQ_Mass_Max20,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-365,L1_DoubleMu4_OS_EG12,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-366,L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-367,L1_DoubleMu4p5_SQ_OS_dR_Max1p2,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-368,L1_DoubleMu5_OS_EG12,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-369,L1_DoubleMu6_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78 disabled by default
-370,L1_TripleMu_5_3p5_2p5_DoubleMu_5_2p5_OS_Mass_5to17,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-371,L1_TripleMu_5_4_2p5_DoubleMu_5_2p5_OS_Mass_5to17,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-372,L1_TripleMu_5SQ_3SQ_0OQ_DoubleMu_5_3_SQ_OS_Mass_Max9,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-373,L1_TripleMu_5SQ_3SQ_0_DoubleMu_5_3_SQ_OS_Mass_Max9,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-374,L1_DoubleMu8_SQ,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
-375,L1_DoubleMu0_SQ,,0,430,600,290,320,245,190,120,65,32,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-376,L1_DoubleMu0_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-377,L1_DoubleMu4p5_SQ,,0,80,90,50,20,18,14,9,5,2,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-378,L1_DoubleMu4p5_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-379,L1_DoubleMu4p5er2p0_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-380,L1_DoubleMu0er1p5_SQ_OS,,0,0,0,0,80,65,51,35,20,10,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-381,L1_DoubleMu4_SQ_OS,,0,0,0,0,140,110,87,58,34,17,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-382,L1_DoubleMu5_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-383,L1_TripleMu_5_3p5_2p5,,0,55,40,35,7,5,4,2,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-384,L1_TripleMu0_OQ,L1_TripleMu0_Qopen,0,1300,1060,815,390,280,200,110,52,26,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-385,L1_TripleMu_5SQ_3SQ_0OQ,,0,40,35,27,12,9,7,3,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
-390,L1_Mu6_DoubleEG17,,0,1,1,1,1,1,1,1,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
-391,L1_DoubleMu7_EG7,,0,0,1,1,1,1,1,1,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
+338,L1_ETMHF70_Jet60_OR_DoubleJet30,L1_ETMHF70_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+339,L1_ETMHF75_Jet60_OR_DoubleJet30,L1_ETMHF75_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+340,L1_ETMHF80_Jet60_OR_DoubleJet30,L1_ETMHF80_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+341,L1_ETMHF85_Jet60_OR_DoubleJet30,L1_ETMHF85_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+342,L1_ETMHF90_Jet60_OR_DoubleJet30,L1_ETMHF90_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+343,L1_ETMHF95_Jet60_OR_DoubleJet30,L1_ETMHF95_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+344,L1_ETMHF100_Jet60_OR_DoubleJet30,L1_ETMHF100_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+345,L1_ETMHF105_Jet60_OR_DoubleJet30,L1_ETMHF105_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+346,L1_ETMHF110_Jet60_OR_DoubleJet30,L1_ETMHF110_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+347,L1_ETMHF115_Jet60_OR_DoubleJet30,L1_ETMHF115_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+348,L1_ETMHF120_Jet60_OR_DoubleJet30,L1_ETMHF120_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+349,L1_ETMHF70_Jet60_OR_DiJet30woTT28,L1_ETMHF70_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+350,L1_ETMHF80_Jet60_OR_DiJet30woTT28,L1_ETMHF80_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+351,L1_ETMHF90_Jet60_OR_DiJet30woTT28,L1_ETMHF90_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+352,L1_ETMHF100_Jet60_OR_DiJet30woTT28,L1_ETMHF100_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+353,L1_ETMHF110_Jet60_OR_DiJet30woTT28,L1_ETMHF110_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+354,L1_ETMHF120_Jet60_OR_DiJet30woTT28,L1_ETMHF120_Jet60ORDiJet30NoTT28,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+355,L1_ETMHF70_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF70_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+356,L1_ETMHF80_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF80_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+357,L1_ETMHF90_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF90_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+358,L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+359,L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
+360,L1_DoubleMu7_SQ_EG7,,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
+361,L1_ETMHF80_HTT60er,L1_ETMHF80_HTT60,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+362,L1_ETMHF90_HTT60er,L1_ETMHF90_HTT60,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+363,L1_ETMHF100_HTT60er,L1_ETMHF100_HTT60,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+364,L1_ETMHF110_HTT60er,L1_ETMHF110_HTT60,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+365,L1_ETMHF120_HTT60er,L1_ETMHF120_HTT60,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+366,L1_Mu3_Jet30er2p5,,0,11000,8900,6500,4500,3100,2200,1230,600,300,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-143  target rate = 50 Hz
+370,L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+371,L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+372,L1_DoubleMu4_SQ_OS_dR_Max1p2,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+373,L1_DoubleMu5_SQ_OS_Mass7to18,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+374,L1_DoubleMu_20_2_SQ_Mass_Max20,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+375,L1_DoubleMu4_OS_EG12,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+376,L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+377,L1_DoubleMu4p5_SQ_OS_dR_Max1p2,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+378,L1_DoubleMu5_OS_EG12,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+379,L1_DoubleMu6_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78 disabled by default
+380,L1_TripleMu_5_3p5_2p5_DoubleMu_5_2p5_OS_Mass_5to17,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+381,L1_TripleMu_5_4_2p5_DoubleMu_5_2p5_OS_Mass_5to17,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+382,L1_TripleMu_5SQ_3SQ_0OQ_DoubleMu_5_3_SQ_OS_Mass_Max9,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+383,L1_TripleMu_5SQ_3SQ_0_DoubleMu_5_3_SQ_OS_Mass_Max9,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+384,L1_DoubleMu8_SQ,,0,1,1,1,1,1,1,1,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-78
+385,L1_DoubleMu0_SQ,,0,430,600,290,320,245,190,120,65,32,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+386,L1_DoubleMu0_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+387,L1_DoubleMu4p5_SQ,,0,80,90,50,20,18,14,9,5,2,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+388,L1_DoubleMu4p5_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+389,L1_DoubleMu4p5er2p0_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+390,L1_DoubleMu0er1p5_SQ_OS,,0,0,0,0,80,65,51,35,20,10,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+391,L1_DoubleMu4_SQ_OS,,0,0,0,0,140,110,87,58,34,17,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+392,L1_DoubleMu5_SQ_OS,,0,0,0,0,0,0,0,0,0,0,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+393,L1_TripleMu_5_3p5_2p5,,0,55,40,35,7,5,4,2,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+394,L1_TripleMu0_OQ,L1_TripleMu0_Qopen,0,1300,1060,815,390,280,200,110,52,26,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+395,L1_TripleMu_5SQ_3SQ_0OQ,,0,40,35,27,12,9,7,3,1,1,x,PHY,BPH,Bphys: https://its.cern.ch/jira/browse/CMSLITDPG-96
+396,L1_Mu6_DoubleEG17,,0,1,1,1,1,1,1,1,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
+397,L1_DoubleMu7_EG7,,0,0,1,1,1,1,1,1,1,1,x,PHY,SMP,https://its.cern.ch/jira/browse/CMSLITDPG-81
 400,L1_IsolatedBunch,,110,110,110,110,110,110,110,110,110,110,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 401,L1_FirstBunchInTrain,,58403,58403,58403,58403,58403,58403,58403,58403,58403,58403,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 402,L1_FirstBunchAfterTrain,,58403,58403,58403,58403,58403,58403,58403,58403,58403,58403,x,,,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
