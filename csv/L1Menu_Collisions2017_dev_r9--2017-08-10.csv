@@ -304,7 +304,7 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 315,L1_DoubleMu0_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF60_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
 316,L1_DoubleMu0_ETMHF70_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF70_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
 317,L1_DoubleMu0_ETMHF80_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF80_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
-318,L1_DoubleMu3_SQ_ETMHF40_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF40_Jet60ORDiJet30,0,0,0,0,0,0,1,1,1,1,x,PHY,SUS,Susy:
+318,L1_DoubleMu3_SQ_ETMHF40_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF40_Jet60ORDiJet30,0,0,0,0,0,0,1,1,1,1,x,PHY,SUS,Susy: https://its.cern.ch/jira/browse/CMSHLT-1541
 319,L1_DoubleMu3_SQ_ETMHF50_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF50_Jet60ORDiJet30,0,0,0,0,1,1,1,1,1,1,x,PHY,SUS,Susy:
 320,L1_DoubleMu3_SQ_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF60_Jet60ORDiJet30,1,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 321,L1_DoubleMu3_SQ_ETMHF70_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF70_Jet60ORDiJet30,1,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
@@ -347,8 +347,8 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 358,L1_ETMHF100_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF100_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
 359,L1_ETMHF110_Jet90_OR_DoubleJet45_OR_TripleJet30,L1_ETMHF110_Jet90ORDiJet45orTriJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
 360,L1_DoubleMu7_SQ_EG7,,1,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Added by L1DPG
-361,L1_ETMHF80_HTT60er,L1_ETMHF80_HTT60,0,0,0,0,0,0,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
-362,L1_ETMHF90_HTT60er,L1_ETMHF90_HTT60,0,0,0,0,0,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
+361,L1_ETMHF80_HTT60er,L1_ETMHF80_HTT60,0,0,0,0,0,0,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134 https://its.cern.ch/jira/browse/CMSHLT-1541
+362,L1_ETMHF90_HTT60er,L1_ETMHF90_HTT60,0,0,0,0,0,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134 https://its.cern.ch/jira/browse/CMSHLT-1541
 363,L1_ETMHF100_HTT60er,L1_ETMHF100_HTT60,0,0,0,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
 364,L1_ETMHF110_HTT60er,L1_ETMHF110_HTT60,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
 365,L1_ETMHF120_HTT60er,L1_ETMHF120_HTT60,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,https://its.cern.ch/jira/browse/CMSLITDPG-134
