@@ -217,6 +217,8 @@
         <row>214,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleJet30_Mass_Min360_dEta_Max1p5 -->
         <row>215,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleJet30_Mass_Min380_dEta_Max1p5 -->
         <row>216,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min400_dEta_Max1p5 -->
+        <row>217,10,10,10,10,2,1,1,1,1</row> <!-- L1_DoubleMu0er2_SQ_dR_Max1p4 -->
+        <row>218,20,10,10,3,2,1,1,0,0</row> <!-- L1_DoubleMu0er1p5_SQ_dR_Max1p4 -->
         <row>220,0,0,0,0,0,0,0,0,0</row> <!-- L1_LooseIsoEG24er2p1_Jet26er3p0_dR_Min0p3 -->
         <row>221,0,0,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG26er2p1_Jet34er3p0_dR_Min0p3 -->
         <row>222,0,1,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG28er2p1_Jet34er3p0_dR_Min0p3 -->

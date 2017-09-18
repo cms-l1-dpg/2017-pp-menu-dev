@@ -210,6 +210,8 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 214,L1_DoubleJet30_Mass_Min360_dEta_Max1p5,,0,0,0,0,0,0,0,0,0,0,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
 215,L1_DoubleJet30_Mass_Min380_dEta_Max1p5,,0,0,0,0,0,0,0,0,0,0,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
 216,L1_DoubleJet30_Mass_Min400_dEta_Max1p5,,1,1,1,1,1,1,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-177
+217,L1_DoubleMu0er2_SQ_dR_Max1p4,,0,10,10,10,10,2,1,1,1,1,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-221
+218,L1_DoubleMu0er1p5_SQ_dR_Max1p4,,0,20,10,10,3,2,1,1,0,0,x,PHY,EXO,https://its.cern.ch/jira/browse/CMSLITDPG-221
 220,L1_LooseIsoEG24er2p1_Jet26er3p0_dR_Min0p3,L1_IsoEG24er_JetC26_dR_Min0p3 L1_IsoEG24er2p1_Jet26er3p0_dR_Min0p3,0,0,0,0,0,0,0,0,0,0,x,PHY,TOP,Top: https://its.cern.ch/jira/browse/CMSLITDPG-84
 221,L1_LooseIsoEG26er2p1_Jet34er3p0_dR_Min0p3,L1_IsoEG26er_JetC34_dR_Min0p3 L1_IsoEG26er2p1_Jet34er3p0_dR_Min0p3,0,0,0,1,1,1,1,1,1,1,x,PHY,TOP,Top: https://its.cern.ch/jira/browse/CMSLITDPG-84
 222,L1_LooseIsoEG28er2p1_Jet34er3p0_dR_Min0p3,L1_IsoEG28er_JetC34_dR_Min0p3 L1_IsoEG28er2p1_Jet34er3p0_dR_Min0p3,0,0,1,1,1,1,1,1,1,1,x,PHY,TOP,Top: https://its.cern.ch/jira/browse/CMSLITDPG-84
