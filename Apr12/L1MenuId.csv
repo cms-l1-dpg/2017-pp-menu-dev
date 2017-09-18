@@ -58,7 +58,7 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 60,L1_SingleEG36,,0,0,0,1,1,1,1,1,1,1,x,EG,BASE,slim:
 61,L1_SingleEG38,,0,0,1,1,1,1,1,1,1,1,x,EG,BASE,slim:
 62,L1_SingleEG40,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim:
-63,L1_SingleEG42,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+63,L1_SingleEG42,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
 64,L1_SingleEG45,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,AlCa: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 65,L1_SingleEG50,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
 66,L1_SingleEG34er2p1,L1_SingleEG34er,0,0,0,0,1,1,1,1,1,1,x,EG,BASE,slim:
@@ -73,9 +73,9 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 75,L1_SingleIsoEG30,,0,0,1,1,1,1,1,1,1,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 76,L1_SingleIsoEG32,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,HLT: /cdaq/physics/Run2016/25ns15e33/v4.2.3/HLT/V2
 77,L1_SingleIsoEG34,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim: additional
-78,L1_SingleIsoEG35,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
-79,L1_SingleIsoEG36,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim: additional
-80,L1_SingleIsoEG37,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+78,L1_SingleIsoEG35,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+79,L1_SingleIsoEG36,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim: additional
+80,L1_SingleIsoEG37,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
 81,L1_SingleIsoEG38,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim: additional
 82,L1_SingleIsoEG40,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
 83,L1_SingleIsoEG18er2p1,L1_SingleIsoEG18er,0,0,0,0,0,0,0,0,0,0,x,EG,BASE,Circulating
@@ -86,9 +86,9 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 88,L1_SingleIsoEG28er2p1,L1_SingleIsoEG28er,0,190,1,1,1,1,1,1,1,1,x,EG,BASE,75 Hz Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
 89,L1_SingleIsoEG30er2p1,L1_SingleIsoEG30er,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,75 Hz Top: https://its.cern.ch/jira/browse/CMSLITDPG-89
 90,L1_SingleIsoEG32er2p1,L1_SingleIsoEG32er,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim:
-91,L1_SingleIsoEG33er2p1,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
-92,L1_SingleIsoEG34er2p1,L1_SingleIsoEG34er,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim:
-93,L1_SingleIsoEG35er2p1,,0,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+91,L1_SingleIsoEG33er2p1,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
+92,L1_SingleIsoEG34er2p1,L1_SingleIsoEG34er,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim:
+93,L1_SingleIsoEG35er2p1,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
 94,L1_SingleIsoEG36er2p1,L1_SingleIsoEG36er,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,slim:
 95,L1_SingleIsoEG38er2p1,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
 96,L1_SingleIsoEG40er2p1,,1,1,1,1,1,1,1,1,1,1,x,EG,BASE,https://its.cern.ch/jira/browse/CMSLITDPG-144
@@ -306,7 +306,7 @@ id,name,proposed name,2.2,2.0,1.8,1.6,1.4,1.2,1.0,0.75,0.5,0.25,xml,POG,PAG,comm
 317,L1_DoubleMu0_ETMHF80_Jet60_OR_DoubleJet30,L1_DoubleMu0_ETMHF80_Jet60ORDiJet30,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
 318,L1_DoubleMu3_SQ_ETMHF40_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF40_Jet60ORDiJet30,0,0,0,0,0,0,1,1,1,1,x,PHY,SUS,Susy: https://its.cern.ch/jira/browse/CMSHLT-1541
 319,L1_DoubleMu3_SQ_ETMHF50_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF50_Jet60ORDiJet30,0,0,0,0,1,1,1,1,1,1,x,PHY,SUS,Susy:
-320,L1_DoubleMu3_SQ_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF60_Jet60ORDiJet30,1,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
+320,L1_DoubleMu3_SQ_ETMHF60_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF60_Jet60ORDiJet30,0,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 321,L1_DoubleMu3_SQ_ETMHF70_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF70_Jet60ORDiJet30,1,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 322,L1_DoubleMu3_SQ_ETMHF80_Jet60_OR_DoubleJet30,L1_DoubleMu3HighQual_ETMHF80_Jet60ORDiJet30,1,1,1,1,1,1,1,1,1,1,x,PHY,SUS,Susy:
 323,L1_DoubleMu3_SQ_HTT100er,L1_DoubleMu3HighQual_HTT100,0,0,0,0,0,0,0,0,0,0,x,PHY,SUS,Susy:
