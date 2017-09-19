@@ -23,5 +23,5 @@
 - [ ] Check compatibility of CMSSW release on DQM/O2O machines
 - [ ] Check compatibility of SWATCH cell
 - [ ] Prepare prescale sets for the new menu
-  * [ ] 2.0/1.8/1.6/1.4/1.2/0.75/0.5/0.25 x 10e34
+  * [ ] 2.2/2.0/1.8/1.6/1.4/1.2/0.75/0.5/0.25 x 10e34
 - [ ] Preper configuration/run-setting keys for the new menu
