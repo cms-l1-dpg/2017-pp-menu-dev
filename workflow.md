@@ -1,4 +1,4 @@
-## L1 menu development
+## L1 seed request
 - [ ] Set deadline for request of seeds in sync with HLT menu
 - [ ] Present the request at a meeting
   * [ ] prepare backup seeds for higher pileups
@@ -12,6 +12,8 @@
     * specifying target rates for monitoring seeds
       * [ ] create a ticket for  in "L1TMenuPrescaleSeeds" component
     * [ ] specify label for target HLT menu, e.g "HLTv3"
+
+## L1 menu development
 - [ ] Compile the seeds to create a full menu
   * [ ] Do not include any seeds which need new features not available in CMSSW release
 - [ ] Perform offline test
