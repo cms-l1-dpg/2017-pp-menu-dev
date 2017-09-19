@@ -393,6 +393,10 @@
         <row>398,55,40,35,7,5,4,2,1,1</row> <!-- L1_TripleMu_5_3p5_2p5 -->
         <row>399,1300,1060,815,390,280,200,110,52,26</row> <!-- L1_TripleMu0_OQ -->
         <row>400,40,35,27,12,9,7,3,1,1</row> <!-- L1_TripleMu_5SQ_3SQ_0OQ -->
+        <row>401,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu5Upsilon_OS_DoubleEG3 -->
+        <row>402,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu3_OS_DoubleEG7p5Upsilon -->
+        <row>403,0,0,0,0,0,0,0,0,0</row> <!-- L1_TripleMu_5OQ_3p5OQ_2p5OQ_DoubleMu_5_2p5_OQ_OS_Mass_8to14 -->
+        <row>404,0,0,0,0,0,0,0,0,0</row> <!-- L1_TripleMu_5OQ_3p5OQ_2p5OQ_DoubleMu_5_2p5_OQ_OS_Mass_5to17 -->
         <row>405,1,1,1,1,1,1,1,1,1</row> <!-- L1_Mu6_DoubleEG17 -->
         <row>406,0,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleMu7_EG7 -->
         <row>415,110,110,110,110,110,110,110,110,110</row> <!-- L1_IsolatedBunch -->
