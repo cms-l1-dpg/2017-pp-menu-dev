@@ -299,14 +299,14 @@
         <row>288,1</row> <!-- L1_DoubleJet_115_40_DoubleJet40_Mass_Min620 -->
         <row>289,1</row> <!-- L1_DoubleJet30_Mass_Min400_Mu6 -->
         <row>290,1</row> <!-- L1_DoubleJet30_Mass_Min400_Mu10 -->
-        <row>291,1</row> <!-- L1_LooseIsoEG18er2p1_IsoTau24er2p1_dR_Min0p3 -->
+        <row>291,0</row>
         <row>292,1</row> <!-- L1_DoubleJet35_rmovlp_IsoTau45_Mass_Min450 -->
-        <row>293,1</row> <!-- L1_LooseIsoEG20er2p1_IsoTau25er2p1_dR_Min0p3 -->
+        <row>293,0</row>
         <row>294,1</row> <!-- L1_LooseIsoEG22er2p1_IsoTau26er2p1_dR_Min0p3 -->
         <row>295,1</row> <!-- L1_LooseIsoEG24er2p1_IsoTau27er2p1_dR_Min0p3 -->
-        <row>296,1</row> <!-- L1_Mu16er2p1_Tau20er2p1 -->
-        <row>297,1</row> <!-- L1_Mu16er2p1_Tau24er2p1 -->
-        <row>298,1</row> <!-- L1_Mu18er2p1_Tau20er2p1 -->
+        <row>296,0</row>
+        <row>297,0</row>
+        <row>298,0</row>
         <row>299,1</row> <!-- L1_Mu18er2p1_Tau24er2p1 -->
         <row>300,1</row> <!-- L1_Mu22er2p1_Tau50er2p1 -->
         <row>301,1</row> <!-- L1_Mu22er2p1_Tau70er2p1 -->
@@ -326,11 +326,11 @@
         <row>315,1</row> <!-- L1_Mu6_HTT240er -->
         <row>316,1</row> <!-- L1_Mu6_HTT250er -->
         <row>317,1</row> <!-- L1_Mu15_HTT100er -->
-        <row>318,1</row> <!-- L1_DoubleMu0_ETMHF40_Jet60_OR_DoubleJet30 -->
-        <row>319,1</row> <!-- L1_DoubleMu0_ETMHF50_Jet60_OR_DoubleJet30 -->
-        <row>320,1</row> <!-- L1_DoubleMu0_ETMHF60_Jet60_OR_DoubleJet30 -->
-        <row>321,1</row> <!-- L1_DoubleMu0_ETMHF70_Jet60_OR_DoubleJet30 -->
-        <row>322,1</row> <!-- L1_DoubleMu0_ETMHF80_Jet60_OR_DoubleJet30 -->
+        <row>318,0</row>
+        <row>319,0</row>
+        <row>320,0</row>
+        <row>321,0</row>
+        <row>322,0</row>
         <row>323,1</row> <!-- L1_DoubleMu3_SQ_ETMHF40_Jet60_OR_DoubleJet30 -->
         <row>324,1</row> <!-- L1_DoubleMu3_SQ_ETMHF50_Jet60_OR_DoubleJet30 -->
         <row>325,1</row> <!-- L1_DoubleMu3_SQ_ETMHF60_Jet60_OR_DoubleJet30 -->
@@ -351,20 +351,20 @@
         <row>340,1</row> <!-- L1_DoubleEG8er2p6_HTT255er -->
         <row>341,1</row> <!-- L1_DoubleEG8er2p6_HTT270er -->
         <row>342,1</row> <!-- L1_DoubleEG8er2p6_HTT300er -->
-        <row>343,1</row> <!-- L1_ETMHF70_Jet60_OR_DoubleJet30 -->
-        <row>344,1</row> <!-- L1_ETMHF75_Jet60_OR_DoubleJet30 -->
-        <row>345,1</row> <!-- L1_ETMHF80_Jet60_OR_DoubleJet30 -->
-        <row>346,1</row> <!-- L1_ETMHF85_Jet60_OR_DoubleJet30 -->
-        <row>347,1</row> <!-- L1_ETMHF90_Jet60_OR_DoubleJet30 -->
-        <row>348,1</row> <!-- L1_ETMHF95_Jet60_OR_DoubleJet30 -->
+        <row>343,0</row>
+        <row>344,0</row>
+        <row>345,0</row>
+        <row>346,0</row>
+        <row>347,0</row>
+        <row>348,0</row>
         <row>349,1</row> <!-- L1_ETMHF100_Jet60_OR_DoubleJet30 -->
-        <row>350,1</row> <!-- L1_ETMHF105_Jet60_OR_DoubleJet30 -->
-        <row>351,1</row> <!-- L1_ETMHF110_Jet60_OR_DoubleJet30 -->
-        <row>352,1</row> <!-- L1_ETMHF115_Jet60_OR_DoubleJet30 -->
-        <row>353,1</row> <!-- L1_ETMHF120_Jet60_OR_DoubleJet30 -->
-        <row>354,1</row> <!-- L1_ETMHF70_Jet60_OR_DiJet30woTT28 -->
-        <row>355,1</row> <!-- L1_ETMHF80_Jet60_OR_DiJet30woTT28 -->
-        <row>356,1</row> <!-- L1_ETMHF90_Jet60_OR_DiJet30woTT28 -->
+        <row>350,0</row>
+        <row>351,0</row>
+        <row>352,0</row>
+        <row>353,0</row>
+        <row>354,0</row>
+        <row>355,0</row>
+        <row>356,0</row>
         <row>357,1</row> <!-- L1_ETMHF100_Jet60_OR_DiJet30woTT28 -->
         <row>358,1</row> <!-- L1_ETMHF110_Jet60_OR_DiJet30woTT28 -->
         <row>359,1</row> <!-- L1_ETMHF120_Jet60_OR_DiJet30woTT28 -->
@@ -445,8 +445,8 @@
         <row>434,1</row> <!-- L1_DoubleMu0_ETM60 -->
         <row>435,1</row> <!-- L1_DoubleMu0_ETM65 -->
         <row>436,1</row> <!-- L1_DoubleMu0_ETM70 -->
-        <row>437,1</row> <!-- L1_Jet32_DoubleMu_10_0_dPhi_Jet_Mu0_Max0p4_dPhi_Mu_Mu_Min1p0 -->
-        <row>438,1</row> <!-- L1_Jet32_Mu0_EG10_dPhi_Jet_Mu_Max0p4_dPhi_Mu_EG_Min1p0 -->
+        <row>437,0</row>
+        <row>438,0</row>
         <row>439,1</row> <!-- L1_DoubleEG6_HTT255er -->
         <row>440,1</row> <!-- L1_DoubleMu0er1p4_dEta_Max1p8_OS -->
         <row>441,1</row> <!-- L1_DoubleMu_10_0_dEta_Max1p8 -->
@@ -498,27 +498,27 @@
         <row>487,1</row> <!-- L1_LastCollisionInTrain -->
         <row>488,1</row> <!-- L1_FirstCollisionInTrain -->
         <row>489,0</row>
-        <row>490,1</row> <!-- L1_CDC_3_TOP120_DPHI1p570_3p142 -->
-        <row>491,1</row> <!-- L1_CDC_3_TOP120_DPHI2p094_3p142 -->
-        <row>492,1</row> <!-- L1_CDC_3_TOP120_DPHI2p618_3p142 -->
-        <row>493,1</row> <!-- L1_CDC_3_TOP_DPHI2p618_3p142 -->
-        <row>494,1</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI1p570_3p142 -->
-        <row>495,1</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI2p094_3p142 -->
-        <row>496,1</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI2p618_3p142 -->
-        <row>497,1</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI1p570_3p142 -->
-        <row>498,1</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI2p094_3p142 -->
-        <row>499,1</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI2p618_3p142 -->
-        <row>500,1</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI1p570_3p142 -->
-        <row>501,1</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI2p094_3p142 -->
-        <row>502,1</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI2p618_3p142 -->
-        <row>503,1</row> <!-- L1_CDC_SingleMu_3_TOP120_DPHI2p618_3p142 -->
+        <row>490,0</row>
+        <row>491,0</row>
+        <row>492,0</row>
+        <row>493,0</row>
+        <row>494,0</row>
+        <row>495,0</row>
+        <row>496,0</row>
+        <row>497,0</row>
+        <row>498,0</row>
+        <row>499,0</row>
+        <row>500,0</row>
+        <row>501,0</row>
+        <row>502,0</row>
+        <row>503,0</row>
         <row>504,1</row> <!-- L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p142 -->
-        <row>505,1</row> <!-- L1_CDC_SingleMu_3_er1p6_TOP120_DPHI2p618_3p142 -->
-        <row>506,1</row> <!-- L1_CDC_SingleMu_3_er2p1_TOP120_DPHI2p618_3p142 -->
-        <row>507,1</row> <!-- L1_CDCp1_3_TOP120_DPHI2p618_3p142 -->
-        <row>508,1</row> <!-- L1_CDCp1_3_er1p2_TOP120_DPHI2p618_3p142 -->
-        <row>509,1</row> <!-- L1_CDCp1_3_er1p6_TOP120_DPHI2p618_3p142 -->
-        <row>510,1</row> <!-- L1_CDCp1_3_er2p1_TOP120_DPHI2p618_3p142 -->
+        <row>505,0</row>
+        <row>506,0</row>
+        <row>507,0</row>
+        <row>508,0</row>
+        <row>509,0</row>
+        <row>510,0</row>
         <row>511,0</row>
       </rows>
     </param>

@@ -221,7 +221,7 @@
         <row>220,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleJet30_Mass_Min380_dEta_Max1p5 -->
         <row>221,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet30_Mass_Min400_dEta_Max1p5 -->
         <row>222,10,10,10,10,2,1,1,1,1</row> <!-- L1_DoubleMu0er2_SQ_dR_Max1p4 -->
-        <row>223,20,10,10,3,2,1,1,0,0</row> <!-- L1_DoubleMu0er1p5_SQ_dR_Max1p4 -->
+        <row>223,20,10,10,3,2,1,1,1,1</row> <!-- L1_DoubleMu0er1p5_SQ_dR_Max1p4 -->
         <row>225,0,0,0,0,0,0,0,0,0</row> <!-- L1_LooseIsoEG24er2p1_Jet26er2p7_dR_Min0p3 -->
         <row>226,0,0,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG26er2p1_Jet34er2p7_dR_Min0p3 -->
         <row>227,0,1,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG28er2p1_Jet34er2p7_dR_Min0p3 -->
@@ -288,14 +288,9 @@
         <row>288,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleJet_115_40_DoubleJet40_Mass_Min620 -->
         <row>289,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleJet30_Mass_Min400_Mu6 -->
         <row>290,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleJet30_Mass_Min400_Mu10 -->
-        <row>291,0,0,0,0,0,0,0,0,0</row> <!-- L1_LooseIsoEG18er2p1_IsoTau24er2p1_dR_Min0p3 -->
         <row>292,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleJet35_rmovlp_IsoTau45_Mass_Min450 -->
-        <row>293,0,0,0,0,0,0,0,0,0</row> <!-- L1_LooseIsoEG20er2p1_IsoTau25er2p1_dR_Min0p3 -->
         <row>294,1,1,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG22er2p1_IsoTau26er2p1_dR_Min0p3 -->
         <row>295,1,1,1,1,1,1,1,1,1</row> <!-- L1_LooseIsoEG24er2p1_IsoTau27er2p1_dR_Min0p3 -->
-        <row>296,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu16er2p1_Tau20er2p1 -->
-        <row>297,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu16er2p1_Tau24er2p1 -->
-        <row>298,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu18er2p1_Tau20er2p1 -->
         <row>299,1,1,1,1,1,1,1,1,1</row> <!-- L1_Mu18er2p1_Tau24er2p1 -->
         <row>300,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu22er2p1_Tau50er2p1 -->
         <row>301,1,1,1,1,1,1,1,1,1</row> <!-- L1_Mu22er2p1_Tau70er2p1 -->
@@ -313,11 +308,6 @@
         <row>315,1,1,1,1,1,1,1,1,1</row> <!-- L1_Mu6_HTT240er -->
         <row>316,1,1,1,1,1,1,1,1,1</row> <!-- L1_Mu6_HTT250er -->
         <row>317,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu15_HTT100er -->
-        <row>318,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETMHF40_Jet60_OR_DoubleJet30 -->
-        <row>319,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETMHF50_Jet60_OR_DoubleJet30 -->
-        <row>320,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETMHF60_Jet60_OR_DoubleJet30 -->
-        <row>321,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETMHF70_Jet60_OR_DoubleJet30 -->
-        <row>322,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETMHF80_Jet60_OR_DoubleJet30 -->
         <row>323,0,0,0,0,0,1,1,1,1</row> <!-- L1_DoubleMu3_SQ_ETMHF40_Jet60_OR_DoubleJet30 -->
         <row>324,0,0,0,1,1,1,1,1,1</row> <!-- L1_DoubleMu3_SQ_ETMHF50_Jet60_OR_DoubleJet30 -->
         <row>325,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleMu3_SQ_ETMHF60_Jet60_OR_DoubleJet30 -->
@@ -334,24 +324,11 @@
         <row>336,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleEG6_HTT240er -->
         <row>337,0,0,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG6_HTT250er -->
         <row>338,0,0,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG6_HTT270er -->
-        <row>339,0,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG6_HTT300er -->
+        <row>339,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG6_HTT300er -->
         <row>340,0,0,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG8er2p6_HTT255er -->
         <row>341,0,0,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG8er2p6_HTT270er -->
         <row>342,1,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG8er2p6_HTT300er -->
-        <row>343,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF70_Jet60_OR_DoubleJet30 -->
-        <row>344,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF75_Jet60_OR_DoubleJet30 -->
-        <row>345,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF80_Jet60_OR_DoubleJet30 -->
-        <row>346,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF85_Jet60_OR_DoubleJet30 -->
-        <row>347,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF90_Jet60_OR_DoubleJet30 -->
-        <row>348,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF95_Jet60_OR_DoubleJet30 -->
         <row>349,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF100_Jet60_OR_DoubleJet30 -->
-        <row>350,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF105_Jet60_OR_DoubleJet30 -->
-        <row>351,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF110_Jet60_OR_DoubleJet30 -->
-        <row>352,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF115_Jet60_OR_DoubleJet30 -->
-        <row>353,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF120_Jet60_OR_DoubleJet30 -->
-        <row>354,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF70_Jet60_OR_DiJet30woTT28 -->
-        <row>355,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF80_Jet60_OR_DiJet30woTT28 -->
-        <row>356,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF90_Jet60_OR_DiJet30woTT28 -->
         <row>357,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF100_Jet60_OR_DiJet30woTT28 -->
         <row>358,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF110_Jet60_OR_DiJet30woTT28 -->
         <row>359,0,0,0,0,0,0,0,0,0</row> <!-- L1_ETMHF120_Jet60_OR_DiJet30woTT28 -->
@@ -400,8 +377,8 @@
         <row>405,1,1,1,1,1,1,1,1,1</row> <!-- L1_Mu6_DoubleEG17 -->
         <row>406,0,1,1,1,1,1,1,1,1</row> <!-- L1_DoubleMu7_EG7 -->
         <row>415,110,110,110,110,110,110,110,110,110</row> <!-- L1_IsolatedBunch -->
-        <row>416,58403,58403,58403,58403,58403,58403,58403,58403,58403</row> <!-- L1_FirstBunchInTrain -->
-        <row>417,58403,58403,58403,58403,58403,58403,58403,58403,58403</row> <!-- L1_FirstBunchAfterTrain -->
+        <row>416,269167,269167,269167,269167,269167,269167,269167,269167,269167</row> <!-- L1_FirstBunchInTrain -->
+        <row>417,269167,269167,269167,269167,269167,269167,269167,269167,269167</row> <!-- L1_FirstBunchAfterTrain -->
         <row>418,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu5_EG15 -->
         <row>419,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu5_EG20 -->
         <row>420,0,1,1,1,1,1,1,1,1</row> <!-- L1_Mu5_LooseIsoEG18 -->
@@ -421,12 +398,10 @@
         <row>434,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETM60 -->
         <row>435,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETM65 -->
         <row>436,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0_ETM70 -->
-        <row>437,0,0,0,0,0,0,0,0,0</row> <!-- L1_Jet32_DoubleMu_10_0_dPhi_Jet_Mu0_Max0p4_dPhi_Mu_Mu_Min1p0 -->
-        <row>438,0,0,0,0,0,0,0,0,0</row> <!-- L1_Jet32_Mu0_EG10_dPhi_Jet_Mu_Max0p4_dPhi_Mu_EG_Min1p0 -->
         <row>439,0,0,1,1,1,1,1,1,1</row> <!-- L1_DoubleEG6_HTT255er -->
         <row>440,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu0er1p4_dEta_Max1p8_OS -->
         <row>441,0,0,0,0,0,0,0,0,0</row> <!-- L1_DoubleMu_10_0_dEta_Max1p8 -->
-        <row>442,0,0,0,0,0,0,0,0,0</row> <!-- L1_Mu6_DoubleEG10 -->
+        <row>442,0,0,0,1,1,1,1,1,1</row> <!-- L1_Mu6_DoubleEG10 -->
         <row>443,2000,1700,1400,1100,850,660,440,260,130</row> <!-- L1_Mu3_Jet16er2p7_dEta_Max0p4_dPhi_Max0p4 -->
         <row>444,60,50,45,35,30,25,17,11,6</row> <!-- L1_Mu3_Jet60er2p7_dEta_Max0p4_dPhi_Max0p4 -->
         <row>445,1,1,1,1,1,1,1,1,1</row> <!-- L1_Mu3_Jet120er2p7_dEta_Max0p4_dPhi_Max0p4 -->
@@ -455,7 +430,7 @@
         <row>470,0,0,0,0,0,0,0,0,0</row> <!-- L1_BPTX_BeamGas_Ref2_VME -->
         <row>471,0,0,0,0,0,0,0,0,0</row> <!-- L1_BPTX_BeamGas_B1_VME -->
         <row>472,0,0,0,0,0,0,0,0,0</row> <!-- L1_BPTX_BeamGas_B2_VME -->
-        <row>473,16493,16493,9343,9343,9343,9343,9343,9343,9343</row> <!-- L1_ZeroBias -->
+        <row>473,12457,12457,7193,7193,7193,7193,7193,7193,7193</row> <!-- L1_ZeroBias -->
         <row>474,0,0,0,0,0,0,0,0,0</row> <!-- L1_BptxPlus -->
         <row>475,0,0,0,0,0,0,0,0,0</row> <!-- L1_BptxMinus -->
         <row>476,0,0,0,0,0,0,0,0,0</row> <!-- L1_BptxOR -->
@@ -469,29 +444,9 @@
         <row>484,1103,1103,1103,1103,1103,1103,1103,1103,1103</row> <!-- L1_FirstCollisionInOrbit -->
         <row>485,0,0,0,0,0,0,0,0,0</row> <!-- L1_BPTX_AND_Ref4_VME -->
         <row>486,0,0,0,0,0,0,0,0,0</row> <!-- L1_BPTX_OR_Ref4_VME -->
-        <row>487,58403,58403,58403,58403,58403,58403,58403,58403,58403</row> <!-- L1_LastCollisionInTrain -->
-        <row>488,58403,58403,58403,58403,58403,58403,58403,58403,58403</row> <!-- L1_FirstCollisionInTrain -->
-        <row>490,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_TOP120_DPHI1p570_3p142 -->
-        <row>491,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_TOP120_DPHI2p094_3p142 -->
-        <row>492,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_TOP120_DPHI2p618_3p142 -->
-        <row>493,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_TOP_DPHI2p618_3p142 -->
-        <row>494,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI1p570_3p142 -->
-        <row>495,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI2p094_3p142 -->
-        <row>496,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er1p2_TOP120_DPHI2p618_3p142 -->
-        <row>497,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI1p570_3p142 -->
-        <row>498,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI2p094_3p142 -->
-        <row>499,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er1p6_TOP120_DPHI2p618_3p142 -->
-        <row>500,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI1p570_3p142 -->
-        <row>501,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI2p094_3p142 -->
-        <row>502,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_3_er2p1_TOP120_DPHI2p618_3p142 -->
-        <row>503,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_SingleMu_3_TOP120_DPHI2p618_3p142 -->
+        <row>487,269167,269167,269167,269167,269167,269167,269167,269167,269167</row> <!-- L1_LastCollisionInTrain -->
+        <row>488,269167,269167,269167,269167,269167,269167,269167,269167,269167</row> <!-- L1_FirstCollisionInTrain -->
         <row>504,190,160,125,100,70,50,28,13,6</row> <!-- L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p142 -->
-        <row>505,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_SingleMu_3_er1p6_TOP120_DPHI2p618_3p142 -->
-        <row>506,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDC_SingleMu_3_er2p1_TOP120_DPHI2p618_3p142 -->
-        <row>507,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDCp1_3_TOP120_DPHI2p618_3p142 -->
-        <row>508,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDCp1_3_er1p2_TOP120_DPHI2p618_3p142 -->
-        <row>509,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDCp1_3_er1p6_TOP120_DPHI2p618_3p142 -->
-        <row>510,0,0,0,0,0,0,0,0,0</row> <!-- L1_CDCp1_3_er2p1_TOP120_DPHI2p618_3p142 -->
       </rows>
     </param>
   </context>
