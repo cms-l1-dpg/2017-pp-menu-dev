@@ -138,8 +138,8 @@ https://indico.cern.ch/event/623817/
 ---
 ### L1Menu_Collisions2017_dev_r10 [2017-10-04]
 ---
-  * [csv](https://github.com/cms-l1-dpg/2017-pp-menu-dev/blob/5d9071de504a8951b6f8858f6bb9a434ca3f3a9f/Apr12/L1MenuId.csv)
-  * [xml](https://raw.githubusercontent.com/cms-l1-dpg/2017-pp-menu-dev/5d9071de504a8951b6f8858f6bb9a434ca3f3a9f/Apr12/L1Menu_Collisions2017_dev_r10.xml)
+  * [csv](https://github.com/cms-l1-dpg/2017-pp-menu-dev/blob/2017-10-04/Apr12/L1MenuId.csv)
+  * [xml](https://raw.githubusercontent.com/cms-l1-dpg/2017-pp-menu-dev/2017-10-04/Apr12/L1Menu_Collisions2017_dev_r10.xml)
     * updates from L1Menu_Collisions2017_dev_r9
 ```
         add
